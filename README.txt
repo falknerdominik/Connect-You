@@ -1,4 +1,4 @@
-*******************************************************************************
+﻿*******************************************************************************
 $Id: README.txt 2388 2011-01-25 20:16:42Z ohader $
 *******************************************************************************
 
@@ -188,3 +188,6 @@ Your funds will also serve for other purposes as laid out in the bylaws.
            A few additions & modifications made by Michael Stucki,
            Oliver Hader, Ben van 't Ende and others
 ===============================================================================
+
+
+also bei mir gehts jetzt lg valentin Dorfer
