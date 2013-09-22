@@ -189,5 +189,3 @@ Your funds will also serve for other purposes as laid out in the bylaws.
            Oliver Hader, Ben van 't Ende and others
 ===============================================================================
 
-
-also bei mir gehts jetzt lg valentin Dorfer
