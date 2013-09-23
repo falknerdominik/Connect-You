@@ -617,6 +617,14 @@ return array (
     'typo3\\cms\\extbase\\validation\\validator\\abstractcompositevalidator' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Validation/Validator/AbstractCompositeValidator.php',
     'typo3\\cms\\extbase\\validation\\validator\\stringvalidator' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Validation/Validator/StringValidator.php',
     'typo3\\cms\\core\\utility\\httputility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/HttpUtility.php',
+    'typo3\\cms\\core\\utility\\rootlineutility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/RootlineUtility.php',
+    'typo3\\cms\\extbase\\domain\\model\\backenduser' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Domain/Model/BackendUser.php',
+    'typo3\\cms\\extbase\\persistence\\generic\\qom\\logicalor' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/LogicalOr.php',
+    'typo3\\cms\\extbase\\persistence\\generic\\qom\\orinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/OrInterface.php',
+    'typo3\\cms\\fluid\\viewhelpers\\format\\dateviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/ViewHelpers/Format/DateViewHelper.php',
+    'typo3\\cms\\sysnote\\viewhelpers\\editlinkviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/sys_note/Classes/ViewHelpers/EditLinkViewHelper.php',
+    'typo3\\cms\\fluid\\viewhelpers\\format\\nl2brviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/ViewHelpers/Format/Nl2brViewHelper.php',
+    'typo3\\cms\\extbase\\persistence\\generic\\qom\\queryobjectmodelconstantsinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/QueryObjectModelConstantsInterface.php',
   ),
   1 => 
   array (
