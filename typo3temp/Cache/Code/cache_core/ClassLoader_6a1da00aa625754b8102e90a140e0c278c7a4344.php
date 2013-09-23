@@ -533,6 +533,13 @@ return array (
     'typo3\\cms\\core\\utility\\clientutility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/ClientUtility.php',
     'typo3\\cms\\core\\resource\\resourcecompressor' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Resource/ResourceCompressor.php',
     'typo3\\cms\\core\\utility\\httputility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/HttpUtility.php',
+    'typo3\\cms\\backend\\module\\basescriptclass' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/backend/Classes/Module/BaseScriptClass.php',
+    'typo3\\cms\\backend\\module\\abstractfunctionmodule' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/backend/Classes/Module/AbstractFunctionModule.php',
+    'typo3\\cms\\tstemplateinfo\\controller\\typoscripttemplateinformationmodulefunctioncontroller' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/tstemplate_info/Classes/Controller/TypoScriptTemplateInformationModuleFunctionController.php',
+    'typo3\\cms\\core\\localization\\parser\\xliffparser' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Localization/Parser/XliffParser.php',
+    'typo3\\cms\\core\\localization\\parser\\abstractxmlparser' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Localization/Parser/AbstractXmlParser.php',
+    'typo3\\cms\\core\\localization\\parser\\localizationparserinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Localization/Parser/LocalizationParserInterface.php',
+    'typo3\\cms\\core\\typoscript\\extendedtemplateservice' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/TypoScript/ExtendedTemplateService.php',
   ),
   1 => 
   array (
