@@ -626,6 +626,7 @@ return array (
     'typo3\\cms\\sysnote\\viewhelpers\\editlinkviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/sys_note/Classes/ViewHelpers/EditLinkViewHelper.php',
     'typo3\\cms\\fluid\\viewhelpers\\format\\nl2brviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/ViewHelpers/Format/Nl2brViewHelper.php',
     'typo3\\cms\\extbase\\persistence\\generic\\qom\\queryobjectmodelconstantsinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/QueryObjectModelConstantsInterface.php',
+    'typo3\\cms\\fluid\\core\\compiler\\abstractcompiledtemplate' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/Core/Compiler/AbstractCompiledTemplate.php',
   ),
   1 => 
   array (
