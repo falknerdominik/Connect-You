@@ -533,9 +533,6 @@ return array (
     'typo3\\cms\\core\\utility\\clientutility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/ClientUtility.php',
     'typo3\\cms\\core\\resource\\resourcecompressor' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Resource/ResourceCompressor.php',
     'typo3\\cms\\core\\utility\\httputility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/HttpUtility.php',
-    'typo3\\cms\\backend\\module\\basescriptclass' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/backend/Classes/Module/BaseScriptClass.php',
-    'typo3\\cms\\backend\\module\\abstractfunctionmodule' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/backend/Classes/Module/AbstractFunctionModule.php',
-    'typo3\\cms\\tstemplateinfo\\controller\\typoscripttemplateinformationmodulefunctioncontroller' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/tstemplate_info/Classes/Controller/TypoScriptTemplateInformationModuleFunctionController.php',
   ),
   1 => 
   array (
