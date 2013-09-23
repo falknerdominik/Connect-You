@@ -534,6 +534,7 @@ return array (
     'typo3\\cms\\core\\extdirect\\extdirectapi' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/ExtDirect/ExtDirectApi.php',
     'typo3\\cms\\core\\utility\\clientutility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/ClientUtility.php',
     'typo3\\cms\\core\\resource\\resourcecompressor' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Resource/ResourceCompressor.php',
+    'typo3\\cms\\core\\utility\\httputility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/HttpUtility.php',
   ),
   1 => 
   array (
