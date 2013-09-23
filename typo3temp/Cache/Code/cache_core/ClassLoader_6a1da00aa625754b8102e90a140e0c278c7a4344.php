@@ -633,6 +633,12 @@ return array (
     'typo3\\cms\\core\\typoscript\\extendedtemplateservice' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/TypoScript/ExtendedTemplateService.php',
     'typo3\\cms\\core\\messaging\\flashmessage' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Messaging/FlashMessage.php',
     'typo3\\cms\\core\\messaging\\abstractmessage' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Messaging/AbstractMessage.php',
+    'typo3\\cms\\core\\datahandling\\datahandler' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/DataHandling/DataHandler.php',
+    'typo3\\cms\\core\\cache\\backend\\transientmemorybackend' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Cache/Backend/TransientMemoryBackend.php',
+    'typo3\\cms\\core\\html\\rtehtmlparser' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Html/RteHtmlParser.php',
+    'typo3\\cms\\core\\database\\softreferenceindex' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Database/SoftReferenceIndex.php',
+    'typo3\\cms\\core\\database\\relationhandler' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Database/RelationHandler.php',
+    'typo3\\cms\\lang\\languagecacheclearer' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/lang/Classes/LanguageCacheClearer.php',
   ),
   1 => 
   array (
