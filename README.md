@@ -6,3 +6,4 @@ Gruppenmitglieder:
 	Lucas Dikany
 	Martin Peneder
 	Christoph Filz
+	hallo foikna
