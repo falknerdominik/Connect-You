@@ -619,6 +619,7 @@ return array (
     'typo3\\cms\\core\\utility\\httputility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/HttpUtility.php',
     'typo3\\cms\\core\\utility\\rootlineutility' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Utility/RootlineUtility.php',
     'typo3\\cms\\extbase\\domain\\model\\backenduser' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Domain/Model/BackendUser.php',
+    'typo3\\cms\\sysnote\\domain\\model\\sysnote' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/sys_note/Classes/Domain/Model/SysNote.php',
     'typo3\\cms\\extbase\\persistence\\generic\\qom\\logicalor' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/LogicalOr.php',
     'typo3\\cms\\extbase\\persistence\\generic\\qom\\orinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/OrInterface.php',
     'typo3\\cms\\fluid\\viewhelpers\\format\\dateviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/ViewHelpers/Format/DateViewHelper.php',
