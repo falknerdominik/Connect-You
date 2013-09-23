@@ -6,4 +6,4 @@ TYPO3 will automatically lock the Install Tool after one hour.</p>";s:6:"target
 <p>To unlock the Install Tool, an empty file with the name ENABLE_INSTALL_TOOL must be created in typo3conf/.</p>
 <p>By hitting the button below, this file is created for you and the Install Tool will be unlocked.</p>
 <p>You are recommended to log out from the Install Tool after finishing your work. Otherwise
-TYPO3 will automatically lock the Install Tool after one hour.</p>";}}s:30:"confirmUnlockInstallToolButton";a:1:{i:0;a:2:{s:6:"source";s:24:"Unlock the Install Tool";s:6:"target";s:24:"Unlock the Install Tool";}}}1379772401    1892      
+TYPO3 will automatically lock the Install Tool after one hour.</p>";}}s:30:"confirmUnlockInstallToolButton";a:1:{i:0;a:2:{s:6:"source";s:24:"Unlock the Install Tool";s:6:"target";s:24:"Unlock the Install Tool";}}}1379930908    1892      
