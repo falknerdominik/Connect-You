@@ -540,6 +540,7 @@ return array (
     'typo3\\cms\\core\\localization\\parser\\abstractxmlparser' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Localization/Parser/AbstractXmlParser.php',
     'typo3\\cms\\core\\localization\\parser\\localizationparserinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Localization/Parser/LocalizationParserInterface.php',
     'typo3\\cms\\core\\typoscript\\extendedtemplateservice' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/TypoScript/ExtendedTemplateService.php',
+    'typo3\\cms\\tstemplateceditor\\controller\\typoscripttemplateconstanteditormodulefunctioncontroller' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/tstemplate_ceditor/Classes/Controller/TypoScriptTemplateConstantEditorModuleFunctionController.php',
   ),
   1 => 
   array (
