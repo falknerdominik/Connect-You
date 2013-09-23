@@ -627,6 +627,12 @@ return array (
     'typo3\\cms\\fluid\\viewhelpers\\format\\nl2brviewhelper' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/ViewHelpers/Format/Nl2brViewHelper.php',
     'typo3\\cms\\extbase\\persistence\\generic\\qom\\queryobjectmodelconstantsinterface' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/extbase/Classes/Persistence/Generic/Qom/QueryObjectModelConstantsInterface.php',
     'typo3\\cms\\fluid\\core\\compiler\\abstractcompiledtemplate' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/fluid/Classes/Core/Compiler/AbstractCompiledTemplate.php',
+    'typo3\\cms\\backend\\module\\basescriptclass' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/backend/Classes/Module/BaseScriptClass.php',
+    'typo3\\cms\\backend\\module\\abstractfunctionmodule' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/backend/Classes/Module/AbstractFunctionModule.php',
+    'typo3\\cms\\tstemplateceditor\\controller\\typoscripttemplateconstanteditormodulefunctioncontroller' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/tstemplate_ceditor/Classes/Controller/TypoScriptTemplateConstantEditorModuleFunctionController.php',
+    'typo3\\cms\\core\\typoscript\\extendedtemplateservice' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/TypoScript/ExtendedTemplateService.php',
+    'typo3\\cms\\core\\messaging\\flashmessage' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Messaging/FlashMessage.php',
+    'typo3\\cms\\core\\messaging\\abstractmessage' => '/Users/falkner_d2/Sites/Connect-You/typo3/sysext/core/Classes/Messaging/AbstractMessage.php',
   ),
   1 => 
   array (
