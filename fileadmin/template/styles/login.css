@@ -21,7 +21,7 @@ body, html {
 }
 
 html{
-	background: radial-gradient(red, yellow, #009FE4);
+	background: radial-gradient(red, #009FE4);
     background-size: 100%;
     background-repeat: no-repeat;
 }
