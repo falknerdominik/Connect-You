@@ -42,12 +42,13 @@ img {
 .tx-felogin-pi1 { /* Gesammtes Login-Formular */
     margin: 0 auto;
     width: 16em;
-}
-
-.tx-felogin-pi1 form {
     -webkit-border-image:url(../images/formularborder.png) 30 30 round; /* Safari 5 */
     -o-border-image:url(../images/formularborder.png) 30 30 round; /* Opera */
     border-image:url(../images/formularborder.png) 30 30 round;
+}
+
+.tx-felogin-pi1 form {
+
     background-color: #ECF0F1;
     height: 7em;
     padding: 1em;
