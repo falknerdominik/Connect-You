@@ -78,7 +78,7 @@ img {
 }
 
 input:-webkit-autofill {
-    color: white !important;
+    color: #fff !important;
 }
 
 input[type="submit"] {
