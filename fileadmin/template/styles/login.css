@@ -40,12 +40,12 @@ img {
 }
 
 .tx-felogin-pi1 { /* Gesammtes Login-Formular */
-    width: 20em;
-    height: 15em;
     margin: 0 auto;
 }
 
 form {
     background-color: white;
+    height: 10em;
+    width: 10em;
 }
 
