@@ -78,8 +78,7 @@ img {
 }
 
 input:-webkit-autofill {
-    -webkit-box-shadow: 0 0 0px 1000px white inset;
-    background: url('../images/Passwort_Icon.png') no-repeat scroll right center #FFFFFF;
+    -webkit-box-shadow: 0 0 0px 10px white inset;
 }
 
 input[type="submit"] {
