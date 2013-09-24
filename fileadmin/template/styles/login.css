@@ -12,7 +12,11 @@
 
 
 body, html {
-    background: radial-gradient(red, yellow, rgb(30, 144, 255));
+	height: 100%;
+}
+
+html{
+	background: radial-gradient(red, yellow, rgb(30, 144, 255));
     background-size: 100%;
     background-repeat: no-repeat;
 }
