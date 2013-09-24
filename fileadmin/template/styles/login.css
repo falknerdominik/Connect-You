@@ -12,11 +12,13 @@
 
 
 body {
-    background: radial-gradient(center,
-    circle farthest-corner,
-    yellow 0%,
-    blue 25%,
-    white 75%);
+    background-image: linear-gradient(left,
+    purple,
+    blue,
+    green,
+    yellow,
+    red,
+    purple);
 }
 
 
