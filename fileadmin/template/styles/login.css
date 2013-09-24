@@ -59,7 +59,7 @@ img {
     border: none;
     border-radius: 0.4em;
     outline-color: #009FE3;
-    background: url('../images/Anmelden_Icon.png') no-repeat scroll right center red;
+    background: url('../images/Anmelden_Icon.png') no-repeat scroll right center #FFFFFF;
 }
 
 .tx-felogin-pi1 form  #pass {
