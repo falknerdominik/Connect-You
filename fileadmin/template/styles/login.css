@@ -13,8 +13,8 @@
 
 body {
     background: radial-gradient(center,
-    ellipse closest-side,
-    yellow 10%,
+    circle farthest-corner,
+    yellow 0%,
     blue 25%,
     white 75%);
 }
