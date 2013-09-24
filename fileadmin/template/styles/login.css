@@ -71,6 +71,8 @@ img {
     border: none;
     border-radius: 0.4em;
     outline-color: #009FE3;
+    background: url('../images/Passwort_Icon.png') no-repeat scroll right center #FFFFFF;
+    background-size: 40px 40px;
 }
 
 input[type="submit"] {
