@@ -15,7 +15,7 @@
 .tx-felogin-pi1 h3 { 
 	display: none;
 }
-.tx-felogin-pi1 div:first {
+.tx-felogin-pi1 div:first-child {
 	display: none;
 }
 
