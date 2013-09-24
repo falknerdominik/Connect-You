@@ -46,5 +46,6 @@ img {
 
 form {
     background-image: url("../images/Login_Hintergrund.png");
+    background-size: 100% 100%;
 }
 

@@ -5,7 +5,7 @@
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380025061839" ignored="false" />
-    <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380026828629" ignored="false" />
+    <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380026932801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="61" selection-start="745" selection-end="745" vertical-scroll-proportion="0.88609713">
+            <state line="48" column="31" selection-start="777" selection-end="777" vertical-scroll-proportion="0.91457283">
               <folding />
             </state>
           </provider>
@@ -158,6 +158,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fileadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -314,7 +336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="61" selection-start="745" selection-end="745" vertical-scroll-proportion="0.88609713">
+        <state line="48" column="31" selection-start="777" selection-end="777" vertical-scroll-proportion="0.91457283">
           <folding />
         </state>
       </provider>
