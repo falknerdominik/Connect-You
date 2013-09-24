@@ -44,10 +44,9 @@ img {
     width: 16em;
 }
 
-form {
+.tx-felogin-pi1 form {
     background-color: white;
     height: 6em;
-
     padding: 1em;
 }
 
