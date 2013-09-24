@@ -39,7 +39,8 @@ img {
 }
 
 .tx-felogin-pi1 { /* Gesammtes Login-Formular */
-    width: 10em;
+    width: 20em;
+    height: 15em;
     margin: 0 auto;
 
 }
