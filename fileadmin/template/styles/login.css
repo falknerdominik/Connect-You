@@ -14,7 +14,7 @@
 body {
     background: radial-gradient(center,
     ellipse closest-side,
-    yellow 0%,
+    yellow 10%,
     blue 25%,
     white 75%);
 }
