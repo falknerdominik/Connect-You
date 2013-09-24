@@ -77,6 +77,10 @@ img {
     cursor: pointer;
 }
 
+input:-webkit-autofill {
+    color: white !important;
+}
+
 input[type="submit"] {
     width: 100%;
     height: 1.8em;
