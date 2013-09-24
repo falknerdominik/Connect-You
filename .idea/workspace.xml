@@ -5,7 +5,7 @@
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380025061839" ignored="false" />
-    <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380027099823" ignored="false" />
+    <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380027180043" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.37018424">
+            <state line="44" column="19" selection-start="691" selection-end="691" vertical-scroll-proportion="0.56330276">
               <folding />
             </state>
           </provider>
@@ -58,10 +58,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="780" />
+    <option name="x" value="62" />
+    <option name="width" value="1304" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -244,14 +243,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="780" extended-state="0" />
+    <frame x="62" y="0" width="1304" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41017488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41545895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -336,7 +335,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.37018424">
+        <state line="44" column="19" selection-start="691" selection-end="691" vertical-scroll-proportion="0.56330276">
           <folding />
         </state>
       </provider>
