@@ -13,6 +13,6 @@
 
 /* Ausblenden der nichtbenötigten Standartelemente der Loginform von Typo3 */
 h3 { 
-	color: red;
+	display: none;
 }
 
