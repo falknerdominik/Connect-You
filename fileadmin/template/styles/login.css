@@ -64,4 +64,5 @@ img {
 
 input [type="submit"] {
     width: 100%;
+    height: 4em;
 }
