@@ -45,6 +45,7 @@ img {
 }
 
 .tx-felogin-pi1 form {
+    border-image: url(my-image.gif) 25% 30% 10% 20% repeat;
     background-color: #ECF0F1;
     height: 7em;
     padding: 1em;
