@@ -12,7 +12,11 @@
 
 
 body {
-	background-color: #009FE4;
+    background: radial-gradient(center,
+    ellipse closest-side,
+    yellow 0%,
+    blue 25%,
+    white 75%);
 }
 
 

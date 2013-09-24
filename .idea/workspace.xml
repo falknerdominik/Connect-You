@@ -18,6 +18,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Connect-You" />
   </component>
@@ -26,13 +27,18 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="54" selection-end="54" vertical-scroll-proportion="0.085427135">
+            <state line="18" column="15" selection-start="316" selection-end="316" vertical-scroll-proportion="0.5125628">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -259,7 +265,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="54" selection-end="54" vertical-scroll-proportion="0.085427135">
+        <state line="18" column="15" selection-start="316" selection-end="316" vertical-scroll-proportion="0.5125628">
           <folding />
         </state>
       </provider>
