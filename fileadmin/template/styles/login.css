@@ -13,6 +13,7 @@
 
 body {
     background: radial-gradient(red, yellow, rgb(30, 144, 255));
+    -webkit-background-size: 100% 100%;
 }
 
 
