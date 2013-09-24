@@ -41,6 +41,10 @@ img {
 .tx-felogin-pi1 { /* Gesammtes Login-Formular */
     width: 10em;
     margin: 0 auto;
-    background-image: url("../images/Login_Hintergrund.png")
+
+}
+
+form {
+    background-image: url("../images/Login_Hintergrund.png");
 }
 
