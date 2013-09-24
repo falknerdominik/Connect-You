@@ -11,10 +11,8 @@
 *****************/
 
 
-/* Ausblenden der nichtbenötigten Standartelemente der Loginform von Typo3 */
-.tx-felogin-pi1 h3 { 
-	display: none;
+body {
+	background-color: blue;
 }
-
 
 
