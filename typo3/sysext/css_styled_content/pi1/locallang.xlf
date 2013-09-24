@@ -16,7 +16,7 @@
 				<source>Password:</source>
 			</trans-unit>
 			<trans-unit id="login.login" xml:space="preserve">
-				<source>Login</source>
+				<source>Connect You</source>
 			</trans-unit>
 			<trans-unit id="login.logout" xml:space="preserve">
 				<source>Logout</source>
