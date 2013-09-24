@@ -67,7 +67,7 @@ img {
 }
 
 .tx-felogin-pi1 form  #pass {
-    width: 100%;
+    width: 95%;
     height: 2.5em;
     margin-bottom: 0.5em;
     border: none;
@@ -76,6 +76,7 @@ img {
     background: url('../images/Passwort_Icon.png') no-repeat scroll right center #FFFFFF;
     background-size: 40px 45px;
     cursor: pointer;
+    padding-left: 5%;
 }
 
 input:-webkit-autofill {
