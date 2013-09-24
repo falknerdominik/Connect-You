@@ -78,7 +78,7 @@ img {
 }
 
 input:-webkit-autofill {
-    -webkit-box-shadow: 0 0 0px 10px white inset;
+    -webkit-box-shadow: 0 0 0px 20px white inset;
 }
 
 input[type="submit"] {
