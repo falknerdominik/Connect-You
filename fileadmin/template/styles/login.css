@@ -12,13 +12,7 @@
 
 
 body {
-    background-image: linear-gradient(left,
-    purple,
-    blue,
-    green,
-    yellow,
-    red,
-    purple);
+    background: -webkit-radial-gradient(45px 45px, farthest-corner, rgb(255, 0, 0) 0%, rgb(0, 0, 255) 100%);
 }
 
 
