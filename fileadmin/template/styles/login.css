@@ -62,6 +62,6 @@ img {
     height: 2em;
 }
 
-imput[type=submit] {
+imput [type="submit"] {
     width: 100%;
 }
