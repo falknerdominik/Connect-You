@@ -14,6 +14,7 @@
 body {
     background: radial-gradient(red, yellow, rgb(30, 144, 255));
     background-size: 100% 500px;
+    background-repeat: no-repeat;
 }
 
 
