@@ -27,7 +27,7 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="51" selection-start="257" selection-end="257" vertical-scroll-proportion="0.40753424">
+            <state line="14" column="151" selection-start="357" selection-end="358" vertical-scroll-proportion="0.40753424">
               <folding />
             </state>
           </provider>
@@ -265,7 +265,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="51" selection-start="257" selection-end="257" vertical-scroll-proportion="0.40753424">
+        <state line="14" column="151" selection-start="357" selection-end="358" vertical-scroll-proportion="0.40753424">
           <folding />
         </state>
       </provider>
