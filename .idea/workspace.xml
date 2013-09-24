@@ -5,7 +5,7 @@
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380049195920" ignored="false" />
-    <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380049512555" ignored="false" />
+    <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380049690269" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="25" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.59266055">
+            <state line="78" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.6256881">
               <folding />
             </state>
           </provider>
@@ -356,7 +356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="25" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.59266055">
+        <state line="78" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.6256881">
           <folding />
         </state>
       </provider>
