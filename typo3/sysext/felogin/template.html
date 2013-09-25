@@ -52,7 +52,7 @@
 	<!--<legend>###LEGEND###</legend>-->
 	<div>
 		<!--<label for="user">###USERNAME_LABEL###</label>-->
-		<input type="text" id="user" name="user" value="" />
+		<input type="text" id="user" name="user" value="" onclick="if(this.value=='Username'){this.value=''}" onblur="if(this.value==''){this.value='Username'}" />
 	</div>
 	<div>
 		<!--<label for="pass">###PASSWORD_LABEL###</label>-->
