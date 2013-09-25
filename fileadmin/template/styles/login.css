@@ -78,6 +78,7 @@ img {
     background-size: 40px 45px;
     cursor: pointer;
     padding-left: 5%;
+    color: grey;
 }
 
 input:-webkit-autofill {
