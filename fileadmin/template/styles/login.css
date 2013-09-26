@@ -62,7 +62,6 @@ img {
     outline-color: #009FE3;
     background: url('../images/Anmelden_Icon.png') no-repeat scroll right center #FFFFFF;
     background-size: 40px 45px;
-    cursor: pointer;
     padding-left: 5%;
     color: grey;
 }
@@ -76,7 +75,6 @@ img {
     outline-color: #009FE3;
     background: url('../images/Passwort_Icon.png') no-repeat scroll right center #FFFFFF;
     background-size: 40px 45px;
-    cursor: pointer;
     padding-left: 5%;
     color: grey;
 }
