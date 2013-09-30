@@ -7,7 +7,7 @@
     <file path="/Dummy.txt" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380537429617" ignored="false" />
     <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380101389237" ignored="false" />
     <file path="/template.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380102961876" ignored="false" />
-    <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380538316919" ignored="false" />
+    <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380539370876" ignored="false" />
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380539136417" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="pinnwand.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="286" selection-end="286" vertical-scroll-proportion="0.33452594">
+            <state line="19" column="21" selection-start="346" selection-end="346" vertical-scroll-proportion="0.3041145">
               <folding />
             </state>
           </provider>
@@ -503,7 +503,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="286" selection-end="286" vertical-scroll-proportion="0.33452594">
+        <state line="19" column="21" selection-start="346" selection-end="346" vertical-scroll-proportion="0.3041145">
           <folding />
         </state>
       </provider>
