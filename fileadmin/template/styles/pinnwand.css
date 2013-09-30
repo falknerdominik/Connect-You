@@ -71,7 +71,7 @@ body, html {
     background-color: #344960;
 }
 
-#subnav {
+.subnav {
     list-style: none;
     position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
     left: 0; top: 35px;
