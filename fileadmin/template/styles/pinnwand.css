@@ -55,6 +55,7 @@ body, html {
     padding: 0;
     margin-left: 12%;
     margin-top: 0.25em;
+    height: 100%;
 }
 
 #top ul li {
