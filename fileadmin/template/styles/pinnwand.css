@@ -1,0 +1,58 @@
+/*****************
+	* CSS-Dateiname:  login.css
+
+	* Für welche Bereiche:  Pinnwand (Menu, Left-Menu-Icons)!
+
+	* Notiz:
+
+	* Author(en): Dorfer Valentin
+
+	* Version: 30.09.2013
+*****************/
+
+/*****************
+ * Allgemein
+*****************/
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*****************
+ * Menü-Links
+*****************/
+
+#left {
+    float: left;
+    height: 100%;
+    width: 8em;
+    background-color: #009FE3;
+}
+
+#logo {
+
+}
+
+#left-menu {
+
+}
+
+/*****************
+ * Menü-Top
+*****************/
+
+#top {
+    float: left;
+    width: 90%;
+    height: 2em;
+    background-color: #009FE3;
+}
+
+
+#content{
+    background: radial-gradient( 40em 30em, #009FE4, #ffffff);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
