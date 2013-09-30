@@ -71,6 +71,10 @@ body, html {
     background-color: #344960;
 }
 
+#subnav {
+    visibility:hidden;
+}
+
 
 #content{
     background: radial-gradient( 40em 30em, #009FE4, #ffffff);
