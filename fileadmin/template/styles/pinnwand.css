@@ -55,4 +55,5 @@ body, html {
     background: radial-gradient( 40em 30em, #009FE4, #ffffff);
     background-size: 100%;
     background-repeat: no-repeat;
+    height: 95%;
 }
