@@ -72,7 +72,15 @@ body, html {
 }
 
 #subnav {
-    visibility: hidden;
+    list-style: none;
+    position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+    left: 0; top: 35px;
+    background: #333;
+    margin: 0; padding: 0;
+    display: none;
+    float: left;
+    width: 170px;
+    border: 1px solid #111;
 }
 
 
