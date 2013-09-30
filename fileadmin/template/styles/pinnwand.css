@@ -50,6 +50,11 @@ body, html {
     background-color: #009FE3;
 }
 
+#top ul {
+    margin: 0;
+    padding: 0;
+}
+
 
 #content{
     background: radial-gradient( 40em 30em, #009FE4, #ffffff);
