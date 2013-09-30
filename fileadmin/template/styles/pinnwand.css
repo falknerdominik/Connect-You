@@ -67,6 +67,10 @@ body, html {
     text-align: center;
 }
 
+#top ul li:hover{
+    background-color: #344960;
+}
+
 
 #content{
     background: radial-gradient( 40em 30em, #009FE4, #ffffff);
