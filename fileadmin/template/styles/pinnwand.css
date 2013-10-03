@@ -90,10 +90,8 @@ ul#menu ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    position: absolute;
     z-index: 99999;
     width: 5em;
-
 
     transition:opacity 0.2s linear, visibility 0.2s linear;
 }
