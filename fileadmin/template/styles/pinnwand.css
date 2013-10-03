@@ -82,6 +82,8 @@ ul#menu ul {
     visibility:hidden;
     opacity:0;
     padding-top: 1em;
+    background-color: #344960;
+    height: 20em;
 }
 
 
