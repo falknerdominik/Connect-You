@@ -88,3 +88,8 @@ body, html {
 /*****************
  * Logo
 *****************/
+
+#logo {
+    position: absolute;
+    
+}
