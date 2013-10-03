@@ -31,7 +31,7 @@
       <file leaf-file-name="pinnwand.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="9" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.34871796">
+            <state line="86" column="14" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.43589744">
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="pinnwand.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="36" selection-start="758" selection-end="758" vertical-scroll-proportion="-12.423077">
+            <state line="25" column="14" selection-start="400" selection-end="400" vertical-scroll-proportion="-8.5">
               <folding />
             </state>
           </provider>
@@ -506,14 +506,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="36" selection-start="758" selection-end="758" vertical-scroll-proportion="-12.423077">
+        <state line="25" column="14" selection-start="400" selection-end="400" vertical-scroll-proportion="-8.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="9" selection-start="1038" selection-end="1038" vertical-scroll-proportion="0.34871796">
+        <state line="86" column="14" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.43589744">
           <folding />
         </state>
       </provider>
