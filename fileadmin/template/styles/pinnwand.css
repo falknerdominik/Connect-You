@@ -73,6 +73,15 @@ body, html {
 }
 
 
+ul#menu li:hover > ul
+{
+    /*these 2 styles are very important,
+    being the ones which make the drop-down to appear on hover */
+    visibility:visible;
+    opacity:1;
+}
+
+
 
 /*****************
  * Content
