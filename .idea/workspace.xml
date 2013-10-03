@@ -7,7 +7,7 @@
     <file path="/Dummy.txt" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380778921019" ignored="false" />
     <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380780730792" ignored="false" />
     <file path="/template.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380102961876" ignored="false" />
-    <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380540918452" ignored="false" />
+    <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380780779885" ignored="false" />
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380780626907" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,19 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="15" selection-start="747" selection-end="747" vertical-scroll-proportion="0.2735043">
+            <state line="49" column="15" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinnwand.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinnwand.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="0.7307692">
+            <state line="40" column="3" selection-start="511" selection-end="511" vertical-scroll-proportion="0.69588554">
               <folding />
             </state>
           </provider>
@@ -74,9 +74,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
-        <option value="$PROJECT_DIR$/fileadmin/template/html/pinnwand.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/pinnwand.html" />
       </list>
     </option>
   </component>
@@ -497,13 +497,6 @@
         <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="0.7307692">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="10" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
@@ -513,7 +506,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="15" selection-start="747" selection-end="747" vertical-scroll-proportion="0.2735043">
+        <state line="49" column="15" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="3" selection-start="511" selection-end="511" vertical-scroll-proportion="0.69588554">
           <folding />
         </state>
       </provider>
