@@ -89,8 +89,8 @@ body, html {
 
 #logo {
     position: absolute;
-    height: 10em;
-    width: 10em;
+    height: 5em;
+    width: 5em;
     background-image: url("../images/Logo_MP.png");
     background-size: 100% 100%;
 }
