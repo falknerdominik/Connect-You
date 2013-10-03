@@ -92,5 +92,5 @@ body, html {
     height: 10em;
     width: 10em;
     background-image: url("../images/Logo_MP.png");
-    background-size: 200px 200px;
+    background-size: 100% 100%;
 }
