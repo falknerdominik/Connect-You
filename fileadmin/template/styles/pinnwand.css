@@ -20,6 +20,10 @@ body, html {
     padding: 0;
 }
 
+a {
+    color: white;
+}
+
 /*****************
  * Menü-Links
 *****************/
@@ -84,7 +88,6 @@ ul#menu ul {
     padding-top: 1em;
     background-color: #344960;
     height: 20em;
-    color: white;
 }
 
 
