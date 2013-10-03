@@ -28,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinnwand.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinnwand.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="1" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
+            <state line="72" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.9709402">
               <folding />
             </state>
           </provider>
@@ -40,16 +40,7 @@
       <file leaf-file-name="pinnwand.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="-0.65384614">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="23" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.33162394">
+            <state line="16" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="-7.1153846">
               <folding />
             </state>
           </provider>
@@ -74,9 +65,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
-        <option value="$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css" />
-        <option value="$PROJECT_DIR$/fileadmin/template/html/pinnwand.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/pinnwand.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css" />
       </list>
     </option>
   </component>
@@ -497,23 +488,23 @@
         <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="1" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
+        <state line="63" column="23" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.07008547">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="-0.65384614">
+        <state line="16" column="20" selection-start="151" selection-end="151" vertical-scroll-proportion="-7.1153846">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="23" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.33162394">
+        <state line="72" column="0" selection-start="916" selection-end="916" vertical-scroll-proportion="0.9709402">
           <folding />
         </state>
       </provider>
