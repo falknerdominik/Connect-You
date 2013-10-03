@@ -83,9 +83,7 @@ ul#menu li:hover > ul
 
 ul#menu ul {
     visibility:hidden;
-    
     opacity:0;
-
 }
 
 
