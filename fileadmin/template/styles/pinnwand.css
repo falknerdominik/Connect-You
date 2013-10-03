@@ -69,6 +69,7 @@ body, html {
 
 #top ul li:hover{
     background-color: #344960;
+    cursor: pointer;
 }
 
 
