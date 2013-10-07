@@ -71,6 +71,7 @@ a {
     text-align: center;
 }
 
+/*
 #top ul li:hover{
     background-color: #344960;
     cursor: pointer;
@@ -80,7 +81,7 @@ ul#menu li:hover > ul
 {
     display: block;
 }
-
+*/
 ul#menu ul {
     display: block;
     background-color: #344960;
