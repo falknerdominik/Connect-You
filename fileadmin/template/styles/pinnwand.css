@@ -61,7 +61,7 @@ a {
     height: 99.6%;
 }
 
-#top ul li {
+#menu li {
     float: left;
     list-style: none;
     font-size: 17pt;
@@ -73,7 +73,7 @@ a {
 
 .untermenu {
     background-color: red;
-    height: 10em;
+    height: 5em;
 }
 
 
