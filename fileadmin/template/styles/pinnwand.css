@@ -81,7 +81,7 @@ ul#menu li:hover > ul
 {
     display: block;
 }
-*/
+
 ul#menu ul {
     display: block;
     background-color: #344960;
@@ -91,7 +91,7 @@ ul#menu ul {
     width: 4em;
     transition:opacity 0.2s linear, visibility 0.2s linear;
 }
-
+*/
 
 
 /*****************
