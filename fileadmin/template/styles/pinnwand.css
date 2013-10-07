@@ -76,11 +76,13 @@ a {
 }
 
 .untermenu {
+    text-align: start;
     font-size: 17pt;
     list-style-type: none;
     width: 8em;
     margin: 0;
     padding: 0;
+    padding-left: 1em;
     display: none;
     background-color: red;
     border-top: 1em solid white;
