@@ -81,17 +81,17 @@ ul#menu li:hover > ul
 {
     display: block;
 }
-
+*/
 ul#menu ul {
     display: block;
-    background-color: #344960;
+    /*background-color: #344960;*/
     list-style: none;
     margin: 0;
     padding: 0;
     width: 4em;
     transition:opacity 0.2s linear, visibility 0.2s linear;
 }
-*/
+
 
 
 /*****************
