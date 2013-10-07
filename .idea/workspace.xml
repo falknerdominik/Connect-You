@@ -8,7 +8,7 @@
     <file path="/login.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380780730792" ignored="false" />
     <file path="/template.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380102961876" ignored="false" />
     <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380871733865" ignored="false" />
-    <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381136944264" ignored="false" />
+    <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381136951034" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="pinnwand.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="21" selection-start="1463" selection-end="1463" vertical-scroll-proportion="0.7094017">
+            <state line="115" column="20" selection-start="1462" selection-end="1462" vertical-scroll-proportion="0.7094017">
               <folding />
             </state>
           </provider>
@@ -513,7 +513,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="21" selection-start="1463" selection-end="1463" vertical-scroll-proportion="0.7094017">
+        <state line="115" column="20" selection-start="1462" selection-end="1462" vertical-scroll-proportion="0.7094017">
           <folding />
         </state>
       </provider>
