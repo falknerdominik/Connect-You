@@ -83,12 +83,12 @@ ul#menu li:hover > ul
 }
 
 ul#menu ul {
-  
+
     background-color: #344960;
     list-style: none;
     margin: 0;
     padding: 0;
-    z-index: 99999;
+    height: 5em;
     width: 5em;
 
     transition:opacity 0.2s linear, visibility 0.2s linear;
