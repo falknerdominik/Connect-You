@@ -115,7 +115,7 @@ ul#menu ul {
     position: absolute;
     height: 5em;
     width: 7em;
-    background: radial-gradient( 2em 2em,  #ffffff, #009FE4 );
+    background: radial-gradient( 4em 2em,  #ffffff, #009FE4 );
     background-size: 100%;
     background-repeat: no-repeat;
 }
