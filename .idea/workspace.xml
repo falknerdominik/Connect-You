@@ -28,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinnwand.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pinnwand.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="12" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.2034188">
+            <state line="91" column="12" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinnwand.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinnwand.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="13.076923">
+            <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="-0.15205725">
               <folding />
             </state>
           </provider>
@@ -497,9 +497,9 @@
         <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="13.076923">
+        <state line="91" column="12" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -511,9 +511,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="12" selection-start="1159" selection-end="1159" vertical-scroll-proportion="0.2034188">
+        <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="-0.15205725">
           <folding />
         </state>
       </provider>
