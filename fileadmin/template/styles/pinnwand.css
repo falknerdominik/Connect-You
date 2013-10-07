@@ -83,8 +83,12 @@ a {
     margin: 0;
     padding: 0.5em;
     display: none;
+
+    border-top: 1em solid transparent;
+}
+
+.untermenu li {
     background-color: red;
-    border-top: 1em solid white;
 }
 
 
