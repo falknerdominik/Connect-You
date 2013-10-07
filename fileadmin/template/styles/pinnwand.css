@@ -82,13 +82,14 @@ ul#menu li:hover > ul
     opacity:1;
 }
 
-menu ul {
-
+ul#menu ul {
+    visibility:hidden;
+    opacity:0;
     background-color: #344960;
     list-style: none;
     margin: 0;
     padding: 0;
-    height: 5em;
+    z-index: 99999;
     width: 5em;
 
     transition:opacity 0.2s linear, visibility 0.2s linear;
