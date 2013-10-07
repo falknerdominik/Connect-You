@@ -31,7 +31,7 @@
       <file leaf-file-name="pinnwand.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="0" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.3897436">
+            <state line="68" column="12" selection-start="841" selection-end="841" vertical-scroll-proportion="0.14529915">
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="pinnwand.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="-2.6153846">
+            <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="13.076923">
               <folding />
             </state>
           </provider>
@@ -497,6 +497,13 @@
         <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="13.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="1" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
@@ -504,16 +511,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="78" selection-start="169" selection-end="169" vertical-scroll-proportion="-2.6153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.3897436">
+        <state line="68" column="12" selection-start="841" selection-end="841" vertical-scroll-proportion="0.14529915">
           <folding />
         </state>
       </provider>
