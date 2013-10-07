@@ -21,7 +21,7 @@ body, html {
 }
 
 a {
-     
+
  }
 
 /*****************
@@ -69,6 +69,12 @@ a {
     width: 4em;
     height: 100%;
     text-align: center;
+}
+
+#top a {
+    color: #fff;
+    background-color: #344960;
+    margin:5px;
 }
 
 /*
