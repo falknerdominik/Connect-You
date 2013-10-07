@@ -82,8 +82,9 @@ ul#menu li:hover > ul
     opacity:1;
 }
 
-ul#menu li {
-
+ul#menu ul {
+    visibility:visible;
+    opacity:0;
     background-color: #344960;
     list-style: none;
     margin: 0;
