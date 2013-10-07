@@ -61,7 +61,7 @@ a {
     height: 99.6%;
 }
 
-#menu li {
+#menu > li {
     float: left;
     list-style: none;
     font-size: 17pt;
@@ -71,7 +71,12 @@ a {
     text-align: center;
 }
 
+#menu > li:hover .untermenu {
+    display: block;
+}
+
 .untermenu {
+    display: none;
     background-color: red;
     height: 5em;
 }
