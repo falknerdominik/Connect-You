@@ -78,11 +78,12 @@ a {
 .untermenu {
     font-size: 17pt;
     list-style-type: none;
+    width: 8em;
     margin: 0;
     padding: 0;
     display: none;
     background-color: red;
-    border-top: 1em solid transparent;
+    border-top: 1em solid white;
 }
 
 
