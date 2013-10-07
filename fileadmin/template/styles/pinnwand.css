@@ -78,11 +78,11 @@ a {
 
 ul#menu li:hover > ul
 {
-    visibility:visible;
-    opacity:1;
+    display: block;
 }
 
 ul#menu ul {
+    display: none;
     background-color: #344960;
     list-style: none;
     margin: 0;
