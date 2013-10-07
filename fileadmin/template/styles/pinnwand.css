@@ -76,7 +76,7 @@ a {
     cursor: pointer;
 }
 
-ul#menu li:hover .untermenu
+li:hover li
 {
     display: block;
 }
