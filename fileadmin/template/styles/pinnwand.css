@@ -120,3 +120,7 @@ ul#menu ul {
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+#logo img {
+    text-align: center;
+}
