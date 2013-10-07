@@ -115,6 +115,7 @@ ul#menu ul {
     position: absolute;
     height: 5em;
     width: 7em;
-    background-image: url("../images/Logo_MP.png");
-    background-size: 100% 100%;
+    background: radial-gradient( 5em 7em,  #ffffff, #009FE4 );
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
