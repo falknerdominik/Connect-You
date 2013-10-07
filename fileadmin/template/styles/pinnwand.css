@@ -90,6 +90,10 @@ ul#menu ul {
     transition:opacity 0.2s linear, visibility 0.2s linear;
 }
 
+.untermenu {
+    background-color: red;
+}
+
 
 
 /*****************
