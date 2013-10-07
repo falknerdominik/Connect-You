@@ -77,8 +77,12 @@ a {
 
 .untermenu {
     font-size: 17pt;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     display: none;
     background-color: red;
+    border-top: 1em solid transparent;
 }
 
 
