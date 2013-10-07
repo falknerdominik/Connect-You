@@ -76,7 +76,7 @@ a {
     cursor: pointer;
 }
 
-li:hover li
+ul#menu li:hover > ul
 {
     display: block;
 }
