@@ -71,14 +71,9 @@ a {
     text-align: center;
 }
 
-#top ul li:hover{
-    background-color: #344960;
-    cursor: pointer;
-}
-
-
 .untermenu {
     background-color: red;
+    height: 10em;
 }
 
 
