@@ -80,7 +80,6 @@ ul#menu li:hover > ul
 {
     visibility:visible;
     opacity:1;
-    height: auto;
 }
 
 ul#menu ul {
