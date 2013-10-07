@@ -76,9 +76,9 @@ a {
 }
 
 .untermenu {
+    font-size: 17pt;
     display: none;
     background-color: red;
-    height: 5em;
 }
 
 
