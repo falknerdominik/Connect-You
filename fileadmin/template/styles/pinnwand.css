@@ -71,12 +71,6 @@ a {
     text-align: center;
 }
 
-#top a {
-    color: #fff;
-    background-color: #344960;
-}
-
-
 #top ul li:hover{
     background-color: #344960;
     cursor: pointer;
