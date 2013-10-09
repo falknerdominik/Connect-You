@@ -73,6 +73,7 @@ body, html {
 #projektname {
     text-align: center;
     text-decoration: underline;
+    font-size: 22pt;
 }
 
 #projektinfo {
