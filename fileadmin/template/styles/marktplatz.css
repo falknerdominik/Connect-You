@@ -28,7 +28,7 @@ body, html {
 
 #head {
     margin: 0 auto;
-    width: 22em;
+    width: 34em;
 }
 
 #head h1 {
@@ -43,5 +43,4 @@ body, html {
 
 #head h1:first-child {
     color: white;
-    margin-right: 2em;
 }
