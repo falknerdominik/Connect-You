@@ -30,4 +30,5 @@ body, html {
 
 #head h1:first-child {
     color: white;
+    margin-right: 2em;
 }
