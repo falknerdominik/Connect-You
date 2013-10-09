@@ -62,3 +62,16 @@ body, html {
 /*****************
  * Projektübersicht
 *****************/
+
+#projekt {
+    width: 30%;
+    height: 10em;
+}
+
+#projektname {
+
+}
+
+#projektinfo {
+
+}
