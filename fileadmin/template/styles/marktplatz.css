@@ -64,6 +64,11 @@ body, html {
  * Projektübersicht
 *****************/
 
+#alleprojekte {
+    width: 90%;
+    margin: 0 auto;
+}
+
 #projekt {
     width: 30%;
     height: 10em;
