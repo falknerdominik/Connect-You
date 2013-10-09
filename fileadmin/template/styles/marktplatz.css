@@ -28,6 +28,7 @@ body, html {
 
 #head {
     margin: 0 auto;
+    width: 10em;
 }
 
 #head h1 {
