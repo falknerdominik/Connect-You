@@ -29,6 +29,7 @@ body, html {
 #head {
     margin: 0 auto;
     width: 12em;
+    height: 4em;
 }
 
 #head h1 {
