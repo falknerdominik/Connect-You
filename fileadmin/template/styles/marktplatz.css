@@ -28,17 +28,17 @@ body, html {
 
 #head {
     margin: 0 auto;
-    width: 34em;
+    width: 20em;
 }
 
 #head h1 {
     margin: 0;
     padding: 0;
-    float: left;
     color: #9B58B6;
     font-size: 16pt;
     width: 10em;
     text-align: center;
+    float: left;
 }
 
 #head h1:first-child {
