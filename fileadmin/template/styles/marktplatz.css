@@ -71,6 +71,11 @@ body, html {
     float: left;
 }
 
+#projekt:hover {
+    text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+    0 0 0.2em #87F
+}
+
 #projektname {
     text-align: center;
     text-decoration: underline;
