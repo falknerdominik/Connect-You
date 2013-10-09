@@ -40,10 +40,12 @@ body, html {
     width: 5em;
     text-align: center;
     float: left;
+
 }
 
 #head h1:first-child {
     color: white;
+    margin-left: 40%;
 }
 
 /*****************
