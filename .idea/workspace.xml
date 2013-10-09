@@ -10,7 +10,7 @@
     <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381143653169" ignored="false" />
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381144858740" ignored="false" />
     <file path="/marktplatz.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381309088543" ignored="false" />
-    <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381309956778" ignored="false" />
+    <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381310036794" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinnwand.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="310" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="marktplatz.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.6512821">
+            <state line="29" column="19" selection-start="424" selection-end="424" vertical-scroll-proportion="0.5931624">
               <folding />
             </state>
           </provider>
@@ -502,6 +493,13 @@
         <state line="39" column="1" selection-start="586" selection-end="586" vertical-scroll-proportion="0.02905983" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="31" selection-start="413" selection-end="413" vertical-scroll-proportion="-1.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="310" vertical-scroll-proportion="0.0">
@@ -516,16 +514,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="31" selection-start="413" selection-end="413" vertical-scroll-proportion="-1.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.6512821">
+        <state line="29" column="19" selection-start="424" selection-end="424" vertical-scroll-proportion="0.5931624">
           <folding />
         </state>
       </provider>

@@ -26,6 +26,10 @@ body, html {
  * Top-Header
 *****************/
 
+#head {
+    margin: 0 auto;
+}
+
 #head h1 {
     margin: 0;
     padding: 0;
