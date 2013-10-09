@@ -27,3 +27,7 @@ body, html {
     float: left;
     color: #9B58B6;
 }
+
+#head h1:first-child {
+    color: white;
+}
