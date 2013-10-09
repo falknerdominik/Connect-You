@@ -44,3 +44,12 @@ body, html {
 #head h1:first-child {
     color: white;
 }
+
+/*****************
+ * Content
+*****************/
+
+#content {
+    width: 90%;
+    margin: 0 auto;
+}
