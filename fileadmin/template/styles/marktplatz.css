@@ -81,6 +81,8 @@ body, html {
     text-align: center;
     text-decoration: underline;
     font-size: 22pt;
+    margin: 0;
+    padding: 0;
 }
 
 #projektinfo {
