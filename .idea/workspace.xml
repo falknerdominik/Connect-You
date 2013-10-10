@@ -10,7 +10,7 @@
     <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381143653169" ignored="false" />
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381144858740" ignored="false" />
     <file path="/marktplatz.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381311840107" ignored="false" />
-    <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381320314927" ignored="false" />
+    <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381384983775" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="marktplatz.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="45" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.45811966">
+            <state line="74" column="65" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.45811966">
               <folding />
             </state>
           </provider>
@@ -525,7 +525,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="45" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.45811966">
+        <state line="74" column="65" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.45811966">
           <folding />
         </state>
       </provider>
