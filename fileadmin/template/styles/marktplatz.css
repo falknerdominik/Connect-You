@@ -68,8 +68,9 @@ ul {
 
 #content {
     margin: 0 auto;
-    width: 90%;
+    width: 80%;
     background-color: #3498DB;
+    padding: 5%;
 }
 
 #content h2 {
@@ -93,7 +94,7 @@ ul {
 }
 
 #content p {
-    
+    color: white;
 }
 
 /*****************
