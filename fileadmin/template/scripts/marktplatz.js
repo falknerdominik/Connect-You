@@ -7,4 +7,6 @@
  */
 
 
-$(li).scrollTo( 0, 800, {queue:true} );
+$(" .projekt ").onclick(function(){
+    scrollTo( $(" .content ") );
+});
