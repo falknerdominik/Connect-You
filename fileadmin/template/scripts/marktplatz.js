@@ -18,6 +18,6 @@ $( document ).ready(function() {
  *
 */
 function scrollToDetails(){
+    scrollTo(0,700).animate();
 
-    animateTo(0,800);
 }
