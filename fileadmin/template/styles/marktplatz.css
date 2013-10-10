@@ -78,7 +78,7 @@ ul {
 }
 
 .projekt:hover {
-    text-shadow: 0 0 0em #8877FF, 0 0 5em #8877FF, 0 0 5em #8877FF;
+    text-shadow: 5px 0 2em #8877FF, 0 0 5em #8877FF, 0 0 5em #8877FF;
     cursor: pointer;
 }
 
