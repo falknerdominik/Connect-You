@@ -80,7 +80,6 @@ ul {
 .projekt:hover {
     background-color: rgba(155,89,182,0.5);
     cursor: pointer;
-    border-radius: 50px;
 }
 
 .projekt h3 {
