@@ -18,5 +18,6 @@ $( document ).ready(function() {
  *
 */
 function scrollToDetails(){
-    $('body').animate(scrollTo(0,700));
+
+    animateTo(0,800);
 }
