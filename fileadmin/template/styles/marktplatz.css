@@ -78,7 +78,7 @@ ul {
 }
 
 .projekt:hover {
-    background: radial-gradient( 8em 60%, #009FE4, transparent );
+    background: radial-gradient( 8em 50%, #009FE4, transparent );
     cursor: pointer;
 }
 
