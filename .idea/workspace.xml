@@ -9,7 +9,7 @@
     <file path="/template.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1380102961876" ignored="false" />
     <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381143653169" ignored="false" />
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381144858740" ignored="false" />
-    <file path="/marktplatz.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381389054066" ignored="false" />
+    <file path="/marktplatz.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381389216651" ignored="false" />
     <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381386884489" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,16 @@
       <file leaf-file-name="marktplatz.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="72" selection-start="122" selection-end="122" vertical-scroll-proportion="0.12164579">
+            <state line="11" column="20" selection-start="246" selection-end="253" vertical-scroll-proportion="0.24329159">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marktplatz.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -231,6 +240,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fileadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -492,6 +523,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="41" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0">
@@ -501,7 +539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="72" selection-start="122" selection-end="122" vertical-scroll-proportion="0.12164579">
+        <state line="11" column="20" selection-start="246" selection-end="253" vertical-scroll-proportion="0.24329159">
           <folding />
         </state>
       </provider>
