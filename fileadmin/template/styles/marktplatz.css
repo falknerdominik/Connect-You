@@ -60,6 +60,7 @@ ul {
 #contentOut {
     width: 94%;
     margin: 0 auto;
+    margin-top: 1em;
     height: 94%;
     background-image: url("../images/marketplace_content.png");
 }
