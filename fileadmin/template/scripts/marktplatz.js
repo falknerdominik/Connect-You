@@ -14,9 +14,9 @@ $( document ).ready(function() {
 });
 
 /*
- * Scrollt zu den Details, wird beim Klick auf ein Projekt aufgerufen 
- * 
+ * Scrollt zu den Details, wird beim Klick auf ein Projekt aufgerufen
+ *
 */
 function scrollToDetails(){
-	alert( "Handler for .click() called." );
+	scrollTo(100,100);
 }
