@@ -10,7 +10,7 @@
     <file path="/pinnwand.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381143653169" ignored="false" />
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381144858740" ignored="false" />
     <file path="/marktplatz.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381389882994" ignored="false" />
-    <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381390124546" ignored="false" />
+    <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381390184903" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="marktplatz.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="30" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.5521368">
+            <state line="84" column="19" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.50598294">
               <folding />
             </state>
           </provider>
@@ -523,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="606" selection-start="1833" selection-end="1833" vertical-scroll-proportion="-18.23077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
@@ -537,9 +530,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="606" selection-start="1833" selection-end="1833" vertical-scroll-proportion="-18.23077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="30" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.5521368">
+        <state line="84" column="19" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.50598294">
           <folding />
         </state>
       </provider>
