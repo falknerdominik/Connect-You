@@ -9,8 +9,3 @@
 $( " .projekt " ).click(function() {
     alert( "Handler for .click() called." );
 });
-
-$( " #content ").click()
-{
-    alert ("HI");
-}
