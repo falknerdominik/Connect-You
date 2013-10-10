@@ -57,6 +57,20 @@ ul {
  * Content
 *****************/
 
+#content {
+    width: 94%;
+    margin: 0 auto;
+    height: 94%;
+    background-color: blue;
+
+}
+
+
+
+/*****************
+ * Projektübersicht
+*****************/
+
 #projects {
     width: 94%;
     margin: 0 auto;
@@ -64,10 +78,6 @@ ul {
     background-image: url("../images/marketplace_content.png");
 
 }
-
-/*****************
- * Projektübersicht
-*****************/
 
 .projekt {
     width: 33.333%;
