@@ -72,7 +72,7 @@ body, html {
     list-style-type: none;
 }
 
-#projekt:hover {
+.projekt:hover {
     background: radial-gradient( 8em 2em, #009FE4,transparent );
     cursor: pointer;
 }

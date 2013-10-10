@@ -33,7 +33,7 @@
       <file leaf-file-name="marktplatz.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="16" selection-start="981" selection-end="981" vertical-scroll-proportion="0.31282052">
+            <state line="74" column="1" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.4871795">
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="pinnwand.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="31" selection-start="413" selection-end="413" vertical-scroll-proportion="-1.8846154">
+            <state line="27" column="20" selection-start="496" selection-end="496" vertical-scroll-proportion="-16.26923">
               <folding />
             </state>
           </provider>
@@ -502,13 +502,6 @@
         <state line="39" column="1" selection-start="586" selection-end="586" vertical-scroll-proportion="0.02905983" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="31" selection-start="413" selection-end="413" vertical-scroll-proportion="-1.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="102" column="4" selection-start="1369" selection-end="1458" vertical-scroll-proportion="0.0">
@@ -523,9 +516,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinnwand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="20" selection-start="496" selection-end="496" vertical-scroll-proportion="-16.26923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="16" selection-start="981" selection-end="981" vertical-scroll-proportion="0.31282052">
+        <state line="74" column="1" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.4871795">
           <folding />
         </state>
       </provider>
