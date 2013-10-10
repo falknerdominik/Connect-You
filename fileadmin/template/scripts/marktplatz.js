@@ -10,5 +10,3 @@
 $(" .projekt ").onclick(function(){
     scrollTo( $(" .content ") );
 });
-
-alert("U");
