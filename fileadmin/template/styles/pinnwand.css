@@ -105,9 +105,7 @@ body, html {
     margin-left: 0.5em;
     height: 5em;
     width: 7em;
-    background: radial-gradient( 3.6em 2.6em,  #ffffff, #009FE4 );
-    background-size: 100%;
-    background-repeat: no-repeat;
+    
 }
 
 #logo img {
