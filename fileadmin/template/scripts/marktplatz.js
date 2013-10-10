@@ -18,6 +18,8 @@ $( document ).ready(function() {
  *
 */
 function scrollToDetails(){
-    scrollTo(0,700);
+    $('html, body').stop().animate({
+        scrollTo: $($anchor.attr('href')).offset().top
+    }, 1500,'easeInOutExpo');
 
 }
