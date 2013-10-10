@@ -71,7 +71,9 @@ ul {
 }
 
 #content h2 {
-
+    margin: 0;
+    padding: 0;
+    color: white;
 }
 
 #content h5 {
