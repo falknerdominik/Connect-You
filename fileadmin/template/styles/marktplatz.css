@@ -21,6 +21,11 @@ body, html {
     background-color: #009FE3;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
+
 
 /*****************
  * Top-Header
