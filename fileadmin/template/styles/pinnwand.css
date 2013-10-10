@@ -31,7 +31,8 @@ body, html {
     float: left;
     height: 96%;
     width: 10%;
-    background-color: #009FE3;
+    background-image: url(../images/Background/Rahmen.png);
+	background-repeat:repeat;
 }
 
 /*****************
@@ -42,8 +43,9 @@ body, html {
     float: left;
     width: 100%;
     height: 12%;
-    background-color: #009FE3;
-}
+	background-image: url(../images/Background/Rahmen.png);
+	background-repeat:repeat;
+    }
 
 #menu {
     margin: 0;
