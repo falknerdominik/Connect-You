@@ -6,6 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-$(" #projects").onclick(function(){
+$(" .project").click()
+{
     alert("HI");
-});
+}
