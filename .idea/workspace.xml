@@ -11,7 +11,7 @@
     <file path="/pinnwand.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381144858740" ignored="false" />
     <file path="/marktplatz.html" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381390731736" ignored="false" />
     <file path="/marktplatz.css" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381390639677" ignored="false" />
-    <file path="/marktplatz.js" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381390901555" ignored="false" />
+    <file path="/marktplatz.js" changelist="e65a9b57-f6ee-4951-b36a-37758c95d9e8" time="1381391313417" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="marktplatz.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marktplatz.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.09375">
+            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.9615384">
               <folding />
             </state>
           </provider>
@@ -49,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="marktplatz.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="marktplatz.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="3" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+            <state line="13" column="11" selection-start="243" selection-end="243" vertical-scroll-proportion="0.37907377">
               <folding />
             </state>
           </provider>
@@ -82,8 +82,8 @@
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/script/marktplatz.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css" />
-        <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/marktplatz.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
       </list>
     </option>
   </component>
@@ -525,9 +525,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.9615384">
           <folding />
         </state>
       </provider>
@@ -539,9 +539,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.09375">
+        <state line="13" column="11" selection-start="243" selection-end="243" vertical-scroll-proportion="0.37907377">
           <folding />
         </state>
       </provider>
