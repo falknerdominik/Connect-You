@@ -7,5 +7,5 @@
  */
 
 $(" .projekt ").onclick(function(){
-    $(...).scrollTo( 0, 800, {queue:true} );
+    $(" .content").scrollTo( 0, 800, {queue:true} );
 });
