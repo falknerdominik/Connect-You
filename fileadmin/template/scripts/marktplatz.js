@@ -6,6 +6,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-$( ".projekt" ).click(function() {
+$( " .projekt " ).click(function() {
     alert( "Handler for .click() called." );
 });
