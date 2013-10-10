@@ -85,7 +85,9 @@ body, html {
     padding: 0;
 }
 
-#projektinfo {
+.projekt p {
     text-align: center;
     color: #6E6E6E;
+    margin: 0;
+    padding: 0;
 }
