@@ -103,7 +103,8 @@ body, html {
 #logo {
     position: absolute;
     margin-left: 0.5em;
-	size: 
+	width: 80%;
+	height:80%;
     
 }
 
