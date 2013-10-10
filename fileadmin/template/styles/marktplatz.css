@@ -58,10 +58,10 @@ ul {
 *****************/
 
 #contentOut {
-    width: 84%;
+    width: 74%;
     margin: 0 auto;
     margin-top: 1em;
-    height: 90%;
+    height: 80%;
     background-image: url("../images/marketplace_content.png");
     padding: 10%;
 }
