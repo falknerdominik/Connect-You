@@ -66,13 +66,13 @@ body, html {
 
 #projekt {
     width: 33.333%;
-    height: 5em;
+    height: 8em;
     margin-top: 5em;
     float: left;
 }
 
 #projekt:hover {
-    background: radial-gradient( 8em 2em, #009FE4,transparent );
+    background: radial-gradient( 8em 6em, #009FE4,transparent );
     background-size: 100%;
     cursor: pointer;
 }
