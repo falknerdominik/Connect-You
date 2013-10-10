@@ -18,7 +18,7 @@ $( document ).ready(function() {
  *
 */
 function scrollToDetails(){
-    $('html, body').stop().animate({
+    $('html, body').animate({
         scrollTo:(0,800)
     }, 1500,'easeInOutExpo');
 
