@@ -71,7 +71,8 @@ ul {
 
 .projekt {
     width: 33.333%;
-    height: 8em;
+    height: 6em;
+    margin-top: 2em;
     float: left;
     list-style-type: none;
 }
