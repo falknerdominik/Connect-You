@@ -69,6 +69,7 @@ ul {
     margin: 0 auto;
     width: 90%;
     height: 5em;
+    background-color: #3498DB;
 }
 
 #content h2 {
@@ -78,6 +79,7 @@ ul {
     font-size: 200%;
     text-align: center;
     line-height: 200%;
+    margin-top: 1em;
 }
 
 #content h5 {
