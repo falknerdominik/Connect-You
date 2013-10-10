@@ -6,7 +6,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-
 $(" .projekt ").onclick(function(){
-    scrollTo( $(" .content ") );
+    $(...).scrollTo( 0, 800, {queue:true} );
 });
