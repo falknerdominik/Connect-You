@@ -33,7 +33,7 @@
       <file leaf-file-name="marktplatz.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="7" selection-start="1879" selection-end="1879" vertical-scroll-proportion="-17.0">
+            <state line="49" column="11" selection-start="1849" selection-end="1849" vertical-scroll-proportion="-15.038462">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="marktplatz.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="12" selection-start="808" selection-end="808" vertical-scroll-proportion="0.24528302">
+            <state line="70" column="15" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.5660377">
               <folding />
             </state>
           </provider>
@@ -532,14 +532,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="7" selection-start="1879" selection-end="1879" vertical-scroll-proportion="-17.0">
+        <state line="49" column="11" selection-start="1849" selection-end="1849" vertical-scroll-proportion="-15.038462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="12" selection-start="808" selection-end="808" vertical-scroll-proportion="0.24528302">
+        <state line="70" column="15" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.5660377">
           <folding />
         </state>
       </provider>
