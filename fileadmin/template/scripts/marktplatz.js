@@ -18,5 +18,5 @@ $( document ).ready(function() {
  *
 */
 function scrollToDetails(){
-	animate(scrollTo(100,100));
+	animatedScroll(scrollTo(100,100));
 }
