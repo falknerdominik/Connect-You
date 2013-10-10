@@ -70,7 +70,8 @@ ul {
     margin: 0 auto;
     width: 80%;
     background-color: #3498DB;
-    padding: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
 }
 
 #content h2 {
