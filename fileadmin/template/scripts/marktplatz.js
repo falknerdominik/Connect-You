@@ -19,7 +19,7 @@ $( document ).ready(function() {
 */
 function scrollToDetails(){
 
-        //$('body').scrollTo( {top:'30%', left:'0px'}, 800, {easing:'easeInBounce'} );
+        scrollTo( {top:'30%', left:'0px'}, 800, {easing:'easeInBounce'} );
        //scrollTo(0,700);
-    scrollTo( 0, 800, {queue:true} );
+    //$(' #contentOut ').scrollTo( 0, 800, {queue:true} );
 }
