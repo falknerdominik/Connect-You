@@ -26,7 +26,17 @@ $TCA['tx_cymarketplace_domain_model_assignment'] = array(
 					array('LLL:EXT:lang/locallang_general.xlf:LGL.allLanguages', -1),
 					array('LLL:EXT:lang/locallang_general.xlf:LGL.default_value', 0)
 				),
-			),
+		'user' => Array (
+			'exclude' => 1,
+ 			'label' => 'LLL:EXT:mittwald_timetrack/Resources/Private/Language/'
+ 				. 'locallang_db.xml:'
+ 				. 'tx_mittwaldtimetrack_domain_model_assignment.user',
+ 			'config' => Array (
+ 			'type' => 'select',
+ 			'foreign_class' => 'Tx_Extbase_Domain_Model_FrontendUser',
+ 			'foreign_table' => 'fe_users',
+ 			'maxitems' => 1 ) ),
+				),
 		),
 		'l10n_parent' => array(
 			'displayCond' => 'FIELD:sys_language_uid:>:0',
