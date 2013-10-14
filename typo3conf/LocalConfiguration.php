@@ -53,6 +53,7 @@ return array(
 			'felogin',
 			'form',
 			'extension_builder',
+			'cy_marketplace',
 		),
 	),
 	'SYS' => array(
