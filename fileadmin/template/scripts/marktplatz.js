@@ -18,7 +18,7 @@ $( document ).ready(function() {
  *
 */
 function scrollToDetails(){
-    setTimeout(function() {
-        $('body').scrollTo( {top:'30%', left:'0px'}, 800, {easing:'easeInBounce'} );
-    }, 3000);
+
+        //$('body').scrollTo( {top:'30%', left:'0px'}, 800, {easing:'easeInBounce'} );
+        scrollTo(0,700);
 }
