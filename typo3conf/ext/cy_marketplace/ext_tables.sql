@@ -62,8 +62,6 @@ CREATE TABLE tx_cymarketplace_domain_model_assignment (
 	uid int(11) NOT NULL auto_increment,
 	pid int(11) DEFAULT '0' NOT NULL,
 
-	project int(11) unsigned DEFAULT '0' NOT NULL,
-
 	user int(11) unsigned DEFAULT '0',
 	role int(11) unsigned DEFAULT '0' NOT NULL,
 	timeset int(11) unsigned DEFAULT '0' NOT NULL,
