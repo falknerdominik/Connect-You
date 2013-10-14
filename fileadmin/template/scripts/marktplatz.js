@@ -21,5 +21,5 @@ function scrollToDetails(){
 
         //$('body').scrollTo( {top:'30%', left:'0px'}, 800, {easing:'easeInBounce'} );
        //scrollTo(0,700);
-    $('body').scrollTo( 0, 800, {queue:true} );
+    scrollTo( 0, 800, {queue:true} );
 }
