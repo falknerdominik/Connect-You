@@ -20,5 +20,5 @@ $( document ).ready(function() {
 function scrollToDetails(){
 
         scrollTo( {top:'30%', left:'0px'}, 800, {easing:'easeInBounce'} );
-        $(' body, html ').scrollTo( 'li:eq(15)', {duration:3000} );
+        //$(' body, html ').scrollTo( 'li:eq(15)', {duration:3000} );
 }
