@@ -164,11 +164,6 @@ $TCA['tx_cymarketplace_domain_model_assignment'] = array(
 				),
 			),
 		),
-		'project' => array(
-			'config' => array(
-				'type' => 'passthrough',
-			),
-		),
 	),
 );
 
