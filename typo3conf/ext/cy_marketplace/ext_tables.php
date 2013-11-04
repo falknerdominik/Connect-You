@@ -156,4 +156,12 @@ $TCA['tx_cymarketplace_domain_model_project'] = array(
 	),
 );
 
+# fe_users
+$TCA['fe_users']['columns']['tx_extbase_type']['config']['items'][] = array('LLL:EXT:ag_loket/Resources/Private/Language/locallang_db.xlf:fe_users.tx_extbase_type.Tx_AgLoket_Pridelovalec','Tx_AgLoket_Pridelovalec'); 
+
+$TCA['fe_users']['types']['Tx_MyExt_MyClass'] = $TCA['fe_users']['types']['0']; 
+$TCA['fe_users']['types']['Tx_MyExt_MyClass']['showitem'] .= ',--div--;LLL:EXT:ag_loket/Resources/Private/Language/locallang_db.xlf:tx_agloket_domain_model_kmetija,'; 
+$TCA['fe_users']['types']['Tx_MyExt_MyClass']['showitem'] .= ''; 
+
+
 ?>
