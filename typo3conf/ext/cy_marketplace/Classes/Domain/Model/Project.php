@@ -257,6 +257,11 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	public function setClient(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $client) {
 		$this->client = $client;
 	}
-
+	public function getWorkedTime() {
+		$time = 0;
+		foreach($this->getAssignments() as $assignment)
+		$time += $assignment->getWorkedTime();
+		return $time;
+	}
 }
 ?>
