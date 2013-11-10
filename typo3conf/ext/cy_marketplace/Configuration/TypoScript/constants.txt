@@ -1,0 +1,14 @@
+plugin.tx_cymarketplace {
+	view {
+		# cat=plugin.tx_cymarketplace/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:cy_marketplace/Resources/Private/Templates/
+		# cat=plugin.tx_cymarketplace/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:cy_marketplace/Resources/Private/Partials/
+		# cat=plugin.tx_cymarketplace/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:cy_marketplace/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_cymarketplace//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

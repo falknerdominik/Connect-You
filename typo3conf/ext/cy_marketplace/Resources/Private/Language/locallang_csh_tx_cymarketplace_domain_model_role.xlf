@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-10T18:45:03Z" product-name="cy_marketplace">
+		<header/>
+		<body>
+
+			<trans-unit id="rolename.description">
+				<source>rolename</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
