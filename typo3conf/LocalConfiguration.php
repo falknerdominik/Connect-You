@@ -52,7 +52,6 @@ return array(
 			'felogin',
 			'form',
 			'extension_builder',
-			'connectyou',
 		),
 	),
 	'SYS' => array(
