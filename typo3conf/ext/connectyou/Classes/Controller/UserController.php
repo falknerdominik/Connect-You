@@ -34,6 +34,14 @@ namespace TYPO3\Connectyou\Controller;
 class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController {
 
 	/**
+	 * userRepository
+	 *
+	 * @var \TYPO3\Connectyou\Domain\Repository\UserRepository
+	 * @inject
+	 */
+	protected $userRepository;
+
+	/**
 	 * action list
 	 *
 	 * @return void

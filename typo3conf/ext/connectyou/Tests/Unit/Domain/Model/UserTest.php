@@ -142,16 +142,6 @@ class UserTest extends \TYPO3\CMS\Extbase\Tests\Unit\BaseTestCase {
 	/**
 	 * @test
 	 */
-	public function getAddressReturnsInitialValueForAddress() { }
-
-	/**
-	 * @test
-	 */
-	public function setAddressForAddressSetsAddress() { }
-	
-	/**
-	 * @test
-	 */
 	public function getTimesetReturnsInitialValueForTimeset() { 
 		$newObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
 		$this->assertEquals(

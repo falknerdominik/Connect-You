@@ -120,7 +120,7 @@ $TCA['tx_connectyou_domain_model_timeset'] = array(
 			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_timeset.user',
 			'config' => array(
 				'type' => 'select',
-				'foreign_table' => 'tx_connectyou_domain_model_user',
+				'foreign_table' => 'fe_users',
 				'minitems' => 0,
 				'maxitems' => 1,
 			),

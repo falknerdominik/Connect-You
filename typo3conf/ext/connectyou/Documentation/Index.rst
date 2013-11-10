@@ -17,8 +17,8 @@ Extension Name
 :Description: manuals covering TYPO3 extension "Connect-You"
 :Language: en
 :Author: 
-:Creation: 2013-11-06
-:Generation: 09:09
+:Creation: 2013-11-10
+:Generation: 18:14
 :Licence: Open Content License available from `www.opencontent.org/opl.shtml <http://www.opencontent.org/opl.shtml>`_
 
 The content of this document is related to TYPO3, a GNU/GPL CMS/Framework available from `www.typo3.org

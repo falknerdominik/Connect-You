@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-06T09:08:58Z" product-name="connectyou">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-10T18:14:02Z" product-name="connectyou">
 		<header/>
 		<body>
-
-			<trans-unit id="tx_connectyou_domain_model_address">
-				<source>Address</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.plz">
-				<source>Plz</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.location">
-				<source>Location</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.streetname">
-				<source>Streetname</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.streetnumber">
-				<source>Streetnumber</source>
-			</trans-unit>
 
 			<trans-unit id="tx_connectyou_domain_model_user">
 				<source>User</source>
@@ -38,13 +22,14 @@
 			<trans-unit id="tx_connectyou_domain_model_user.phone">
 				<source>Phone</source>
 			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.address">
-				<source>Address</source>
-			</trans-unit>
 			<trans-unit id="tx_connectyou_domain_model_user.timeset">
 				<source>Timeset</source>
 			</trans-unit>
-
+			
+			<trans-unit id="fe_users.tx_extbase_type.Tx_Connectyou_User">
+				<source>Connect-You User</source>
+			</trans-unit>
+			
 			<trans-unit id="tx_connectyou_domain_model_timeset">
 				<source>Timeset</source>
 			</trans-unit>

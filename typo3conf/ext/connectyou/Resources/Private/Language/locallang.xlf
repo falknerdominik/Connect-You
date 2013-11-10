@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-06T09:08:58Z" product-name="connectyou">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-10T18:14:02Z" product-name="connectyou">
 		<header/>
 		<body>
 
-			<trans-unit id="tx_connectyou_domain_model_address">
-				<source>Address</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.plz">
-				<source>Postleitzahl</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.location">
-				<source>The Location</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.streetname">
-				<source>Name of the street</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_address.streetnumber">
-				<source>Number of the house</source>
-			</trans-unit>
-			
 			<trans-unit id="tx_connectyou_domain_model_user">
 				<source>Users</source>
 			</trans-unit>
@@ -37,9 +21,6 @@
 			</trans-unit>
 			<trans-unit id="tx_connectyou_domain_model_user.phone">
 				<source>phone number</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.address">
-				<source>n users can have 1 address. but 1 address can be posessed by n users</source>
 			</trans-unit>
 			<trans-unit id="tx_connectyou_domain_model_user.timeset">
 				<source>timeset</source>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-06T09:08:58Z" product-name="connectyou">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_connectyou_domain_model_address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_address.plz">
+				<source>Plz</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_address.location">
+				<source>Location</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_address.streetname">
+				<source>Streetname</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_address.streetnumber">
+				<source>Streetnumber</source>
+			</trans-unit>
+
+			<trans-unit id="tx_connectyou_domain_model_user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.username">
+				<source>Username</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.firstname">
+				<source>Firstname</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.lastname">
+				<source>Lastname</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.phone">
+				<source>Phone</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_user.timeset">
+				<source>Timeset</source>
+			</trans-unit>
+
+			<trans-unit id="tx_connectyou_domain_model_timeset">
+				<source>Timeset</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_timeset.start_time">
+				<source>Start Time</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_timeset.end_time">
+				<source>End Time</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_timeset.user">
+				<source>User</source>
+			</trans-unit>
+
+			<trans-unit id="tx_connectyou_domain_model_assignment">
+				<source>Assignment</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.role">
+				<source>Role</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.timeset">
+				<source>Timeset</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.project">
+				<source>Project</source>
+			</trans-unit>
+
+			<trans-unit id="tx_connectyou_domain_model_role">
+				<source>Role</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_role.rolename">
+				<source>Rolename</source>
+			</trans-unit>
+
+			<trans-unit id="tx_connectyou_domain_model_project">
+				<source>Project</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.startdate">
+				<source>Startdate</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.enddate">
+				<source>Enddate</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.technologies">
+				<source>Technologies</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.assignments">
+				<source>Assignments</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.client">
+				<source>Client</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>

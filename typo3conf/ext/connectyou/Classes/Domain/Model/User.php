@@ -69,13 +69,6 @@ class User extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	protected $phone;
 
 	/**
-	 * n users can have 1 address. but 1 address can be posessed by n users
-	 *
-	 * @var \TYPO3\Connectyou\Domain\Model\Address
-	 */
-	protected $address;
-
-	/**
 	 * timeset
 	 *
 	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Timeset>
@@ -199,25 +192,6 @@ class User extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	 */
 	public function setPhone($phone) {
 		$this->phone = $phone;
-	}
-
-	/**
-	 * Returns the address
-	 *
-	 * @return \TYPO3\Connectyou\Domain\Model\Address $address
-	 */
-	public function getAddress() {
-		return $this->address;
-	}
-
-	/**
-	 * Sets the address
-	 *
-	 * @param \TYPO3\Connectyou\Domain\Model\Address $address
-	 * @return void
-	 */
-	public function setAddress(\TYPO3\Connectyou\Domain\Model\Address $address) {
-		$this->address = $address;
 	}
 
 	/**
