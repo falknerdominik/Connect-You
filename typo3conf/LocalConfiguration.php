@@ -13,6 +13,7 @@ return array(
 	'EXT' => array(
 		'extConf' => array(
 			'connectyou' => 'a:0:{}',
+			'cy_marketplace' => 'a:0:{}',
 			'extension_builder' => 'a:3:{s:15:"enableRoundtrip";s:0:"";s:15:"backupExtension";s:1:"1";s:9:"backupDir";s:35:"uploads/tx_extensionbuilder/backups";}',
 		),
 		'extListArray' => array(
@@ -52,6 +53,7 @@ return array(
 			'felogin',
 			'form',
 			'extension_builder',
+			'cy_marketplace',
 		),
 	),
 	'SYS' => array(
