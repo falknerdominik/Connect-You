@@ -225,6 +225,11 @@ class Assignment extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	public function setProject(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $project) {
 		$this->project = $project;
 	}
-
+	public function getWorkedTime() {
+		$time = 0;
+		foreach($this->getTimesets() as $timeset)
+		$time += $timeset->getWorkedTime();
+		return $time;
+	}
 }
 ?>
