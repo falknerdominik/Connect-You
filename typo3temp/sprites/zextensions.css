@@ -20,6 +20,11 @@
 	background-image: url('../../typo3/sysext/t3skin/icons/gfx/i/backend_layout.gif') !important;
 }
 	
+.t3-icon-fe_users-default {
+	background-position: 0px 0px !important;
+	background-image: url('../../typo3conf/ext/connectyou/Resources/Public/Icons/fe_users.gif') !important;
+}
+	
 .t3-icon-sys_note-default {
 	background-position: 0px 0px !important;
 	background-image: url('../../typo3/sysext/sys_note/ext_icon.gif') !important;
@@ -28,5 +33,25 @@
 .t3-icon-tx_rtehtmlarea_acronym-default {
 	background-position: 0px 0px !important;
 	background-image: url('../../typo3/sysext/rtehtmlarea/extensions/Acronym/skin/images/acronym.gif') !important;
+}
+	
+.t3-icon-tx_connectyou_domain_model_timeset-default {
+	background-position: 0px 0px !important;
+	background-image: url('../../typo3conf/ext/connectyou/Resources/Public/Icons/tx_connectyou_domain_model_timeset.gif') !important;
+}
+	
+.t3-icon-tx_connectyou_domain_model_assignment-default {
+	background-position: 0px 0px !important;
+	background-image: url('../../typo3conf/ext/connectyou/Resources/Public/Icons/tx_connectyou_domain_model_assignment.gif') !important;
+}
+	
+.t3-icon-tx_connectyou_domain_model_role-default {
+	background-position: 0px 0px !important;
+	background-image: url('../../typo3conf/ext/connectyou/Resources/Public/Icons/tx_connectyou_domain_model_role.gif') !important;
+}
+	
+.t3-icon-tx_connectyou_domain_model_project-default {
+	background-position: 0px 0px !important;
+	background-image: url('../../typo3conf/ext/connectyou/Resources/Public/Icons/tx_connectyou_domain_model_project.gif') !important;
 }
 	
