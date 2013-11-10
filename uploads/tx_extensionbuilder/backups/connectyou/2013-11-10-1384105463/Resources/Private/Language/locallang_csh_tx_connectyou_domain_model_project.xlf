@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-10T18:43:05Z" product-name="connectyou">
+		<header/>
+		<body>
+
+			<trans-unit id="name.description">
+				<source>Projectname</source>
+			</trans-unit>
+			<trans-unit id="startdate.description">
+				<source>startdate</source>
+			</trans-unit>
+			<trans-unit id="enddate.description">
+				<source>enddate</source>
+			</trans-unit>
+			<trans-unit id="technologies.description">
+				<source>What technologies are used</source>
+			</trans-unit>
+			<trans-unit id="assignments.description">
+				<source>assignments</source>
+			</trans-unit>
+			<trans-unit id="client.description">
+				<source>client</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,14 @@
+plugin.tx_connectyou {
+	view {
+		# cat=plugin.tx_connectyou/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:connectyou/Resources/Private/Templates/
+		# cat=plugin.tx_connectyou/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:connectyou/Resources/Private/Partials/
+		# cat=plugin.tx_connectyou/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:connectyou/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_connectyou//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

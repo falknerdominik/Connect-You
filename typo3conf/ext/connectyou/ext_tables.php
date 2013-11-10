@@ -16,7 +16,7 @@ if (!defined('TYPO3_MODE')) {
 $TCA['fe_users'] = array(
 	'ctrl' => array(
 		'title'	=> 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:fe_users',
-		'label' => 'username',
+		'label' => 'timeset',
 		'tstamp' => 'tstamp',
 		'crdate' => 'crdate',
 		'cruser_id' => 'cruser_id',
@@ -34,7 +34,7 @@ $TCA['fe_users'] = array(
 			'starttime' => 'starttime',
 			'endtime' => 'endtime',
 		),
-		'searchFields' => 'username,firstname,lastname,email,phone,timeset,',
+		'searchFields' => 'timeset,',
 		'dynamicConfigFile' => \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extPath($_EXTKEY) . 'Configuration/TCA/User.php',
 		'iconfile' => \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extRelPath($_EXTKEY) . 'Resources/Public/Icons/fe_users.gif'
 	),

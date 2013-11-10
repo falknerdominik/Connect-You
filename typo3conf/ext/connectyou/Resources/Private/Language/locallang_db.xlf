@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-10T18:43:05Z" product-name="connectyou">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-11-10T18:44:25Z" product-name="connectyou">
 		<header/>
 		<body>
 
 			<trans-unit id="tx_connectyou_domain_model_user">
 				<source>User</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.username">
-				<source>Username</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.firstname">
-				<source>Firstname</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.lastname">
-				<source>Lastname</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.email">
-				<source>Email</source>
-			</trans-unit>
-			<trans-unit id="tx_connectyou_domain_model_user.phone">
-				<source>Phone</source>
 			</trans-unit>
 			<trans-unit id="tx_connectyou_domain_model_user.timeset">
 				<source>Timeset</source>
