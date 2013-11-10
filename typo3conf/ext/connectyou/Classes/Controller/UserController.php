@@ -4,7 +4,8 @@ namespace TYPO3\Connectyou\Controller;
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2013 
+ *  (c) 2013 Falkner Dominik <falkner.dominik@gmail.com>, BBS-Rohbach
+ *  
  *  All rights reserved
  *
  *  This script is part of the TYPO3 project. The TYPO3 project is

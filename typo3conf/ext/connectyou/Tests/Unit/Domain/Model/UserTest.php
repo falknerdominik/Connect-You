@@ -4,7 +4,8 @@ namespace TYPO3\Connectyou\Tests;
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2013 
+ *  (c) 2013 Falkner Dominik <falkner.dominik@gmail.com>, BBS-Rohbach
+ *  			
  *  All rights reserved
  *
  *  This script is part of the TYPO3 project. The TYPO3 project is
@@ -34,6 +35,7 @@ namespace TYPO3\Connectyou\Tests;
  * @package TYPO3
  * @subpackage Connect-You
  *
+ * @author Falkner Dominik <falkner.dominik@gmail.com>
  */
 class UserTest extends \TYPO3\CMS\Extbase\Tests\Unit\BaseTestCase {
 	/**
