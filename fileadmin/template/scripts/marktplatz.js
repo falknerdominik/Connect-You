@@ -5,8 +5,9 @@
  * Time: 09:03
  * To change this template use File | Settings | File Templates.
  */
+ 
+$( "#projects li ").click(scrollToDetails);
 
-$( "#projects li ").click(function() {
+function scrollToDetails(){
     alert( "Handler for .click() called." );
-});
-
+}
