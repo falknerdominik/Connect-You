@@ -5,7 +5,8 @@
  * Time: 09:03
  * To change this template use File | Settings | File Templates.
  */
- 
-$( "#projects li" ).click(function() {
-alert( "Handler for .click() called." );
-});
+ $(document).load(function(){
+	$( "#projects li" ).click(function() {
+		alert( "Handler for .click() called." );
+	});
+ });
