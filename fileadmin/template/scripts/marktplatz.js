@@ -9,7 +9,7 @@
  // READY
 $( document ).ready(function() {
 
-	// bind functions to elements
+	// Fügt den Event-Handler zu den Projekt lis hinzu
 	$( "#projects li" ).click(scrollToDetails);
 });
 
