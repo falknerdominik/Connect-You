@@ -7,7 +7,9 @@
  */
 
 $( document ).ready(function() {
-	$( "#projects li" ).click(function() {
-		alert( "Handler for .click() called." );
-	});
+	$( "#projects li" ).click(scrollToDetails);
 });
+
+function scrollToDetails(){
+	alert( "Handler for .click() called." );
+}
