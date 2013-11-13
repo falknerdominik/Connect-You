@@ -13,6 +13,10 @@ $( document ).ready(function() {
 	$( "#projects li" ).click(scrollToDetails);
 });
 
+/*
+ * Scrollt zu den Details, wird beim Klick auf ein Projekt aufgerufen 
+ * 
+*/
 function scrollToDetails(){
 	alert( "Handler for .click() called." );
 }
