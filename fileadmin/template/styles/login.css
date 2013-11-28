@@ -30,4 +30,5 @@ body, html {
     position: relative;
     width: 100%;
     bottom: 10%;
+    background: url("../images/Background/Pinnwand.png");
 }
