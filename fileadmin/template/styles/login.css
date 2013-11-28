@@ -34,10 +34,11 @@ body, html {
 }
 #content div {
     margin-left:10em;
-}
-#content a {
     color: #3498DB;
     text-decoration: none;
+}
+#content a {
+
 }
 #logo {
     width: 45%;
