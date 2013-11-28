@@ -29,6 +29,7 @@ body, html {
     height: 25%;
     bottom: 5%;
     background: url("../images/Background/Pinnwand.png");
+    border-top: 3px solid white;
 }
 #logo {
     width: 45%;
