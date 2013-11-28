@@ -27,6 +27,8 @@ body, html {
 
 #contenttop {
     background: url("../images/Login_Hintergrund.png");
+    width: 100%;
+    height: 100%;
 }
 
 #contentbottom {
