@@ -32,6 +32,9 @@ body, html {
     border-top: 2px solid white;
     border-bottom: 2px solid white;
 }
+#content a {
+    
+}
 #logo {
     width: 45%;
     margin: 0 auto;
