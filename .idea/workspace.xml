@@ -35,7 +35,7 @@
       <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
+            <state line="7" column="25" selection-start="91" selection-end="91" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
               <folding />
             </state>
           </provider>
@@ -66,8 +66,8 @@
         <option value="$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/marktplatz.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
-        <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
       </list>
     </option>
   </component>
@@ -414,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
+        <state line="7" column="25" selection-start="91" selection-end="91" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
           <folding />
         </state>
       </provider>
