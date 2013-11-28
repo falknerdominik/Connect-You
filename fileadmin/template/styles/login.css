@@ -33,14 +33,13 @@ body, html {
     border-bottom: 3px solid white;
 }
 #content div {
-    color: #3498DB;
     position: absolute;
     bottom: 0px;
     right: 0px;
 }
 #content a {
     font-size: 40pt;
-    color:red;
+    color: #3498DB;
 }
 #logo {
     width: 45%;
