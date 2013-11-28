@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="86" selection-start="151" selection-end="151" vertical-scroll-proportion="0.17028381" vertical-offset="0" max-vertical-offset="599">
+            <state line="6" column="86" selection-start="151" selection-end="151" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="19" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="901">
+            <state line="46" column="19" selection-start="839" selection-end="839" vertical-scroll-proportion="0.8096" vertical-offset="276" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -397,16 +397,16 @@
         <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="0.17406143" vertical-offset="0" max-vertical-offset="986" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="19" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="901">
+        <state line="6" column="86" selection-start="151" selection-end="151" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="86" selection-start="151" selection-end="151" vertical-scroll-proportion="0.17028381" vertical-offset="0" max-vertical-offset="599">
+        <state line="46" column="19" selection-start="839" selection-end="839" vertical-scroll-proportion="0.8096" vertical-offset="276" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
