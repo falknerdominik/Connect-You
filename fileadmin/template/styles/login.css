@@ -39,6 +39,7 @@ body, html {
 }
 #content a {
     color: #3498DB;
+    text-decoration: none;
 }
 #logo {
     width: 45%;
