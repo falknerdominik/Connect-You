@@ -31,5 +31,6 @@ body, html {
     background: url("../images/Background/Pinnwand.png");
 }
 #logo {
-    height: 70%;
+    width: 70%;
+    margin: 0 auto;
 }
