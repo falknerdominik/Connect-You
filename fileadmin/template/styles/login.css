@@ -34,7 +34,7 @@ body, html {
 }
 #content a {
     color: #3498DB;
-    position: relative;
+    position: absolute;
     bottom: 0px;
     right: 0px;
 }
