@@ -20,13 +20,6 @@ body, html {
 	padding: 0;
 }
 
-html{
-	background: radial-gradient( 40em 30em,  #ffffff, #009FE4 );
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-
-
 
 /*****************
  * Logo und Loginformular
