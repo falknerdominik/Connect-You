@@ -29,8 +29,8 @@ body, html {
     height: 25%;
     bottom: 5%;
     background: url("../images/Background/Pinnwand.png");
-    border-top: 3px solid white;
-    border-bottom: 3px solid white;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
 }
 #content div {
     margin-left:10em;
