@@ -25,3 +25,10 @@ body, html {
  * Logo und Loginformular
 *****************/
 
+#contenttop {
+    background: url("../images/Login_Hintergrund.png");
+}
+
+#contentbottom {
+
+}

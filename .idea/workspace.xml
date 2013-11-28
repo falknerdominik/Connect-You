@@ -26,16 +26,7 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.5712" vertical-offset="0" max-vertical-offset="625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marktplatz.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="986">
+            <state line="28" column="55" selection-start="441" selection-end="441" vertical-scroll-proportion="0.7008" vertical-offset="38" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -197,6 +188,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fileadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="986">
+        <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="0.17406143" vertical-offset="0" max-vertical-offset="986">
           <folding />
         </state>
       </provider>
@@ -401,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.5712" vertical-offset="0" max-vertical-offset="625">
+        <state line="28" column="55" selection-start="441" selection-end="441" vertical-scroll-proportion="0.7008" vertical-offset="38" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
