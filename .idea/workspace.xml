@@ -23,10 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="0" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.4288" vertical-offset="1092" max-vertical-offset="1717">
+            <state line="80" column="0" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="1717">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marktplatz.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="986">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="3" selection-start="68" selection-end="68" vertical-scroll-proportion="0.17028381" vertical-offset="0" max-vertical-offset="599">
               <folding />
             </state>
           </provider>
@@ -58,6 +76,7 @@
         <option value="$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/marktplatz.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
       </list>
     </option>
   </component>
@@ -222,6 +241,12 @@
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
@@ -289,11 +314,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="16" selection-start="1516" selection-end="1516" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -351,13 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="172" selection-end="172" vertical-scroll-proportion="0.34812286" vertical-offset="0" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3temp/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599">
@@ -374,7 +387,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="0" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.4288" vertical-offset="1092" max-vertical-offset="1717">
+        <state line="80" column="0" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="68" selection-end="68" vertical-scroll-proportion="0.17028381" vertical-offset="0" max-vertical-offset="599">
           <folding />
         </state>
       </provider>
