@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="23" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="833">
+            <state line="35" column="19" selection-start="673" selection-end="673" vertical-scroll-proportion="0.6192" vertical-offset="208" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="297" selection-end="297" vertical-scroll-proportion="0.34056762" vertical-offset="0" max-vertical-offset="599">
+            <state line="9" column="25" selection-start="182" selection-end="190" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -66,8 +66,8 @@
         <option value="$PROJECT_DIR$/fileadmin/template/styles/marktplatz.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/marktplatz.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
-        <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
       </list>
     </option>
   </component>
@@ -405,16 +405,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="23" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="833">
+        <state line="9" column="25" selection-start="182" selection-end="190" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="297" selection-end="297" vertical-scroll-proportion="0.34056762" vertical-offset="0" max-vertical-offset="599">
+        <state line="35" column="19" selection-start="673" selection-end="673" vertical-scroll-proportion="0.6192" vertical-offset="208" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
