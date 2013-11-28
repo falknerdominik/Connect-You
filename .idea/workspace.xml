@@ -35,7 +35,7 @@
       <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="21" selection-start="767" selection-end="767" vertical-scroll-proportion="0.864" vertical-offset="157" max-vertical-offset="884">
+            <state line="35" column="21" selection-start="675" selection-end="675" vertical-scroll-proportion="0.592" vertical-offset="225" max-vertical-offset="850">
               <folding />
             </state>
           </provider>
@@ -406,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="21" selection-start="767" selection-end="767" vertical-scroll-proportion="0.864" vertical-offset="157" max-vertical-offset="884">
+        <state line="35" column="21" selection-start="675" selection-end="675" vertical-scroll-proportion="0.592" vertical-offset="225" max-vertical-offset="850">
           <folding />
         </state>
       </provider>
