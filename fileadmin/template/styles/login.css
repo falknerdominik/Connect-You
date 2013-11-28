@@ -33,7 +33,8 @@ body, html {
     border-bottom: 2px solid white;
 }
 #content div {
-    margin-left:10em;
+   position: absolute;
+    right: 0px;
 }
 #content a {
     color: #3498DB;
