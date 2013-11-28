@@ -26,6 +26,7 @@ body, html {
 #content {
     position: relative;
     width: 100%;
+    height: 25%;
     margin-bottom: 1%;
     background: url("../images/Background/Pinnwand.png");
     border-top: 2px solid white;
