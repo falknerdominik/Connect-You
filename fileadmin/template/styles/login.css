@@ -32,5 +32,6 @@ body, html {
 }
 #logo {
     width: 10em;
+    position: absolute;
     margin: 0 auto;
 }
