@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="0" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="1717">
+            <state line="34" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.8368" vertical-offset="55" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
+            <state line="7" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -69,7 +69,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
-        <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinnwand.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/script/marktplatz.js" />
@@ -77,6 +76,7 @@
         <option value="$PROJECT_DIR$/fileadmin/template/html/marktplatz.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
       </list>
     </option>
   </component>
@@ -385,13 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="0" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="1717">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marktplatz.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="9" selection-start="74" selection-end="74" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="986">
@@ -401,7 +394,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="599">
+        <state line="7" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.8368" vertical-offset="55" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
