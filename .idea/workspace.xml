@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="" />
+    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/deprecation_1f0438d617.log" afterPath="$PROJECT_DIR$/typo3conf/deprecation_1f0438d617.log" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +46,7 @@
       <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="1.7093235" vertical-offset="51" max-vertical-offset="3009">
+            <state line="90" column="27" selection-start="3941" selection-end="3941" vertical-scroll-proportion="-0.9323583" vertical-offset="2040" max-vertical-offset="3009">
               <folding />
             </state>
           </provider>
@@ -421,7 +423,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="181" selection-start="2829" selection-end="2829" vertical-scroll-proportion="1.7093235" vertical-offset="51" max-vertical-offset="3009">
+        <state line="90" column="27" selection-start="3941" selection-end="3941" vertical-scroll-proportion="-0.9323583" vertical-offset="2040" max-vertical-offset="3009">
           <folding />
         </state>
       </provider>
