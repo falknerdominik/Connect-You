@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/typo3/sysext/felogin/old_template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3/sysext/felogin/template.html" afterPath="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +56,7 @@
       <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="2" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.12431444" vertical-offset="697" max-vertical-offset="2941">
+            <state line="38" column="39" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.21755028" vertical-offset="527" max-vertical-offset="2499">
               <folding />
             </state>
           </provider>
@@ -431,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="2" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.12431444" vertical-offset="697" max-vertical-offset="2941">
+        <state line="38" column="39" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.21755028" vertical-offset="527" max-vertical-offset="2499">
           <folding />
         </state>
       </provider>
