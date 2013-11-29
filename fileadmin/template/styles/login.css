@@ -55,7 +55,7 @@ body, html {
     margin: 0 auto;
     height: 100%;
 }
-.formcontrol {
+#user {
     height: 1em;
 }
 #loginbutton {
