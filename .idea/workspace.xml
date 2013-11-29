@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" />
-    </list>
+    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
