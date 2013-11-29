@@ -44,7 +44,7 @@
       <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="2446" selection-end="2446" vertical-scroll-proportion="0.49317408" vertical-offset="561" max-vertical-offset="2499">
+            <state line="46" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.3771331" vertical-offset="561" max-vertical-offset="2499">
               <folding />
             </state>
           </provider>
@@ -419,7 +419,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="2446" selection-end="2446" vertical-scroll-proportion="0.49317408" vertical-offset="561" max-vertical-offset="2499">
+        <state line="46" column="23" selection-start="2158" selection-end="2158" vertical-scroll-proportion="0.3771331" vertical-offset="561" max-vertical-offset="2499">
           <folding />
         </state>
       </provider>
