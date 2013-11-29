@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="" />
+    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/login.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/login.html" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +37,7 @@
       <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="8" selection-start="438" selection-end="438" vertical-scroll-proportion="0.51607144" vertical-offset="0" max-vertical-offset="560">
+            <state line="11" column="21" selection-start="300" selection-end="300" vertical-scroll-proportion="0.33392859" vertical-offset="0" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
@@ -330,7 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="438" selection-end="438" vertical-scroll-proportion="0.51607144" vertical-offset="0" max-vertical-offset="560">
+        <state line="11" column="21" selection-start="300" selection-end="300" vertical-scroll-proportion="0.33392859" vertical-offset="0" max-vertical-offset="560">
           <folding />
         </state>
       </provider>
