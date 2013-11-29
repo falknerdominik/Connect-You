@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="544">
+            <state line="9" column="33" selection-start="245" selection-end="245" vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="felogin.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="felogin.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="0.09107143" vertical-offset="0" max-vertical-offset="560">
+            <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="170">
               <folding />
             </state>
           </provider>
@@ -413,16 +413,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="544">
+        <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="170">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="0.09107143" vertical-offset="0" max-vertical-offset="560">
+        <state line="9" column="33" selection-start="245" selection-end="245" vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="560">
           <folding />
         </state>
       </provider>
