@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/typo3/sysext/felogin/old_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3/sysext/felogin/template.html" afterPath="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,10 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="felogin.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
+      <file leaf-file-name="old_template.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/old_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="71" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.1535649" vertical-offset="749" max-vertical-offset="3009">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3009">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="2" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.12431444" vertical-offset="697" max-vertical-offset="2941">
               <folding />
             </state>
           </provider>
@@ -70,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinnwand.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinnwand.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/script/marktplatz.js" />
@@ -78,8 +87,9 @@
         <option value="$PROJECT_DIR$/fileadmin/template/html/marktplatz.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/marktplatz.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
-        <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/login.html" />
+        <option value="$PROJECT_DIR$/typo3/sysext/felogin/template.html" />
       </list>
     </option>
   </component>
@@ -253,6 +263,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Connect-You\typo3\sysext\felogin" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
@@ -333,11 +348,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="49" selection-start="1560" selection-end="1560" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="25" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
@@ -398,6 +408,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="71" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.1535649" vertical-offset="749" max-vertical-offset="3009">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="544">
@@ -405,16 +422,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
+    <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/old_template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="37" selection-start="0" selection-end="6069" vertical-scroll-proportion="-17.0" vertical-offset="153" max-vertical-offset="3009">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3009">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
+    <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="71" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.1535649" vertical-offset="749" max-vertical-offset="3009">
+        <state line="45" column="2" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.12431444" vertical-offset="697" max-vertical-offset="2941">
           <folding />
         </state>
       </provider>
