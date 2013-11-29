@@ -49,6 +49,6 @@ body, html {
 }
 #logo img {
     width: 100%;
-    clear: both;
+    height: same-as-width;
 
 }
