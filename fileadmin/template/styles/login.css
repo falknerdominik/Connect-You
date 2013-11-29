@@ -53,6 +53,7 @@ body, html {
 #loginformular {
     width: 20%;
     margin: 0 auto;
+    height: 100%;
 }
 #loginbutton {
     width: 100%;
