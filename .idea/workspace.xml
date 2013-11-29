@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileadmin/template/styles/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/deprecation_a3533015f4.log" afterPath="$PROJECT_DIR$/typo3conf/deprecation_a3533015f4.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/styles/login.css" afterPath="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/login.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
