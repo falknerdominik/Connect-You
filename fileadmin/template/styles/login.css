@@ -27,7 +27,7 @@ body, html {
     position: relative;
     width: 100%;
     height: 25%;
-    margin-bottom: 1%;
+    margin-bottom: 2%;
     background: url("../images/Background/Pinnwand.png");
     border-top: 2px solid white;
     border-bottom: 2px solid white;
@@ -45,7 +45,7 @@ body, html {
 #logo {
     width: 40%;
     margin: 0 auto;
-    height: 74%;
+    height: 73%;
 }
 #logo img {
     width: 100%;
