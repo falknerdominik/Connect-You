@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="felogin.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="23" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.06032907" vertical-offset="749" max-vertical-offset="3009">
+            <state line="49" column="71" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.1535649" vertical-offset="749" max-vertical-offset="3009">
               <folding />
             </state>
           </provider>
@@ -414,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="23" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.06032907" vertical-offset="749" max-vertical-offset="3009">
+        <state line="49" column="71" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.1535649" vertical-offset="749" max-vertical-offset="3009">
           <folding />
         </state>
       </provider>
