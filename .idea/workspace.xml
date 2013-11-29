@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="" />
+    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,19 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="37" selection-start="0" selection-end="6069" vertical-scroll-proportion="-17.0" vertical-offset="153" max-vertical-offset="3009">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="felogin.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="171" column="0" selection-start="6493" selection-end="6493" vertical-scroll-proportion="5.0639853" vertical-offset="137" max-vertical-offset="3009">
+            <state line="50" column="0" selection-start="2370" selection-end="2391" vertical-scroll-proportion="0.09140768" vertical-offset="800" max-vertical-offset="3009">
               <folding />
             </state>
           </provider>
@@ -421,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="171" column="0" selection-start="6493" selection-end="6493" vertical-scroll-proportion="5.0639853" vertical-offset="137" max-vertical-offset="3009">
+        <state line="50" column="0" selection-start="2370" selection-end="2391" vertical-scroll-proportion="0.09140768" vertical-offset="800" max-vertical-offset="3009">
           <folding />
         </state>
       </provider>
