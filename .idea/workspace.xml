@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="0" selection-start="1009" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="548" max-vertical-offset="1173">
+            <state line="62" column="13" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.7965812" vertical-offset="588" max-vertical-offset="1173">
               <folding />
             </state>
           </provider>
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="35" selection-start="2328" selection-end="2328" vertical-scroll-proportion="0.4981685" vertical-offset="561" max-vertical-offset="2499">
+            <state line="49" column="35" selection-start="2328" selection-end="2328" vertical-scroll-proportion="-10.461538" vertical-offset="561" max-vertical-offset="2499">
               <folding />
             </state>
           </provider>
@@ -468,16 +468,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
+    <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="1009" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="548" max-vertical-offset="1173">
+        <state line="49" column="35" selection-start="2328" selection-end="2328" vertical-scroll-proportion="-10.461538" vertical-offset="561" max-vertical-offset="2499">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="35" selection-start="2328" selection-end="2328" vertical-scroll-proportion="0.4981685" vertical-offset="561" max-vertical-offset="2499">
+        <state line="62" column="13" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.7965812" vertical-offset="588" max-vertical-offset="1173">
           <folding />
         </state>
       </provider>
