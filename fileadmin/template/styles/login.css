@@ -45,6 +45,7 @@ body, html {
 #logo {
     width: 40%;
     margin: 0 auto;
+    height: 40%;
 }
 #logo img {
     width: 100%;
