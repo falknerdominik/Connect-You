@@ -27,10 +27,7 @@
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="969">
-              <folding>
-                <marker date="1385745308158" expanded="true" signature="815:854" placeholder="{...}" />
-                <marker date="1385745308158" expanded="true" signature="880:902" placeholder="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -173,8 +170,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -327,10 +324,7 @@
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/login.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="969">
-          <folding>
-            <marker date="1385745308158" expanded="true" signature="815:854" placeholder="{...}" />
-            <marker date="1385745308158" expanded="true" signature="880:902" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
