@@ -49,6 +49,6 @@ body, html {
 }
 #logo img {
     width: 100%;
-    height: same-as-width
+    height: inherit;
 
 }
