@@ -59,7 +59,7 @@ body, html {
     height: 15%;
 }
 #pass {
-    
+    margin-bottom: 0.2em;
 }
 #loginbutton {
     width: 100%;
