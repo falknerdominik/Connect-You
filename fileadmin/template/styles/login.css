@@ -51,5 +51,6 @@ body, html {
     width: 100%;
 }
 #loginformular {
-    width: 5em;
+    width: 10%;
+    margin: 0 auto;
 }
