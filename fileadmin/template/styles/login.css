@@ -55,11 +55,8 @@ body, html {
     margin: 0 auto;
     height: 100%;
 }
-#user {
-    height:50%;
-}
-#pass {
-    height: 30%;
+.formcontrol {
+    height: 4em;
 }
 #loginbutton {
     width: 100%;
