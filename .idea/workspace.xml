@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/login.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="195" selection-end="195" vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="595">
+            <state line="14" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.425" vertical-offset="0" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
@@ -360,7 +358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="195" selection-end="195" vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="595">
+        <state line="14" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.425" vertical-offset="0" max-vertical-offset="560">
           <folding />
         </state>
       </provider>
