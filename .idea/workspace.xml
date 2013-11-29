@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/html/login.html" afterPath="$PROJECT_DIR$/fileadmin/template/html/login.html" />
-    </list>
+    <list default="true" id="e65a9b57-f6ee-4951-b36a-37758c95d9e8" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="560">
+            <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="felogin.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="felogin.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="170">
+            <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="0.09107143" vertical-offset="0" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
@@ -415,16 +413,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="170">
+        <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="544">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/login.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/extensions/felogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="0.27321428" vertical-offset="0" max-vertical-offset="560">
+        <state line="3" column="61" selection-start="193" selection-end="193" vertical-scroll-proportion="0.09107143" vertical-offset="0" max-vertical-offset="560">
           <folding />
         </state>
       </provider>
