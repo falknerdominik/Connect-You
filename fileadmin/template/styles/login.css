@@ -63,6 +63,8 @@ body, html {
 #pass {
     margin-bottom: 0.2em;
     width: 100%;
+    background: white url(/path/to/icon.png) right no-repeat;
+    padding-right: 17px;
 }
 #loginbutton {
     width: 105.5%;
