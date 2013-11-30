@@ -54,8 +54,7 @@ body, html {
 #left ul li p {
     margin: 0;
     padding: 0;
-    position: relative;
-    bottom: 1px;
+    margin-top: 2em;
 }
 /*****************
  * Menü-Oben
