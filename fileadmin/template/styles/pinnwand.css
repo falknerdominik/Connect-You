@@ -44,6 +44,7 @@ body, html {
 #left ul li {
     width: 90%;
     height: 8em;
+    text-align: center;
 }
 /*****************
  * Menü-Oben
