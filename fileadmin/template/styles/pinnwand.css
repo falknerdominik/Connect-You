@@ -55,4 +55,5 @@ body, html {
 #top ul li {
     float: left;
     color: white;
+    letter-spacing: 0.1em;
 }
