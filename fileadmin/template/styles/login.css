@@ -63,7 +63,7 @@ body, html {
 #pass {
     margin-bottom: 0.2em;
     width: 100%;
-    background: white url(/path/to/icon.png) right no-repeat;
+    background: white url("../images/Anmelden_Icon.png") right no-repeat;
     padding-right: 17px;
 }
 #loginbutton {
