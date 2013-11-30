@@ -42,3 +42,6 @@ body, html {
     background-repeat:repeat;
     border-bottom: 3px solid #5FCCFF;
 }
+#left h1 {
+    color: white;
+}
