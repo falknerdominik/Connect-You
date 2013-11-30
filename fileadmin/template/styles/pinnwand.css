@@ -36,4 +36,8 @@ body, html {
 *****************/
 #top {
     height: 10%;
+    float: left;
+    width: 80%;
+    background-image: url("../images/Background/Pinnwand.png");
+    background-repeat:repeat;
 }
