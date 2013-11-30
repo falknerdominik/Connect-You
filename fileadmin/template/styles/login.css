@@ -33,6 +33,7 @@ body, html {
     border-bottom: 2px solid white;
     box-shadow:inset 0 20px 20px -5px #000000;
     -webkit-border-top-image: url("../images/Logo_MP.png");
+    -moz-border-top-image: url("../images/Logo_MP.png");
 }
 #content #register {
    position: absolute;
