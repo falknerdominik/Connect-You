@@ -13,7 +13,6 @@
 /*****************
  * Allgemein
 *****************/
-
 body, html {
     height: 100%;
     margin: 0;
@@ -21,11 +20,9 @@ body, html {
 	background-color: #E7E7E7;
 	
 }
-
 /*****************
  * Menü-Links
 *****************/
-
 #left {
     float: left;
     height: 100%;
@@ -34,8 +31,9 @@ body, html {
 	background-repeat:repeat;
     border-right: 3px solid #9B59B6;
 }
-
 /*****************
  * Menü-Top
 *****************/
-
+#top {
+    height: 10%;
+}
