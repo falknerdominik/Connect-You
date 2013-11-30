@@ -28,7 +28,7 @@ body, html {
 
 #left {
     float: left;
-    height: 96%;
+    height: 100%;
     width: 10%;
     background-image: url(../images/Background/Rahmen.png);
 	background-repeat:repeat;
