@@ -64,7 +64,6 @@ body, html {
     margin-bottom: 0.2em;
     width: 100%;
     background: white url("../images/Anmelden_Icon.png") right no-repeat;
-    margin-right: 27px;
 }
 #loginbutton {
     width: 105.5%;
