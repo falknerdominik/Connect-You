@@ -62,4 +62,5 @@ body, html {
 }
 #top ul li:hover {
     color: #5FCCFF;
+    border-bottom: 1px solid #5FCCFF;
 }
