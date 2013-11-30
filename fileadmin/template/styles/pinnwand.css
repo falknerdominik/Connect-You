@@ -59,6 +59,7 @@ body, html {
     margin-right: 2em;
     margin-top: 1.4em;
     font-size: 12pt;
+    padding-bottom: 1em;
 }
 #top ul li:hover {
     color: #5FCCFF;
