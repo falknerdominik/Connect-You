@@ -44,10 +44,10 @@ body, html {
     margin: 0 auto;
 }
 #left ul li {
-
     height: 8em;
     text-align: center;
     border: 1px solid #9B59B6;
+    border-radius: 3px;
 }
 /*****************
  * Menü-Oben
