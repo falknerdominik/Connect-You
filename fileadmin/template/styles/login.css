@@ -52,10 +52,11 @@ body, html {
     width: 100%;
 }
 #loginformular {
+    position: relative;
     width: 18%;
     margin: 0 auto;
     height: 90%;
-    margin-top: 2%;
+    margin-top: 5%;
 }
 #user {
     margin-bottom: 0.2em;
