@@ -45,5 +45,6 @@ body, html {
 #left h1 {
     color: white;
     font-size: 18pt;
-    margin-rigth: 0;
+    float: right;
+    margin-right: 1em;
 }
