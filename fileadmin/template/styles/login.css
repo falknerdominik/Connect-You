@@ -65,7 +65,6 @@ body, html {
     margin-bottom: 0.2em;
     width: 100%;
     background: white url("../images/Passwort_Icon.png") right no-repeat;
-    background-position: 10px 30px 30px 10px;
 }
 #loginbutton {
     width: 105.5%;
