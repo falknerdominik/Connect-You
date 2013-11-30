@@ -59,11 +59,12 @@ body, html {
 #user {
     margin-bottom: 0.2em;
     width: 100%;
+    background: white url("../images/Anmelden_Icon.png") right no-repeat;
 }
 #pass {
     margin-bottom: 0.2em;
     width: 100%;
-    background: white url("../images/Anmelden_Icon.png") right no-repeat;
+
 }
 #loginbutton {
     width: 105.5%;
