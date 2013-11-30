@@ -60,6 +60,7 @@ body, html {
     margin-bottom: 0.2em;
     width: 100%;
     background: white url("../images/Anmelden_Icon.png") right no-repeat;
+    background-size: 12% 80%;
 }
 #pass {
     margin-bottom: 0.2em;
