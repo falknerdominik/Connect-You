@@ -57,9 +57,11 @@ body, html {
 }
 #user {
     margin-bottom: 0.2em;
+    width: 100%;
 }
 #pass {
     margin-bottom: 0.2em;
+    width: 100%;
 }
 #loginbutton {
     width: 100%;
