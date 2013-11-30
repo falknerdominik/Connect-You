@@ -40,6 +40,7 @@ body, html {
 }
 #left ul {
     list-style: none;
+    margin: 0 auto;
 }
 #left ul li {
     width: 90%;
