@@ -38,6 +38,9 @@ body, html {
     margin-top: 10%;
     letter-spacing: 0.1em;
 }
+#left ul {
+    list-style: none;
+}
 /*****************
  * Menü-Oben
 *****************/
