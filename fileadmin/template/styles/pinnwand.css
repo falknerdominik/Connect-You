@@ -40,10 +40,11 @@ body, html {
 }
 #left ul {
     list-style: none;
-float: right;
+    width: 90%;
+    margin: 0 auto;
 }
 #left ul li {
-    width: 90%;
+
     height: 8em;
     text-align: center;
     border: 1px solid #9B59B6;
