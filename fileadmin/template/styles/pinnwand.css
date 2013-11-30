@@ -51,6 +51,10 @@ body, html {
     margin-bottom: 2%;
     color: white;
 }
+#left ul li p {
+    position: relative;
+    bottom: 0px;
+}
 /*****************
  * Menü-Oben
 *****************/
