@@ -43,7 +43,7 @@ body, html {
     text-decoration: none;
 }
 #logo {
-    width: 45%;
+    width: 42%;
     margin: 0 auto;
     height: 72%;
 }
@@ -51,10 +51,20 @@ body, html {
     width: 100%;
 }
 #loginformular {
-    width: 10%;
+    width: 20%;
     margin: 0 auto;
+    height: 100%;
+}
+#user {
+    margin-bottom: 0.2em;
+}
+#pass {
+    margin-bottom: 0.2em;
 }
 #loginbutton {
     width: 100%;
-    background-color: red;
+    height: 2em;
+    background-color: #9B59B6;
+    border: none;
+    padding-top: 2.5%;
 }
