@@ -51,3 +51,7 @@ body, html {
 #top ul {
     list-style: none;
 }
+#top ul li {
+    float: left;
+    color: white;
+}
