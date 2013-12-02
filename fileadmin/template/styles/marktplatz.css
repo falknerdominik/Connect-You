@@ -60,8 +60,7 @@ hr{
 }
 #projects div {
     background: #EFF0F2;
-    overflow-y: hidden;
-    box-sizing: border-box;
+
     border-radius: 5px;
     margin-top: 1em;
 }
