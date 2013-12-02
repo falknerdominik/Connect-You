@@ -82,4 +82,6 @@ hr{
     height: 100%;
     display: block;
 }
-.col
+.col-md-3 {
+    margin-top: 1em;
+}
