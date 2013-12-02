@@ -50,5 +50,6 @@ ul {
     text-align: center;
 }
 #projects img {
-
+    width: 10%;
+    margin: 0 auto;
 }
