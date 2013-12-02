@@ -59,8 +59,6 @@ ul {
 hr{
         border: 1px solid #34495E !important;
 }
-
-
 #projects div {
     background: #EFF0F2;
     overflow-y: hidden;
@@ -77,9 +75,6 @@ hr{
     margin: 0;
     padding: 0;
 }
-
-
-
 #projects div p a{
     color: white;
     text-decoration: none;
@@ -87,3 +82,4 @@ hr{
     height: 100%;
     display: block;
 }
+.col
