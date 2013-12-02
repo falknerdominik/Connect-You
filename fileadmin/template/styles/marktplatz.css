@@ -1,5 +1,85 @@
-/*sdasd
-*/
-body,html {
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/Background/Pinnwand.png");
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+/*****************
+ * Top-Header
+*****************/
+#head {
     margin: 0 auto;
+    width: 90%;
+    height: 6%;
+}
+#head h1 {
+    margin: 0;
+    padding: 0;
+    color: #9B58B6;
+    font-size: 16pt;
+    width: 5em;
+    text-align: center;
+    float: left;
+    margin-top: 0.35em;
+}
+#head h1:first-child {
+    color: white;
+    margin-left: 40%;
+}
+/*****************
+ * Projektübersicht
+*****************/
+#projects {
+    width: 100%;
+    margin: 0 auto;
+    height: 94%;
+    background-color: #E7E7E7;
+}
+/****
+*** PROJEKT NEU - FALKNER
+****//
+hr{
+    border: 1px solid #34495E !important;
+}
+
+
+#projects div {
+    width: 15%;
+    float: left;
+    margin: 10px;
+    background: #EFF0F2;
+    padding: 10px;
+    overflow-y: hidden;
+    box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+}
+#projects {
+    text-align: center;
+    padding: 0px;
+}
+#projects div img {
+    border-radius: 50px;
+}
+#projects div p, h1,h5 {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#projects div p a{
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: block;
 }
