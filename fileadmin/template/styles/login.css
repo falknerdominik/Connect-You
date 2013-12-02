@@ -60,6 +60,7 @@ body, html {
 #user {
     margin-bottom: 0.2em;
     width: 100%;
+    height: 3em;
     background: white url("../images/Anmelden_Icon.png") right no-repeat;
     background-size: 12% 80%;
 }
@@ -70,7 +71,7 @@ body, html {
     background-size: 12% 80%;
 }
 #loginbutton {
-    width: 107%;
+    width: 100%;
     height: 2.5em;
     background-color: #9B59B6;
     border: none;
