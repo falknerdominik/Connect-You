@@ -53,30 +53,6 @@ ul {
     height: 94%;
     background-color: #E7E7E7;
 }
-.projekt {
-    width: 33.333%;
-    height: 4em;
-    margin-top: 7em;
-    float: left;
-    list-style-type: none;
-}
-.projekt:hover {
-    background-color: rgba(155,89,182,0.1);
-    cursor: pointer;
-}
-.projekt h3 {
-    text-align: center;
-    text-decoration: underline;
-    font-size: 22pt;
-    margin: 0;
-    padding: 0;
-}
-.projekt p {
-    text-align: center;
-    color: #6E6E6E;
-    margin: 0;
-    padding: 0;
-}
 /****
 *** PROJEKT NEU - FALKNER
 ****//
