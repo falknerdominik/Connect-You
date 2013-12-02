@@ -64,10 +64,11 @@ hr{
     overflow-y: hidden;
     box-sizing: border-box;
     border-radius: 5px;
+    padding-top: 1em;
 }
 #projects {
     text-align: center;
-    padding-top: 1em;
+
 }
 #projects div img {
     border-radius: 50px;
