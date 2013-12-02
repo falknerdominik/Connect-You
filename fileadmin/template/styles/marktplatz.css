@@ -69,11 +69,7 @@ hr{
     padding: 10px;
     overflow-y: hidden;
     box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        -webkit-box-sizing: border-box;
     border-radius: 5px;
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
 }
 #projects {
     text-align: center;
