@@ -62,39 +62,3 @@ hr{
     border: 1px solid #34495E !important;
 }
 
-
-#projects div {
-    width: 15%;
-    float: left;
-    margin: 10px;
-    background: #EFF0F2;
-    padding: 10px;
-    overflow-y: hidden;
-    box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-    border-radius: 5px;
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
-}
-#projects {
-    text-align: center;
-    padding: 0px;
-}
-#projects div img {
-    border-radius: 50px;
-}
-#projects div p, h1,h5 {
-    margin: 0;
-    padding: 0;
-}
-
-
-
-#projects div p a{
-    color: white;
-    text-decoration: none;
-    width: 100%;
-    height: 100%;
-    display: block;
-}
