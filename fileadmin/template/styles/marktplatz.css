@@ -64,6 +64,7 @@ hr{
     overflow-y: hidden;
     box-sizing: border-box;
     border-radius: 5px;
+    padding: 1em;
 }
 #projects {
     text-align: center;
