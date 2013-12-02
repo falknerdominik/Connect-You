@@ -9,24 +9,19 @@
 
 	* Version: 07.10.2013
 *****************/
-
 /*****************
  * Allgemein
 *****************/
-
 body, html {
     height: 100%;
     margin: 0;
     padding: 0;
     background-image: url("../images/Background/Pinnwand.png");
 }
-
 ul {
     margin: 0;
     padding: 0;
 }
-
-
 /*****************
  * Top-Header
 *****************/
@@ -35,7 +30,6 @@ ul {
     width: 90%;
     height: 6%;
 }
-
 #head h1 {
     margin: 0;
     padding: 0;
@@ -46,16 +40,13 @@ ul {
     float: left;
     margin-top: 0.35em;
 }
-
 #head h1:first-child {
     color: white;
     margin-left: 40%;
 }
-
 /*****************
  * Content
 *****************/
-
 #contentOut {
     width: 84%;
     margin: 0 auto;
@@ -64,7 +55,6 @@ ul {
     background-image: url("../images/marketplace_content.png");
     padding: 5%;
 }
-
 #content {
     margin: 0 auto;
     width: 80%;
@@ -72,7 +62,6 @@ ul {
     padding-right: 5%;
     padding-left: 5%;
 }
-
 #content h2 {
     margin: 0;
     padding: 0;
@@ -81,7 +70,6 @@ ul {
     text-align: center;
     line-height: 200%;
 }
-
 #content h5 {
     width: 12em;
     margin: 0;
@@ -92,23 +80,18 @@ ul {
     text-align: center;
     border-top: 1px solid #6E6E6E;
 }
-
 #content p {
     color: white;
 }
-
 /*****************
  * Projektübersicht
 *****************/
-
 #projects {
     width: 94%;
     margin: 0 auto;
     height: 94%;
     background-image: url("../images/marketplace_content.png");
-
 }
-
 .projekt {
     width: 33.333%;
     height: 4em;
@@ -116,12 +99,10 @@ ul {
     float: left;
     list-style-type: none;
 }
-
 .projekt:hover {
     background-color: rgba(155,89,182,0.1);
     cursor: pointer;
 }
-
 .projekt h3 {
     text-align: center;
     text-decoration: underline;
@@ -129,7 +110,6 @@ ul {
     margin: 0;
     padding: 0;
 }
-
 .projekt p {
     text-align: center;
     color: #6E6E6E;
