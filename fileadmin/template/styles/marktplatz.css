@@ -46,10 +46,39 @@ ul {
 /*****************
  * Projektübersicht
 *****************/
-#projects h6,h4,p {
-    text-align: center;
-}
-#projects img {
-    width: 100px;
+#projects {
+    width: 90%;
     margin: 0 auto;
+    height: 94%;
+    background-color: #E7E7E7;
+}
+/****
+*** PROJEKT NEU - FALKNER
+****//
+hr{
+        border: 1px solid #34495E !important;
+}
+#projects div {
+    background: #EFF0F2;
+
+    border-radius: 5px;
+    margin-top: 1em;
+}
+#projects {
+    text-align: center;
+
+}
+#projects div img {
+    border-radius: 50px;
+}
+#projects div p, h1,h5 {
+    margin: 0;
+    padding: 0;
+}
+#projects div p a{
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: block;
 }
