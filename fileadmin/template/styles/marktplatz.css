@@ -46,3 +46,6 @@ ul {
 /*****************
  * Projektübersicht
 *****************/
+#projects img,h6,h4,p {
+    text-align: center;
+}
