@@ -18,7 +18,7 @@ body, html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #3498DB;
+    background-image: url("../images/Background/Pinnwand.png");
 }
 
 ul {
