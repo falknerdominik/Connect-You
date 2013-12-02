@@ -62,9 +62,7 @@ hr{
 
 
 #projects div {
-    margin: 10px;
     background: #EFF0F2;
-    padding: 10px;
     overflow-y: hidden;
     box-sizing: border-box;
     border-radius: 5px;
