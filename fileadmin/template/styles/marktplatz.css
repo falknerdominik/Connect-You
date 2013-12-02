@@ -62,3 +62,28 @@ hr{
     border: 1px solid #34495E !important;
 }
 
+
+#projects div {
+
+}
+#projects {
+    text-align: center;
+    padding: 0px;
+}
+#projects div img {
+    border-radius: 50px;
+}
+#projects div p, h1,h5 {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#projects div p a{
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
