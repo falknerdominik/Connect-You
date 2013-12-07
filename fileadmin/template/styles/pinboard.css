@@ -1,0 +1,99 @@
+/*****************
+	* CSS-Dateiname:  login.css
+
+	* Für welche Bereiche:  Pinnwand (Menu, Left-Menu-Icons)!
+
+	* Notiz:
+
+	* Author(en): Dorfer Valentin
+
+	* Version: 07.10.2013
+*****************/
+
+/*****************
+ * Allgemein
+*****************/
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+	background-color: #E7E7E7;
+	
+}
+/*****************
+ * Menü-Links
+*****************/
+#left {
+    float: left;
+    height: 100%;
+    width: 10%;
+    background-image: url("../images/Background/Pinnwand.png");
+	background-repeat:repeat;
+    border-right: 3px solid #9B59B6;
+    overflow: auto;
+}
+#left h1 {
+    color: white;
+    font-size: 18pt;
+    text-align: center;
+    margin-top: 10%;
+    letter-spacing: 0.1em;
+}
+#left ul {
+    list-style: none;
+    width: 90%;
+    margin: 0 auto;
+}
+#left ul li {
+    height: 10em;
+    text-align: center;
+    border: 1px solid #9B59B6;
+    border-radius: 4px;
+    margin-bottom: 2%;
+    color: white;
+}
+#left ul li p {
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+    margin-top: 80%;
+}
+/*****************
+ * Menü-Oben
+*****************/
+#top {
+    height: 8%;
+    float: left;
+    width: 89.75%;
+    background-image: url("../images/Background/Pinnwand.png");
+    background-repeat:repeat;
+    border-bottom: 3px solid #5FCCFF;
+}
+#top ul {
+    list-style: none;
+}
+#top ul li {
+    width: 5em;
+    text-align: center;
+    float: left;
+    color: white;
+    letter-spacing: 0.1em;
+    margin-right: 0.5em;
+    margin-top: 1.4em;
+    font-size: 12pt;
+    padding-bottom: 0.1em;
+}
+#top ul li:hover {
+    color: #5FCCFF;
+    border-bottom: 2px solid #5FCCFF;
+}
+/*****************
+ * Content
+*****************/
+#content {
+    float: left;
+    width: 89.75%;
+    height: 91.6%;
+    box-shadow: inset 12px 12px 12px -5px black;
+}
+

@@ -1,0 +1,8 @@
+<label for="startTime">
+	<f:translate key="tx_connectyou_domain_model_timeset.start_time" /> <span class="required">(required)</span>
+</label><br />
+	<f:form.textfield property="startTime"  value="{timeset.startTime->f:format.date()}" /><br />
+<label for="endTime">
+	<f:translate key="tx_connectyou_domain_model_timeset.end_time" /> <span class="required">(required)</span>
+</label><br />
+	<f:form.textfield property="endTime"  value="{timeset.endTime->f:format.date()}" /><br />
