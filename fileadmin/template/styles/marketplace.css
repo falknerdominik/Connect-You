@@ -87,12 +87,12 @@ hr{
     margin: 0 !important;
 }
 
-#show{
+#wrapper{
     width: 70%;
     margin: auto;
 }
 
-#show .btn{
+#wrapper .btn{
     margin-top: 1em;
 }
 

@@ -12,7 +12,7 @@ in /Configuration/ExtensionBuilder/settings.yaml:
 Otherwise your changes will be overwritten the next time you save the extension in the extension builder
 
 <f:section name="main">
-<h1>Edit Project</h1>
+<h1>Projekt "{project.name} ändern</h1>
 
 <f:flashMessages />
 
@@ -20,6 +20,6 @@ Otherwise your changes will be overwritten the next time you save the extension 
 
 <f:form action="update" name="project" object="{project}" >
 <f:render partial="Project/FormFields" arguments="{project:project}" />
-	<f:form.submit value="Save" />
+	<f:form.submit value="Speichern" />
 </f:form>
 </f:section>
