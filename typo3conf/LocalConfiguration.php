@@ -64,7 +64,7 @@ return array(
 		'loginSecurityLevel' => 'rsa',
 	),
 	'GFX' => array(
-		'gdlib_png' => 0,
+		'gdlib_png' => 1,
 		'im' => 0,
 		'im_combine_filename' => '',
 		'im_path' => '',
