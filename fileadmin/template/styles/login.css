@@ -43,6 +43,7 @@ body, html {
     border-top: 5px solid transparent;
     border-bottom: 55px solid rgba(0,0,0,1);
     border-image: url("../images/Background/Pinnwand.png");
+    border-radius: 5px;
     border-left: 55px solid transparent;
     border-right: 55px solid transparent;
 }
