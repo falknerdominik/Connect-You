@@ -63,7 +63,7 @@ class tx_igldapssoauth_pi1_wizicon {
 	function includeLocalLang() {
 
 		$llFile = t3lib_extMgm::extPath('ig_ldap_sso_auth') . 'res/locallang_pi1.xml';
-		$LOCAL_LANG = t3lib_div::readLLXMLfile($llFile, $GLOBALS['LANG']->lang);
+		$LOCAL_LANG = t3lib_div::readLLXMLfile($llFile, de);
 
 		return $LOCAL_LANG;
 	}
