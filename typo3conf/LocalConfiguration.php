@@ -16,6 +16,7 @@ return array(
 		'extConf' => array(
 			'connectyou' => 'a:0:{}',
 			'extension_builder' => 'a:3:{s:15:"enableRoundtrip";s:0:"";s:15:"backupExtension";s:1:"1";s:9:"backupDir";s:35:"uploads/tx_extensionbuilder/backups";}',
+			'ig_ldap_sso_auth' => 'a:24:{s:18:"checkConfiguration";s:1:"0";s:21:"throwExceptionAtLogin";s:1:"1";s:16:"uidConfiguration";s:1:"1";s:22:"forceLowerCaseUsername";s:1:"0";s:28:"evaluateGroupsFromMembership";s:1:"0";s:26:"enableBELDAPAuthentication";s:1:"0";s:16:"TYPO3BEUserExist";s:1:"0";s:10:"BEfailsafe";s:1:"0";s:27:"TYPO3BEGroupsNotSynchronize";s:1:"0";s:14:"assignBEGroups";s:1:"0";s:12:"keepBEGroups";s:1:"0";s:26:"updateAdminAttribForGroups";s:1:"0";s:20:"requiredLDAPBEGroups";s:1:"0";s:26:"enableFELDAPAuthentication";s:1:"0";s:31:"TYPO3FEDeleteUserIfNoLDAPGroups";s:1:"0";s:32:"TYPO3FEDeleteUserIfNoTYPO3Groups";s:1:"0";s:17:"TYPO3FEGroupExist";s:1:"0";s:20:"requiredLDAPFEGroups";s:1:"0";s:27:"TYPO3FEGroupsNotSynchronize";s:1:"0";s:14:"assignFEGroups";s:1:"0";s:12:"keepFEGroups";s:1:"0";s:25:"enableFECASAuthentication";s:1:"0";s:26:"enableFetchUserIfNoSession";s:1:"0";s:18:"DeleteCookieLogout";s:1:"0";}',
 			'iglib' => 'a:0:{}',
 			'saltedpasswords' => 'a:2:{s:3:"FE.";a:2:{s:7:"enabled";s:1:"1";s:21:"saltedPWHashingMethod";s:28:"tx_saltedpasswords_salts_md5";}s:3:"BE.";a:2:{s:7:"enabled";s:1:"1";s:21:"saltedPWHashingMethod";s:28:"tx_saltedpasswords_salts_md5";}}',
 		),
@@ -60,6 +61,7 @@ return array(
 			'extension_builder',
 			'connectyou',
 			'iglib',
+			'ig_ldap_sso_auth',
 		),
 	),
 	'FE' => array(
