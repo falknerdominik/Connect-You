@@ -3,7 +3,7 @@ return array(
 	'BE' => array(
 		'disable_exec_function' => 0,
 		'installToolPassword' => '5f4dcc3b5aa765d61d8327deb882cf99',
-		'loginSecurityLevel' => 'rsa',
+		'loginSecurityLevel' => 'normal',
 	),
 	'DB' => array(
 		'database' => 'c25connectyou',
