@@ -42,8 +42,8 @@ body, html {
     height: 0;
     border-top: 5px solid transparent;
     border-bottom: 55px solid rgba(0,0,0,1);
-    border-left: 45px solid transparent;
-    border-right: 45px solid transparent;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
 }
 #content #register {
    position: absolute;
