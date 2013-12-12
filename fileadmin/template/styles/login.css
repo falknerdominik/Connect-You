@@ -34,7 +34,15 @@ body, html {
     border-width: 2px 0px 2px 0px;
 }
 #content:before {
-
+    content: '';
+    top: -20px;
+    left: 65px;
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 15px solid rgba(0,0,0,.2);
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
 }
 #content #register {
    position: absolute;
