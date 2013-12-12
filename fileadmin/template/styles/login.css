@@ -33,6 +33,9 @@ body, html {
     border: solid white;
     border-width: 2px 0px 2px 0px;
 }
+#content:before {
+    
+}
 #content #register {
    position: absolute;
     right: 10px;
