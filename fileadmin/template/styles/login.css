@@ -34,6 +34,7 @@ body, html {
     border-width: 2px 0px 2px 0px;
 }
 #content:before {
+    position: absolute;
     content: '';
     top: -50px;
     left: 165px;
