@@ -16,6 +16,7 @@ return array(
 		'extConf' => array(
 			'connectyou' => 'a:0:{}',
 			'extension_builder' => 'a:3:{s:15:"enableRoundtrip";s:0:"";s:15:"backupExtension";s:1:"1";s:9:"backupDir";s:35:"uploads/tx_extensionbuilder/backups";}',
+			'iglib' => 'a:0:{}',
 			'saltedpasswords' => 'a:2:{s:3:"FE.";a:2:{s:7:"enabled";s:1:"1";s:21:"saltedPWHashingMethod";s:28:"tx_saltedpasswords_salts_md5";}s:3:"BE.";a:2:{s:7:"enabled";s:1:"1";s:21:"saltedPWHashingMethod";s:28:"tx_saltedpasswords_salts_md5";}}',
 		),
 		'extListArray' => array(
@@ -58,6 +59,7 @@ return array(
 			'saltedpasswords',
 			'extension_builder',
 			'connectyou',
+			'iglib',
 		),
 	),
 	'FE' => array(
