@@ -40,9 +40,9 @@ body, html {
     left: 42.68em;
     width: 0;
     height: 0;
-    border-top: 5px solid transparent;
+    border-top: 5px solid transparent;    border-image: url("../images/Background/Pinnwand.png");
     border-bottom: 55px solid rgba(0,0,0,1);
-    border-image: url("../images/Background/Pinnwand.png");
+
     border-left: 55px solid transparent;
     border-right: 55px solid transparent;
 }
