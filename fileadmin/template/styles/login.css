@@ -36,7 +36,7 @@ body, html {
 #content:before {
     position: absolute;
     content: '';
-    top: -60px;
+    top: -100px;
     left: 50%;
     width: 0;
     height: 0;
