@@ -59,7 +59,6 @@ return array(
 			'rsaauth',
 			'saltedpasswords',
 			'extension_builder',
-			'connectyou',
 			'iglib',
 		),
 	),
