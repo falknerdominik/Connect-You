@@ -61,7 +61,7 @@ return array(
 			'extension_builder',
 			'connectyou',
 			'iglib',
-			'ig_ldap_sso_auth',
+			#'ig_ldap_sso_auth',
 		),
 	),
 	'FE' => array(
