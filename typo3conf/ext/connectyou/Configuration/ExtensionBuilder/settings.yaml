@@ -55,6 +55,7 @@ overwriteSettings:
         #locallang.xlf: merge
       Templates: keep
       Partials: keep
+      Layouts: keep
 
   ext_icon.gif: keep
 
