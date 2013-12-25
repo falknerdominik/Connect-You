@@ -66,6 +66,13 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	protected $assignments;
 
 	/**
+	 * Teammitglieder
+	 *
+	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\User>
+	 */
+	protected $team;
+
+	/**
 	 * __construct
 	 *
 	 * @return Project
@@ -87,6 +94,8 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 		 * You may modify the constructor of this class instead
 		 */
 		$this->assignments = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
+		
+		$this->team = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
 	}
 
 	/**
@@ -183,6 +192,45 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	 */
 	public function setAssignments(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $assignments) {
 		$this->assignments = $assignments;
+	}
+
+	/**
+	 * Adds a User
+	 *
+	 * @param \TYPO3\Connectyou\Domain\Model\User $team
+	 * @return void
+	 */
+	public function addTeam(\TYPO3\Connectyou\Domain\Model\User $team) {
+		$this->team->attach($team);
+	}
+
+	/**
+	 * Removes a User
+	 *
+	 * @param \TYPO3\Connectyou\Domain\Model\User $teamToRemove The User to be removed
+	 * @return void
+	 */
+	public function removeTeam(\TYPO3\Connectyou\Domain\Model\User $teamToRemove) {
+		$this->team->detach($teamToRemove);
+	}
+
+	/**
+	 * Returns the team
+	 *
+	 * @return \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\User> $team
+	 */
+	public function getTeam() {
+		return $this->team;
+	}
+
+	/**
+	 * Sets the team
+	 *
+	 * @param \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\User> $team
+	 * @return void
+	 */
+	public function setTeam(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $team) {
+		$this->team = $team;
 	}
 
 }

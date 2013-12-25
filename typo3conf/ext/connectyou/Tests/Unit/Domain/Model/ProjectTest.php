@@ -160,5 +160,63 @@ class ProjectTest extends \TYPO3\CMS\Extbase\Tests\Unit\BaseTestCase {
 		);
 	}
 	
+	/**
+	 * @test
+	 */
+	public function getTeamReturnsInitialValueForUser() { 
+		$newObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$this->assertEquals(
+			$newObjectStorage,
+			$this->fixture->getTeam()
+		);
+	}
+
+	/**
+	 * @test
+	 */
+	public function setTeamForObjectStorageContainingUserSetsTeam() { 
+		$team = new \TYPO3\Connectyou\Domain\Model\User();
+		$objectStorageHoldingExactlyOneTeam = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$objectStorageHoldingExactlyOneTeam->attach($team);
+		$this->fixture->setTeam($objectStorageHoldingExactlyOneTeam);
+
+		$this->assertSame(
+			$objectStorageHoldingExactlyOneTeam,
+			$this->fixture->getTeam()
+		);
+	}
+	
+	/**
+	 * @test
+	 */
+	public function addTeamToObjectStorageHoldingTeam() {
+		$team = new \TYPO3\Connectyou\Domain\Model\User();
+		$objectStorageHoldingExactlyOneTeam = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$objectStorageHoldingExactlyOneTeam->attach($team);
+		$this->fixture->addTeam($team);
+
+		$this->assertEquals(
+			$objectStorageHoldingExactlyOneTeam,
+			$this->fixture->getTeam()
+		);
+	}
+
+	/**
+	 * @test
+	 */
+	public function removeTeamFromObjectStorageHoldingTeam() {
+		$team = new \TYPO3\Connectyou\Domain\Model\User();
+		$localObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$localObjectStorage->attach($team);
+		$localObjectStorage->detach($team);
+		$this->fixture->addTeam($team);
+		$this->fixture->removeTeam($team);
+
+		$this->assertEquals(
+			$localObjectStorage,
+			$this->fixture->getTeam()
+		);
+	}
+	
 }
 ?>

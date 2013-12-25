@@ -32,7 +32,7 @@ namespace TYPO3\Connectyou\Controller;
  * @license http://www.gnu.org/licenses/gpl.html GNU General Public License, version 3 or later
  *
  */
-class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController {
+class TYPO3\Connectyou\Controller\UserController extends TYPO3\CMS\Extbase\Mvc\Controller\ActionController {
 
 	/**
 	 * action list

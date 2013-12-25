@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-12-05T20:31:59Z" product-name="connectyou">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_connectyou_domain_model_project">
+				<source>Projekte</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.name">
+				<source>Name des Projektes</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.description">
+				<source>Beschreibung des Projektes</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.type">
+				<source>Welcher Projekttyp</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.assignments">
+				<source>Beinhaltet alle Assignments eines Projektes</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_connectyou_domain_model_role">
+				<source>Rollen im Projekt</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_role.name">
+				<source>Name der Rolle</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_connectyou_domain_model_assignment">
+				<source>Zugehörigkeiten zu den Projekten</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.role">
+				<source>Welche Rolle übernimmt der User</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.timeset">
+				<source>Wie lange macht er es</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_assignment.project">
+				<source>für welches Projekt</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_connectyou_domain_model_timeset">
+				<source>Timesets für den User</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_timeset.start_time">
+				<source>Zeit wenn angefangen wurde</source>
+			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_timeset.end_time">
+				<source>Zeit wenn die Arbeit beendet wurde</source>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>

@@ -17,8 +17,8 @@ Extension Name
 :Description: manuals covering TYPO3 extension "Connect You"
 :Language: en
 :Author: Dominik Falkner
-:Creation: 2013-12-05
-:Generation: 20:32
+:Creation: 2013-12-25
+:Generation: 16:32
 :Licence: Open Content License available from `www.opencontent.org/opl.shtml <http://www.opencontent.org/opl.shtml>`_
 
 The content of this document is related to TYPO3, a GNU/GPL CMS/Framework available from `www.typo3.org
