@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,7 +56,7 @@
       <file leaf-file-name="UserController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="19" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.54464287" vertical-offset="358" max-vertical-offset="2040">
+            <state line="34" column="30" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.119642854" vertical-offset="511" max-vertical-offset="2040">
               <folding />
             </state>
           </provider>
@@ -341,7 +344,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="19" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.54464287" vertical-offset="358" max-vertical-offset="2040">
+        <state line="34" column="30" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.119642854" vertical-offset="511" max-vertical-offset="2040">
           <folding />
         </state>
       </provider>
