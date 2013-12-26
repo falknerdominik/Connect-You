@@ -36,6 +36,9 @@ namespace TYPO3\Connectyou\Controller;
  */
 class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController {
 
+    protected function initializeAction() {
+        $this->userRepository =& t3lib_div::makeInstance('Tx_Extbase_Domain_Repository_FrontendUserRepository');
+    }
 
     /**
      * feUserRepository
@@ -44,7 +47,7 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
      * @inject
      */
     protected $userRepository;
-    
+
 	/**
 	 * action list
 	 *
