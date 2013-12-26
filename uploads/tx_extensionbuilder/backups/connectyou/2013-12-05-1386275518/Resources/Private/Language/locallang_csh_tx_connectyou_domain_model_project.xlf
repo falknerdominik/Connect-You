@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-12-05T20:15:44Z" product-name="connectyou">
+		<header/>
+		<body>
+
+			<trans-unit id="name.description">
+				<source>Name des Projektes</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>Beschreibung des Projektes</source>
+			</trans-unit>
+			<trans-unit id="type.description">
+				<source>Welcher Projekttyp</source>
+			</trans-unit>
+			<trans-unit id="assignments.description">
+				<source>Beinhaltet alle Assignments eines Projektes</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

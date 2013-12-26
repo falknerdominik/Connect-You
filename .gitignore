@@ -1,0 +1,7 @@
+/typo3conf/temp_CACHED*
+/typo3conf/temp_fieldInfo.php
+/typo3conf/Cache/
+/typo3temp/
+/fileadmin/_temp_/
+fileadmin/user_upload
+.idea/
