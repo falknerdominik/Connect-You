@@ -40,6 +40,7 @@
 overwriteSettings:
   Classes:
     Controller: merge
+      UserController.php: keep
     Domain:
       Model: merge
       Repository: merge
