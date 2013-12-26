@@ -31,7 +31,7 @@ namespace TYPO3\Connectyou\Controller;
  * @var \TYPO3\CMS\Extbase\Domain\Repository\FrontendUserRepository
  * @inject
  */
-protected $feUserRepository;
+protected $userRepository;
 
 /**
  *
