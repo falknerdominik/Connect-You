@@ -25,13 +25,7 @@ namespace TYPO3\Connectyou\Controller;
  *  This copyright notice MUST APPEAR in all copies of the script!
  ***************************************************************/
 
-/**
- * feUserRepository
- *
- * @var \TYPO3\CMS\Extbase\Domain\Repository\FrontendUserRepository
- * @inject
- */
-protected $userRepository;
+
 
 /**
  *
@@ -42,6 +36,15 @@ protected $userRepository;
  */
 class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController {
 
+
+    /**
+     * feUserRepository
+     *
+     * @var \TYPO3\CMS\Extbase\Domain\Repository\FrontendUserRepository
+     * @inject
+     */
+    protected $userRepository;
+    
 	/**
 	 * action list
 	 *
