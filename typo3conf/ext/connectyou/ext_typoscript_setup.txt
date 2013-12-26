@@ -4,7 +4,7 @@ config.tx_extbase{
 
             TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
                 subclasses {
-                    Tx_Extbase_Domain_Model_FrontendUser = TYPO3\Connectyou\Domain\Model\User
+                    Tx_Connectyou_User = TYPO3\Connectyou\Domain\Model\User
 
           		}
             }
