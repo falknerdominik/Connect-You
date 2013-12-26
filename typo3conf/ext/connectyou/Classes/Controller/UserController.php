@@ -26,6 +26,14 @@ namespace TYPO3\Connectyou\Controller;
  ***************************************************************/
 
 /**
+ * feUserRepository
+ *
+ * @var \TYPO3\CMS\Extbase\Domain\Repository\FrontendUserRepository
+ * @inject
+ */
+protected $feUserRepository;
+
+/**
  *
  *
  * @package connectyou
