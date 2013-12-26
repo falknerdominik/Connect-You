@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +37,7 @@
       <file leaf-file-name="User.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="37" selection-start="1205" selection-end="1232" vertical-scroll-proportion="0.7267857" vertical-offset="171" max-vertical-offset="731">
+            <state line="17" column="39" selection-start="640" selection-end="640" vertical-scroll-proportion="0.21071428" vertical-offset="171" max-vertical-offset="731">
               <folding />
             </state>
           </provider>
@@ -72,6 +74,7 @@
         <option value="$PROJECT_DIR$/typo3conf/LocalConfiguration.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/ig_ldap_sso_auth/pi1/class.tx_igldapssoauth_pi1_wizicon.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
       </list>
     </option>
   </component>
@@ -475,7 +478,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="37" selection-start="1205" selection-end="1232" vertical-scroll-proportion="0.7267857" vertical-offset="171" max-vertical-offset="731">
+        <state line="17" column="39" selection-start="640" selection-end="640" vertical-scroll-proportion="0.21071428" vertical-offset="171" max-vertical-offset="731">
           <folding />
         </state>
       </provider>
