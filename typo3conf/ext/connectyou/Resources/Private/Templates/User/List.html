@@ -18,19 +18,6 @@ Otherwise your changes will be overwritten the next time you save the extension 
 <f:debug>{users}</f:debug>
 
     <h1>{users.fname} {users.lname}</h1>
-<table  class="tx_connectyou" >
-	<tr>
-		<th> </th>
-		<th> </th>
-	</tr>
-
-	<f:for each="{users}" as="user">
-		<tr>
-			<td><f:link.action action="edit" arguments="{user : user}">Edit</f:link.action></td>
-			<td><f:link.action action="delete" arguments="{user : user}">Delete</f:link.action></td>
-		</tr>
-	</f:for>
-</table>
 
 <f:link.action action="new">New User</f:link.action>
 </f:section>
