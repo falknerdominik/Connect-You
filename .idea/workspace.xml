@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" />
-    </list>
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="List.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="17" selection-start="869" selection-end="869" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="720">
+            <state line="34" column="17" selection-start="869" selection-end="869" vertical-scroll-proportion="0.75" vertical-offset="0" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="16" selection-start="189" selection-end="255" vertical-scroll-proportion="0.14914773" vertical-offset="0" max-vertical-offset="704">
+            <state line="7" column="16" selection-start="189" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -676,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="17" selection-start="869" selection-end="869" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="141" column="164" selection-start="6032" selection-end="6032" vertical-scroll-proportion="-9.428572" vertical-offset="1653" max-vertical-offset="2295">
@@ -692,7 +683,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="189" selection-end="255" vertical-scroll-proportion="0.14914773" vertical-offset="0" max-vertical-offset="704">
+        <state line="7" column="16" selection-start="189" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="17" selection-start="869" selection-end="869" vertical-scroll-proportion="0.75" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
