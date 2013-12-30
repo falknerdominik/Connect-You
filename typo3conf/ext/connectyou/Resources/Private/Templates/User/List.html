@@ -28,15 +28,15 @@ Otherwise your changes will be overwritten the next time you save the extension 
 
 
 		<tr>
-            <td>{user.username}</td>
-            <td>{user.firstName}</td>
-            <td>{user.lastName}</td>
-            <td>{user.email}</td>
-            <td>{user.uid}</td>
+            <td>{users.username}</td>
+            <td>{users.firstName}</td>
+            <td>{users.lastName}</td>
+            <td>{users.email}</td>
+            <td>{users.uid}</td>
 			<td><f:link.action action="edit" arguments="{user : user}">Edit</f:link.action></td>
 			<td><f:link.action action="delete" arguments="{user : user}">Delete</f:link.action></td>
 		</tr>
-	
+
 </table>
 
 <f:link.action action="new">New User</f:link.action>
