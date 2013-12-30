@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,7 +73,7 @@
       <file leaf-file-name="User.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="16" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.65753424" vertical-offset="153" max-vertical-offset="885">
+            <state line="55" column="21" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.9543379" vertical-offset="198" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
@@ -571,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="16" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.65753424" vertical-offset="153" max-vertical-offset="885">
+        <state line="55" column="21" selection-start="1547" selection-end="1547" vertical-scroll-proportion="0.9543379" vertical-offset="198" max-vertical-offset="945">
           <folding />
         </state>
       </provider>

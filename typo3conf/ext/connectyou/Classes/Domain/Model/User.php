@@ -50,5 +50,9 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
      * @var string $lname
      */
     protected $lname;
+    /**
+     * @var string $email
+     */
+    protected $email;
 }
 ?>
