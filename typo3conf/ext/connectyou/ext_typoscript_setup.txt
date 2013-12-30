@@ -1,6 +1,10 @@
 config.tx_extbase{
     persistence{
         classes{
+            TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
+                subclasses {
+                    Tx_Extbase_Domain_Model_FrontendUser = GK\Stdapp\Domain\Model\PortalUser
+                }
             TYPO3\Connectyou\Domain\Model\User {
                 mapping {
                     tableName = fe_users
