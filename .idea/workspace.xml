@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +55,7 @@
       <file leaf-file-name="ext_tables.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="185" selection-start="6419" selection-end="6419" vertical-scroll-proportion="0.79037267" vertical-offset="1651" max-vertical-offset="2295">
+            <state line="145" column="58" selection-start="6470" selection-end="6470" vertical-scroll-proportion="0.8136646" vertical-offset="1651" max-vertical-offset="2295">
               <folding />
             </state>
           </provider>
@@ -796,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="185" selection-start="6419" selection-end="6419" vertical-scroll-proportion="0.79037267" vertical-offset="1651" max-vertical-offset="2295">
+        <state line="145" column="58" selection-start="6470" selection-end="6470" vertical-scroll-proportion="0.8136646" vertical-offset="1651" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
