@@ -35,9 +35,9 @@ namespace TYPO3\Connectyou\Domain\Model;
 class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
 
     /**
-     * @var int $pID
+     * @var int $uID
      */
-    protected $pID;
+    protected $uID;
     /**
      * @var string $uname
      */
