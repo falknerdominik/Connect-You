@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="List.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="32" selection-start="530" selection-end="530" vertical-scroll-proportion="0.41911766" vertical-offset="0" max-vertical-offset="680">
+            <state line="19" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.41911766" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
@@ -692,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="32" selection-start="530" selection-end="530" vertical-scroll-proportion="0.41911766" vertical-offset="0" max-vertical-offset="680">
+        <state line="19" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.41911766" vertical-offset="0" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
