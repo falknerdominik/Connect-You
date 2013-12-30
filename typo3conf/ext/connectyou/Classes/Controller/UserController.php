@@ -50,7 +50,7 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
 	 * @return void
 	 */
 	public function listAction() {
-		$users = $this->userRepository->findByUid(1);
+		$users = $this->userRepository->findAll();
 		$this->view->assign('users', $users);
 	}
 
