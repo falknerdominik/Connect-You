@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" />
-    </list>
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.1278409" vertical-offset="0" max-vertical-offset="704">
+            <state line="6" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ext_tables.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ext_tables.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="172" selection-start="6370" selection-end="6370" vertical-scroll-proportion="-22.791666" vertical-offset="1613" max-vertical-offset="2295">
+            <state line="144" column="172" selection-start="6370" selection-end="6370" vertical-scroll-proportion="0.7976012" vertical-offset="1628" max-vertical-offset="2295">
               <folding />
             </state>
           </provider>
@@ -732,13 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="172" selection-start="6370" selection-end="6370" vertical-scroll-proportion="-22.791666" vertical-offset="1613" max-vertical-offset="2295">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="51" selection-start="1541" selection-end="1541" vertical-scroll-proportion="-15.0" vertical-offset="420" max-vertical-offset="1950">
@@ -755,7 +746,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.1278409" vertical-offset="0" max-vertical-offset="704">
+        <state line="6" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="172" selection-start="6370" selection-end="6370" vertical-scroll-proportion="0.7976012" vertical-offset="1628" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
