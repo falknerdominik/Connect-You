@@ -28,7 +28,7 @@
       <file leaf-file-name="UserController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="42" selection-start="1532" selection-end="1537" vertical-scroll-proportion="0.5294118" vertical-offset="420" max-vertical-offset="1950">
+            <state line="52" column="51" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.5294118" vertical-offset="420" max-vertical-offset="1950">
               <folding />
             </state>
           </provider>
@@ -755,7 +755,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="42" selection-start="1532" selection-end="1537" vertical-scroll-proportion="0.5294118" vertical-offset="420" max-vertical-offset="1950">
+        <state line="52" column="51" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.5294118" vertical-offset="420" max-vertical-offset="1950">
           <folding />
         </state>
       </provider>
