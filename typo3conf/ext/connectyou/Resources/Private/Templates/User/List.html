@@ -22,13 +22,17 @@ Otherwise your changes will be overwritten the next time you save the extension 
 		<th>Benutzername</th>
 		<th>Vorname</th>
         <th>Familienname</th>
+        <th>E-Mail</th>
         <th>UserID</th>
 	</tr>
 
 	<f:for each="{users}" as="user">
 		<tr>
+            <td>{user.username}</td>
             <td>{user.firstName}</td>
             <td>{user.lastName}</td>
+            <td>{user.email}</td>
+            <td>{user.uid}</td>
 			<td><f:link.action action="edit" arguments="{user : user}">Edit</f:link.action></td>
 			<td><f:link.action action="delete" arguments="{user : user}">Delete</f:link.action></td>
 		</tr>
