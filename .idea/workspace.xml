@@ -37,7 +37,7 @@
       <file leaf-file-name="List.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="22" selection-start="845" selection-end="845" vertical-scroll-proportion="0.75" vertical-offset="0" max-vertical-offset="720">
+            <state line="35" column="62" selection-start="909" selection-end="909" vertical-scroll-proportion="0.77205884" vertical-offset="0" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -692,7 +692,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="22" selection-start="845" selection-end="845" vertical-scroll-proportion="0.75" vertical-offset="0" max-vertical-offset="720">
+        <state line="35" column="62" selection-start="909" selection-end="909" vertical-scroll-proportion="0.77205884" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
