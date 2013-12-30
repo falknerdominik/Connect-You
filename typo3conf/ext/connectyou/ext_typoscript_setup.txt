@@ -3,7 +3,7 @@ config.tx_extbase{
         classes{
             TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
                 subclasses {
-                    Tx_Extbase_Domain_Model_FrontendUser = GK\Stdapp\Domain\Model\PortalUser
+                    Tx_Extbase_Domain_Model_FrontendUser = TYPO3\Connectyou\Domain\Model\User
                 }
             TYPO3\Connectyou\Domain\Model\User {
                 mapping {
