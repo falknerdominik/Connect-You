@@ -46,7 +46,7 @@
       <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.1278409" vertical-offset="0" max-vertical-offset="704">
+            <state line="6" column="21" selection-start="190" selection-end="190" vertical-scroll-proportion="0.1278409" vertical-offset="0" max-vertical-offset="704">
               <folding />
             </state>
           </provider>
@@ -754,7 +754,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.1278409" vertical-offset="0" max-vertical-offset="704">
+        <state line="6" column="21" selection-start="190" selection-end="190" vertical-scroll-proportion="0.1278409" vertical-offset="0" max-vertical-offset="704">
           <folding />
         </state>
       </provider>
