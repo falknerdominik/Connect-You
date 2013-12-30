@@ -33,18 +33,6 @@ body, html {
     border: solid white;
     border-width: 2px 0px 2px 0px;
 }
-#content:before {
-    position: absolute;
-    content: '';
-    top: -60px;
-    left: 45em;
-    width: 0;
-    height: 0;
-    border-top: 5px solid transparent;
-    border-bottom: 55px solid rgba(0,0,0,1);
-    border-left: 55px solid transparent;
-    border-right: 55px solid transparent;
-}
 #content #register {
    position: absolute;
     right: 10px;
