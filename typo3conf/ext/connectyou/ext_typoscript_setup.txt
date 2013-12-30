@@ -4,7 +4,7 @@ config.tx_extbase{
             TYPO3\Connectyou\Domain\Model\User {
                 mapping {
                     tableName = fe_users
-                    #recordType = Tx_Extbase_Domain_Model_FrontendUser
+                    recordType = Tx_Extbase_Domain_Model_FrontendUser
                 }
             }
             
