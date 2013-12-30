@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Language/locallang_db.xlf" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Language/locallang_db.xlf" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +55,7 @@
       <file leaf-file-name="ext_tables.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="198" selection-start="6066" selection-end="6066" vertical-scroll-proportion="0.7204969" vertical-offset="1651" max-vertical-offset="2295">
+            <state line="141" column="219" selection-start="6087" selection-end="6087" vertical-scroll-proportion="0.7204969" vertical-offset="1651" max-vertical-offset="2295">
               <folding />
             </state>
           </provider>
@@ -797,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="198" selection-start="6066" selection-end="6066" vertical-scroll-proportion="0.7204969" vertical-offset="1651" max-vertical-offset="2295">
+        <state line="141" column="219" selection-start="6087" selection-end="6087" vertical-scroll-proportion="0.7204969" vertical-offset="1651" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
