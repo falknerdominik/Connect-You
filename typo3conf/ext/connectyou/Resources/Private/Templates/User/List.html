@@ -19,12 +19,16 @@ Otherwise your changes will be overwritten the next time you save the extension 
 
 <table  class="tx_connectyou" >
 	<tr>
-		<th> </th>
-		<th> </th>
+		<th>Benutzername</th>
+		<th>Vorname</th>
+        <th>Familienname</th>
+        <th>UserID</th>
 	</tr>
 
 	<f:for each="{users}" as="user">
 		<tr>
+            <td>{user.firstName}</td>
+            <td>{user.lastName}</td>
 			<td><f:link.action action="edit" arguments="{user : user}">Edit</f:link.action></td>
 			<td><f:link.action action="delete" arguments="{user : user}">Delete</f:link.action></td>
 		</tr>
