@@ -33,6 +33,6 @@ namespace TYPO3\Connectyou\Domain\Model;
  *
  */
 class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
-
+    
 }
 ?>
