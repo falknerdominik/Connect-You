@@ -93,8 +93,8 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
 	 * @param \TYPO3\Connectyou\Domain\Model\User $user
 	 * @return void
 	 */
-	public function editAction(\TYPO3\Connectyou\Domain\Model\User $user) {
-		$this->view->assign('user', $user);
+	public function editAction(\TYPO3\Connectyou\Domain\Model\User $users) {
+		$this->view->assign('user', $users);
 	}
 
 	/**
