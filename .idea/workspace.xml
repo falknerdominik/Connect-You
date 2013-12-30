@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,7 +74,7 @@
       <file leaf-file-name="User.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="21" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.9315069" vertical-offset="78" max-vertical-offset="810">
+            <state line="39" column="19" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.65753424" vertical-offset="153" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -573,7 +574,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="21" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.9315069" vertical-offset="78" max-vertical-offset="810">
+        <state line="39" column="19" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.65753424" vertical-offset="153" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
