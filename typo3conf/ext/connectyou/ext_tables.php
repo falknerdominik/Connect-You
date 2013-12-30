@@ -142,7 +142,7 @@ t3lib_extMgm::addTCAcolumns('fe_users',$tmp_connectyou_columns);
 $TCA['fe_users']['columns'][$TCA['fe_users']['ctrl']['type']]['config']['items'][] = array('LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:fe_users.tx_extbase_type.Tx_Connectyou_User','Tx_Connectyou_User');
 
 $TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] = $TCA['fe_users']['types']['1']['showitem'];
-$TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] .= ',--div--;LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_user,';
+$TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] .= ',--div--;LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:Tx_Extbase_Domain_Model_FrontendUser,';
 $TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] .= '';
 
 ?>
