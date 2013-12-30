@@ -57,8 +57,8 @@
 				<source>User</source>
 			</trans-unit>
 			
-			<trans-unit id="fe_users.tx_extbase_type.Tx_Connectyou_User">
-				<source>Connect You User</source>
+			<trans-unit id="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser">
+				<source>Tx_Extbase_Domain_Model_FrontendUser</source>
 			</trans-unit>
 			
 		</body>
