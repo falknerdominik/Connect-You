@@ -126,7 +126,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
      * @return void
      */
     public function addTeammember($\TYPO3\Connectyou\Domain\Model\User $user){
-        $this->team
+        array_push()
     }
 }
 ?>
