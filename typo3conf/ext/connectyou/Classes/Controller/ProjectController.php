@@ -119,5 +119,14 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 		$this->redirect('list');
 	}
 
+    /**
+     * action addTeammember
+     *
+     * @param \TYPO3\Connectyou\Domain\Model\User $user
+     * @return void
+     */
+    public function addTeammember($\TYPO3\Connectyou\Domain\Model\User $user){
+        
+    }
 }
 ?>
