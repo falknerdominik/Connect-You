@@ -55,7 +55,7 @@
       <file leaf-file-name="List.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="35" selection-start="919" selection-end="919" vertical-scroll-proportion="0.5588235" vertical-offset="145" max-vertical-offset="825">
+            <state line="18" column="19" selection-start="516" selection-end="516" vertical-scroll-proportion="0.18382353" vertical-offset="145" max-vertical-offset="840">
               <folding>
                 <element signature="n#style#0;n#td#5;n#tr#0;n#f:for#0;n#table#0;n#f:section#0;n#!!top" expanded="true" />
               </folding>
@@ -822,7 +822,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="35" selection-start="919" selection-end="919" vertical-scroll-proportion="0.5588235" vertical-offset="145" max-vertical-offset="825">
+        <state line="18" column="19" selection-start="516" selection-end="516" vertical-scroll-proportion="0.18382353" vertical-offset="145" max-vertical-offset="840">
           <folding>
             <element signature="n#style#0;n#td#5;n#tr#0;n#f:for#0;n#table#0;n#f:section#0;n#!!top" expanded="true" />
           </folding>
