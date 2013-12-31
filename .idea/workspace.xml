@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
