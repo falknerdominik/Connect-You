@@ -33,6 +33,13 @@ Otherwise your changes will be overwritten the next time you save the extension 
             <td>{user.lastName}</td>
             <td>{user.email}</td>
             <td>{user.uid}</td>
+            <td>
+                <select name="top5" size="3">
+                    <f:for each="{projects}" as="{project}">
+                        <option>{project.name}</option>
+                    </f:for>
+                </select>
+            </td>
 			<td><f:link.action action="edit" arguments="{user : user}">Edit</f:link.action></td>
 			<td><f:link.action action="delete" arguments="{user : user}">Delete</f:link.action></td>
 		</tr>
