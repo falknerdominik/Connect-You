@@ -48,7 +48,7 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
      * @var \TYPO3\connectyou\Domain\Repository\ProjectRepository
      * @inject
      */
-    protected  $projectRepository;
+    protected $projectRepository;
 
     /**
 	 * action list
