@@ -12,7 +12,6 @@ config.tx_extbase{
                     recordType = Tx_Extbase_Domain_Model_FrontendUser
                 }
             }
-            
     	}
     }
 }
