@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +61,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
+            <state line="11" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
               <folding />
             </state>
           </provider>
@@ -849,7 +851,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="576" selection-end="576" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
+        <state line="11" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
           <folding />
         </state>
       </provider>
