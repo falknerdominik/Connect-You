@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ext_tables.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ext_tables.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="161" column="201" selection-start="6210" selection-end="6246" vertical-scroll-proportion="-21.833334" vertical-offset="1891" max-vertical-offset="2655">
+            <state line="161" column="201" selection-start="6210" selection-end="6246" vertical-scroll-proportion="0.6273292" vertical-offset="2011" max-vertical-offset="2655">
               <folding />
             </state>
           </provider>
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ext_typoscript_setup.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="56" selection-start="197" selection-end="197" vertical-scroll-proportion="0.13215859" vertical-offset="0" max-vertical-offset="681">
+            <state line="6" column="56" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -764,26 +764,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="4" selection-start="666" selection-end="698" vertical-scroll-proportion="-15.833333" vertical-offset="40" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Language/locallang_db.xlf">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="25" selection-start="1977" selection-end="1977" vertical-scroll-proportion="0.70826834" vertical-offset="476" max-vertical-offset="1140">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/users.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
@@ -795,16 +781,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="161" column="201" selection-start="6210" selection-end="6246" vertical-scroll-proportion="-21.833334" vertical-offset="1891" max-vertical-offset="2655">
+        <state line="6" column="56" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="197" selection-end="197" vertical-scroll-proportion="0.13215859" vertical-offset="0" max-vertical-offset="681">
+        <state line="28" column="4" selection-start="666" selection-end="698" vertical-scroll-proportion="-15.833333" vertical-offset="40" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="201" selection-start="6210" selection-end="6246" vertical-scroll-proportion="0.6273292" vertical-offset="2011" max-vertical-offset="2655">
           <folding />
         </state>
       </provider>
