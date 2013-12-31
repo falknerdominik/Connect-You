@@ -4,14 +4,14 @@ config.tx_extbase{
 
             TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
                 subclasses {
-                    Tx_Connectyou_User = TYPO3\Connectyou\Domain\Model\User
+                    Tx_Extbase_Domain_Model_User = TYPO3\Connectyou\Domain\Model\User
 					
           		}
             }
             TYPO3\Connectyou\Domain\Model\User {
                 mapping {
                     tableName = fe_users
-                    recordType = Tx_Connectyou_User
+                    recordType = Tx_Extbase_Domain_Model_User
                 }
             }
             
