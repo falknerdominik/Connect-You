@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" />
-    </list>
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,13 +53,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constants.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="constants.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt">
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
+            <state line="11" column="20" selection-start="574" selection-end="574" vertical-scroll-proportion="-6.111111" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.65217394" vertical-offset="420" max-vertical-offset="2550">
               <folding />
             </state>
           </provider>
@@ -483,6 +490,10 @@
               <option name="myItemId" value="Configuration" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -733,13 +744,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Repository/UserRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Readme.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="668">
@@ -851,7 +855,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
+        <state line="11" column="20" selection-start="574" selection-end="574" vertical-scroll-proportion="-6.111111" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.65217394" vertical-offset="420" max-vertical-offset="2550">
           <folding />
         </state>
       </provider>
