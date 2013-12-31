@@ -1,6 +1,7 @@
 <?php
 namespace TYPO3\Connectyou\Domain\Model;
 
+
 /***************************************************************
  *  Copyright notice
  *

@@ -5,12 +5,22 @@ if (!defined('TYPO3_MODE')) {
 
 \TYPO3\CMS\Extbase\Utility\ExtensionUtility::registerPlugin(
 	$_EXTKEY,
-	'Connectyou',
-	'Connect You'
+	'Cymarcetplace',
+	'cy_marcetplace'
 );
+
+\TYPO3\CMS\Extbase\Utility\ExtensionUtility::registerPlugin(
+	$_EXTKEY,
+	'Cyusers',
+	'cy_users'
+);
+
+
 
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addStaticFile($_EXTKEY, 'Configuration/TypoScript', 'Connect You');
 
+
+	
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addLLrefForTCAdescr('tx_connectyou_domain_model_project', 'EXT:connectyou/Resources/Private/Language/locallang_csh_tx_connectyou_domain_model_project.xlf');
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::allowTableOnStandardPages('tx_connectyou_domain_model_project');
 $TCA['tx_connectyou_domain_model_project'] = array(
@@ -39,7 +49,9 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 		'iconfile' => \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extRelPath($_EXTKEY) . 'Resources/Public/Icons/tx_connectyou_domain_model_project.gif'
 	),
 );
+		
 
+	
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addLLrefForTCAdescr('tx_connectyou_domain_model_role', 'EXT:connectyou/Resources/Private/Language/locallang_csh_tx_connectyou_domain_model_role.xlf');
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::allowTableOnStandardPages('tx_connectyou_domain_model_role');
 $TCA['tx_connectyou_domain_model_role'] = array(
@@ -68,7 +80,9 @@ $TCA['tx_connectyou_domain_model_role'] = array(
 		'iconfile' => \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extRelPath($_EXTKEY) . 'Resources/Public/Icons/tx_connectyou_domain_model_role.gif'
 	),
 );
+		
 
+	
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addLLrefForTCAdescr('tx_connectyou_domain_model_assignment', 'EXT:connectyou/Resources/Private/Language/locallang_csh_tx_connectyou_domain_model_assignment.xlf');
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::allowTableOnStandardPages('tx_connectyou_domain_model_assignment');
 $TCA['tx_connectyou_domain_model_assignment'] = array(
@@ -97,7 +111,9 @@ $TCA['tx_connectyou_domain_model_assignment'] = array(
 		'iconfile' => \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extRelPath($_EXTKEY) . 'Resources/Public/Icons/tx_connectyou_domain_model_assignment.gif'
 	),
 );
+		
 
+	
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addLLrefForTCAdescr('tx_connectyou_domain_model_timeset', 'EXT:connectyou/Resources/Private/Language/locallang_csh_tx_connectyou_domain_model_timeset.xlf');
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::allowTableOnStandardPages('tx_connectyou_domain_model_timeset');
 $TCA['tx_connectyou_domain_model_timeset'] = array(
@@ -126,7 +142,11 @@ $TCA['tx_connectyou_domain_model_timeset'] = array(
 		'iconfile' => \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extRelPath($_EXTKEY) . 'Resources/Public/Icons/tx_connectyou_domain_model_timeset.gif'
 	),
 );
+		
 
+	
+			
+					
 $tmp_connectyou_columns = array(
 
 );
@@ -139,10 +159,14 @@ $tmp_connectyou_columns['project'] = array(
 
 t3lib_extMgm::addTCAcolumns('fe_users',$tmp_connectyou_columns);
 
-$TCA['fe_users']['columns'][$TCA['fe_users']['ctrl']['type']]['config']['items'][] = array('LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:fe_users.tx_extbase_type.Tx_Connectyou_User','Tx_Extbase_Domain_Model_FrontendUser');
+$TCA['fe_users']['columns'][$TCA['fe_users']['ctrl']['type']]['config']['items'][] = array('LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:fe_users.tx_extbase_type.Tx_Connectyou_User','Tx_Connectyou_User');
 
-$TCA['fe_users']['types']['Tx_Extbase_Domain_Model_FrontendUser']['showitem'] = $TCA['fe_users']['types']['1']['showitem'];
-$TCA['fe_users']['types']['Tx_Extbase_Domain_Model_FrontendUser']['showitem'] .= ',--div--;LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_user';
-$TCA['fe_users']['types']['Tx_Extbase_Domain_Model_FrontendUser']['showitem'] .= '';
+
+$TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] = $TCA['fe_users']['types']['1']['showitem'];
+$TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] .= ',--div--;LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_user,';
+$TCA['fe_users']['types']['Tx_Connectyou_User']['showitem'] .= '';
+
+				
+		
 
 ?>

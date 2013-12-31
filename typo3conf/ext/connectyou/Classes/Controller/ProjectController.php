@@ -81,7 +81,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 */
 	public function createAction(\TYPO3\Connectyou\Domain\Model\Project $newProject) {
 		$this->projectRepository->add($newProject);
-		#$this->flashMessageContainer->add('Your new Project was created.');
+		$this->flashMessageContainer->add('Your new Project was created.');
 		$this->redirect('list');
 	}
 
@@ -103,7 +103,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 */
 	public function updateAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
 		$this->projectRepository->update($project);
-		#$this->flashMessageContainer->add('Your Project was updated.');
+		$this->flashMessageContainer->add('Your Project was updated.');
 		$this->redirect('list');
 	}
 
@@ -115,7 +115,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 */
 	public function deleteAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
 		$this->projectRepository->remove($project);
-		#$this->flashMessageContainer->add('Your Project was removed.');
+		$this->flashMessageContainer->add('Your Project was removed.');
 		$this->redirect('list');
 	}
 

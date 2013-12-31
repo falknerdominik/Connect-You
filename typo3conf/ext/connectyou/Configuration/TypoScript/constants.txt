@@ -9,6 +9,6 @@ plugin.tx_connectyou {
 	}
 	persistence {
 		# cat=plugin.tx_connectyou//a; type=string; label=Default storage PID
-		storagePid = 9
+		storagePid =
 	}
 }

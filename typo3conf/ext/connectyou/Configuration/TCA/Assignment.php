@@ -152,4 +152,9 @@ $TCA['tx_connectyou_domain_model_assignment'] = array(
 	),
 );
 
+
+
+
+
+
 ?>

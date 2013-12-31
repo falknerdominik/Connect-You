@@ -6,16 +6,6 @@ plugin.tx_connectyou {
 	}
 	persistence {
 		storagePid = {$plugin.tx_connectyou.persistence.storagePid}
-		classes {
-            TYPO3\Connectyou\Domain\Model\User {
-                mapping {
-                    tableName = fe_users
-                    recordType = Tx_Extbase_Domain_Model_FrontendUser
-                }
-            }
-
-        }
-        }
 	}
 	features {
 		# uncomment the following line to enable the new Property Mapper.

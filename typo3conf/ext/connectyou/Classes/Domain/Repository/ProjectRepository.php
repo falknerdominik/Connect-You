@@ -1,6 +1,7 @@
 <?php
 namespace TYPO3\Connectyou\Domain\Repository;
 
+
 /***************************************************************
  *  Copyright notice
  *

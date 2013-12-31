@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2013-12-25T16:32:11Z" product-name="connectyou">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-12-31T01:15:31Z" product-name="connectyou">
 		<header/>
 		<body>
-
+			
+			
 			<trans-unit id="tx_connectyou_domain_model_project">
 				<source>Project</source>
 			</trans-unit>
@@ -22,14 +23,16 @@
 			<trans-unit id="tx_connectyou_domain_model_project.team">
 				<source>Team</source>
 			</trans-unit>
-
+			
+			
 			<trans-unit id="tx_connectyou_domain_model_role">
 				<source>Role</source>
 			</trans-unit>
 			<trans-unit id="tx_connectyou_domain_model_role.name">
 				<source>Name</source>
 			</trans-unit>
-
+			
+			
 			<trans-unit id="tx_connectyou_domain_model_assignment">
 				<source>Assignment</source>
 			</trans-unit>
@@ -42,7 +45,8 @@
 			<trans-unit id="tx_connectyou_domain_model_assignment.project">
 				<source>Project</source>
 			</trans-unit>
-
+			
+			
 			<trans-unit id="tx_connectyou_domain_model_timeset">
 				<source>Timeset</source>
 			</trans-unit>
@@ -52,7 +56,8 @@
 			<trans-unit id="tx_connectyou_domain_model_timeset.end_time">
 				<source>End Time</source>
 			</trans-unit>
-
+			
+			
 			<trans-unit id="tx_connectyou_domain_model_user">
 				<source>User</source>
 			</trans-unit>

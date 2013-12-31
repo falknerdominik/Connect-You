@@ -17,12 +17,13 @@ Extension Name
 :Description: manuals covering TYPO3 extension "Connect You"
 :Language: en
 :Author: Dominik Falkner
-:Creation: 2013-12-25
-:Generation: 16:32
+:Creation: 2013-12-31
+:Generation: 01:15
 :Licence: Open Content License available from `www.opencontent.org/opl.shtml <http://www.opencontent.org/opl.shtml>`_
 
 The content of this document is related to TYPO3, a GNU/GPL CMS/Framework available from `www.typo3.org
 <http://www.typo3.org/>`_
+
 
 **Table of Contents**
 
@@ -40,6 +41,7 @@ The content of this document is related to TYPO3, a GNU/GPL CMS/Framework availa
 	@todo: add section about how screenshots can be automated. Pointer to PhantomJS could be added.
 	@todo: explain how documentation can be rendered locally and remotely.
 	@todo: explain what files should be versionned and what not (_build, Makefile, conf.py, ...)
+
 
 .. include:: ../Readme.rst
 

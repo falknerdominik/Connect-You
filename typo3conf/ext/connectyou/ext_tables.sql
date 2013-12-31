@@ -6,11 +6,13 @@ CREATE TABLE tx_connectyou_domain_model_project (
 	uid int(11) NOT NULL auto_increment,
 	pid int(11) DEFAULT '0' NOT NULL,
 
+
 	name varchar(255) DEFAULT '' NOT NULL,
 	description varchar(255) DEFAULT '' NOT NULL,
 	type varchar(255) DEFAULT '' NOT NULL,
 	assignments int(11) unsigned DEFAULT '0' NOT NULL,
 	team int(11) unsigned DEFAULT '0' NOT NULL,
+
 
 	tstamp int(11) unsigned DEFAULT '0' NOT NULL,
 	crdate int(11) unsigned DEFAULT '0' NOT NULL,
@@ -50,7 +52,9 @@ CREATE TABLE tx_connectyou_domain_model_role (
 	uid int(11) NOT NULL auto_increment,
 	pid int(11) DEFAULT '0' NOT NULL,
 
+
 	name varchar(255) DEFAULT '' NOT NULL,
+
 
 	tstamp int(11) unsigned DEFAULT '0' NOT NULL,
 	crdate int(11) unsigned DEFAULT '0' NOT NULL,
@@ -96,6 +100,7 @@ CREATE TABLE tx_connectyou_domain_model_assignment (
 	timeset int(11) unsigned DEFAULT '0',
 	project int(11) unsigned DEFAULT '0',
 
+
 	tstamp int(11) unsigned DEFAULT '0' NOT NULL,
 	crdate int(11) unsigned DEFAULT '0' NOT NULL,
 	cruser_id int(11) unsigned DEFAULT '0' NOT NULL,
@@ -134,8 +139,10 @@ CREATE TABLE tx_connectyou_domain_model_timeset (
 	uid int(11) NOT NULL auto_increment,
 	pid int(11) DEFAULT '0' NOT NULL,
 
+
 	start_time int(11) DEFAULT '0' NOT NULL,
 	end_time int(11) DEFAULT '0' NOT NULL,
+
 
 	tstamp int(11) unsigned DEFAULT '0' NOT NULL,
 	crdate int(11) unsigned DEFAULT '0' NOT NULL,
@@ -172,12 +179,18 @@ CREATE TABLE tx_connectyou_domain_model_timeset (
 #
 CREATE TABLE fe_users (
 
+
 	project int(11) unsigned DEFAULT '0' NOT NULL,
+
 
 	tx_extbase_type varchar(255) DEFAULT '' NOT NULL,
 
+
 );
 
+
+   
+      
 #
 # Table structure for table 'tx_connectyou_domain_model_assignment'
 #
@@ -186,7 +199,9 @@ CREATE TABLE tx_connectyou_domain_model_assignment (
 	project  int(11) unsigned DEFAULT '0' NOT NULL,
 
 );
-
+      
+   
+      
 #
 # Table structure for table 'fe_users'
 #

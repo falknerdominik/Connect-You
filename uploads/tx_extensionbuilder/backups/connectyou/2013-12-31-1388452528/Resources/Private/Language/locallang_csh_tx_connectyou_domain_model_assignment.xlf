@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-12-25T16:32:11Z" product-name="connectyou">
+		<header/>
+		<body>
+
+			<trans-unit id="role.description">
+				<source>Welche Rolle übernimmt der User</source>
+			</trans-unit>
+			<trans-unit id="timeset.description">
+				<source>Wie lange macht er es</source>
+			</trans-unit>
+			<trans-unit id="project.description">
+				<source>für welches Projekt</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
