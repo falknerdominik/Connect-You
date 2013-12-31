@@ -126,8 +126,8 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
      * @return void
      */
     public function addTeammember(\TYPO3\Connectyou\Domain\Model\User $user){
-        array_push($this->team, $user);
-        $this->flashMessageContainer->add("Der Benutzer $user wurde zum Projekt '$this->name' hinzugefügt.");
+        $this->addTeammember($user);
+        $this->flashMessageContainer->add("Der Benutzer $user wurde zum Projekt $this->name hinzugefügt");
     }
 }
 ?>
