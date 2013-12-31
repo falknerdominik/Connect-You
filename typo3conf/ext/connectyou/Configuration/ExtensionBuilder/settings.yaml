@@ -39,11 +39,10 @@
 
 overwriteSettings:
   Classes:
-    Controller: merge
-      UserController.php: keep
+    Controller: keep
     Domain:
-      Model: merge
-      Repository: merge
+      Model: keep
+      Repository: keep
 
   Configuration:
     #TCA: merge
