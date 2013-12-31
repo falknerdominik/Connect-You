@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="61" selection-end="143" vertical-scroll-proportion="0.0882353" vertical-offset="0" max-vertical-offset="680">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/users.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="120">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="UserController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="49" selection-start="1371" selection-end="1371" vertical-scroll-proportion="-4.375" vertical-offset="525" max-vertical-offset="1800">
+            <state line="42" column="49" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.15441176" vertical-offset="525" max-vertical-offset="1800">
               <folding />
             </state>
           </provider>
@@ -738,9 +720,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="49" selection-start="1371" selection-end="1371" vertical-scroll-proportion="-4.375" vertical-offset="525" max-vertical-offset="1800">
+        <state line="2" column="10" selection-start="59" selection-end="59" vertical-scroll-proportion="0.04411765" vertical-offset="0" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
@@ -752,9 +734,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="61" selection-end="143" vertical-scroll-proportion="0.0882353" vertical-offset="0" max-vertical-offset="680">
+        <state line="42" column="49" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.15441176" vertical-offset="525" max-vertical-offset="1800">
           <folding />
         </state>
       </provider>
