@@ -6,6 +6,14 @@ plugin.tx_connectyou {
 	}
 	persistence {
 		storagePid = {$plugin.tx_connectyou.persistence.storagePid}
+		classes {
+            TYPO3\Connectyou\Domain\Model\User {
+                mapping {
+                    tableName = fe_users
+                }
+            }
+
+        }
         }
 	}
 	features {
