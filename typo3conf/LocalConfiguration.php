@@ -60,7 +60,6 @@ return array(
 			'saltedpasswords',
 			'extension_builder',
 			'iglib',
-			'connectyou',
 		),
 	),
 	'FE' => array(
