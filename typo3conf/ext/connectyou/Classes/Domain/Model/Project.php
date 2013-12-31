@@ -73,6 +73,8 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	 */
 	protected $team;
 
+
+
 	/**
 	 * __construct
 	 *

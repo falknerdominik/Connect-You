@@ -42,13 +42,22 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
      */
     protected $userRepository;
 
-	/**
+    /**
+     * projectRepository
+     *
+     * @var \TYPO3\Connectyou\Domain\Repository\ProjectRepository
+     * @inject
+     */
+    protected  $projectRepository;
+
+    /**
 	 * action list
 	 *
 	 * @return void
 	 */
 	public function listAction() {
 		$users = $this->userRepository->findAll();
+        $projects = $this->projectRepository->findAll();
 		$this->view->assign('users', $users);
 	}
 
