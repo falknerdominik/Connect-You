@@ -34,25 +34,5 @@ namespace TYPO3\Connectyou\Domain\Model;
  */
 class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
 
-    /**
-     * @var int $uID
-     */
-    protected $uID;
-    /**
-     * @var string $uname
-     */
-    protected $uname;
-    /**
-     * @var string $fname
-     */
-    protected $fname;
-    /**
-     * @var string $lname
-     */
-    protected $lname;
-    /**
-     * @var string $email
-     */
-    protected $email;
 }
 ?>
