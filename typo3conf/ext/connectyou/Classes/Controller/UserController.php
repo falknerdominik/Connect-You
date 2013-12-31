@@ -59,6 +59,7 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
 		$users = $this->userRepository->findAll();
         $projects = $this->projectRepository->findAll();
 		$this->view->assign('users', $users);
+        $this->view->assign('projects', $projects);
 	}
 
 	/**
