@@ -430,7 +430,7 @@ class Typo3DbBackend implements \TYPO3\CMS\Extbase\Persistence\Generic\Storage\B
 	 */
 	public function buildQuery(array $sql) {
 		$statement = 'SELECT ' . implode(' ', $sql['keywords']) . ' ' . implode(',', $sql['fields']) . ' FROM ' . implode(' ', $sql['tables']) . ' ' . implode(' ', $sql['unions']);
-        var_dump($statement);
+        #var_dump($statement);
 
         if (!empty($sql['where'])) {
 			$statement .= ' WHERE ' . implode('', $sql['where']);
