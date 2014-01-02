@@ -58,6 +58,9 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
 	public function listAction() {
 		$users = $this->userRepository->findAll();
         $projects = $this->projectRepository->findAll();
+
+        #Debug
+        print_r($this->configurationManager->getConfiguration(\TYPO3\CMS\Extbase\Configuration\ConfigurationManagerInterface::CONFIGURATION_TYPE_FRAMEWORK,'connectyou', 'connectyou'));
         \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->projectRepository);
         \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->userRepository);
 		$this->view->assign('users', $users);
