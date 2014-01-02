@@ -7,8 +7,6 @@ plugin.tx_connectyou {
 	persistence {
 		# storagePid = {$plugin.tx_connectyou.persistence.storagePid}
 		classes {
-		    Tx_Domain_Model_Project.storagePid =
-		    Tx_Domain_Model_User.storagePid = 9
 		}
 	}
 	features {
