@@ -41,7 +41,7 @@ overwriteSettings:
   Classes:
     Controller: keep
     Domain:
-      Model: keep
+      Model: merge
       Repository: keep
 
   Configuration:
@@ -61,7 +61,7 @@ overwriteSettings:
 
 #  ext_localconf.php: merge
 
-#  ext_tables.php: merge
+  ext_tables.php: keep
 
 #  ext_tables.sql: merge
 
