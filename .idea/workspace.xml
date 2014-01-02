@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" afterPath="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +61,7 @@
       <file leaf-file-name="Typo3DbBackend.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="430" column="44" selection-start="15079" selection-end="15079" vertical-scroll-proportion="0.33333334" vertical-offset="6236" max-vertical-offset="19740">
+            <state line="432" column="29" selection-start="15284" selection-end="15284" vertical-scroll-proportion="0.4034268" vertical-offset="6221" max-vertical-offset="19770">
               <folding />
             </state>
           </provider>
@@ -83,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/typo3conf/ext/ig_ldap_sso_auth/pi1/class.tx_igldapssoauth_pi1_wizicon.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Repository/UserRepository.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/login.css" />
@@ -99,6 +100,7 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
+        <option value="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
       </list>
     </option>
   </component>
@@ -789,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="430" column="44" selection-start="15079" selection-end="15079" vertical-scroll-proportion="0.33333334" vertical-offset="6236" max-vertical-offset="19740">
+        <state line="432" column="29" selection-start="15284" selection-end="15284" vertical-scroll-proportion="0.4034268" vertical-offset="6221" max-vertical-offset="19770">
           <folding />
         </state>
       </provider>
