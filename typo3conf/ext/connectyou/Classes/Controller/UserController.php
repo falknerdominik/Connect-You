@@ -60,7 +60,8 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
         $projects = $this->projectRepository->findAll();
 
         #Debug
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->configurationManager->getConfiguration(\TYPO3\CMS\Extbase\Configuration\ConfigurationManagerInterface::CONFIGURATION_TYPE_FRAMEWORK,'connectyou', 'connectyou'));
+        $config = $this->configurationManager->getConfiguration(Tx_Extbase_Configuration_ConfigurationManagerInterface::CONFIGURATION_TYPE_FRAMEWORK);
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($config['persistence']['storagePid']);
         \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->projectRepository);
         \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->userRepository);
 		$this->view->assign('users', $users);
