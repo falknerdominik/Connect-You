@@ -53,19 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProjectController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="51" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.6849315" vertical-offset="1110" max-vertical-offset="2070">
+            <state line="104" column="51" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-48.75" vertical-offset="390" max-vertical-offset="2070">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.yaml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.yaml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="22" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1500">
+            <state line="55" column="21" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.6475771" vertical-offset="384" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -537,16 +537,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="22" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1500">
+        <state line="104" column="51" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-48.75" vertical-offset="390" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="51" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.6849315" vertical-offset="1110" max-vertical-offset="2070">
+        <state line="55" column="21" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.6475771" vertical-offset="384" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
