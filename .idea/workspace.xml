@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
-    </list>
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,19 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ProjectController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="33" selection-start="1393" selection-end="1393" vertical-scroll-proportion="-22.5" vertical-offset="90" max-vertical-offset="2070">
+            <state line="104" column="51" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.6849315" vertical-offset="1110" max-vertical-offset="2070">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.yaml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="22" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.8017621" vertical-offset="399" max-vertical-offset="1500">
+            <state line="63" column="22" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -489,13 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="1393" selection-end="1393" vertical-scroll-proportion="-22.5" vertical-offset="90" max-vertical-offset="2070">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -548,7 +539,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="22" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.8017621" vertical-offset="399" max-vertical-offset="1500">
+        <state line="63" column="22" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="51" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.6849315" vertical-offset="1110" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
