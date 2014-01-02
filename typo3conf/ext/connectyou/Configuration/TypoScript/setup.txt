@@ -6,6 +6,9 @@ plugin.tx_connectyou {
 	}
 	persistence {
 		storagePid = {$plugin.tx_connectyou.persistence.storagePid}
+		classes{
+		    Tx_connectyou_Domain_Model_Project.newRecordStoragePid = 74
+		}
 	}
 	features {
 		# uncomment the following line to enable the new Property Mapper.
