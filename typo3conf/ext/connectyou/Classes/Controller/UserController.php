@@ -58,7 +58,7 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
 	public function listAction() {
 		$users = $this->userRepository->findAll();
         $projects = $this->projectRepository->findAll();
-        Tx_Extbase_Utility_Debugger::var_dump($this->projectRepository);
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->projectRepository);
 		$this->view->assign('users', $users);
         $this->view->assign('projects', $projects);
 	}
