@@ -5,7 +5,7 @@ plugin.tx_connectyou {
 		layoutRootPath = {$plugin.tx_connectyou.view.layoutRootPath}
 	}
 	persistence {
-		storagePid = {$plugin.tx_connectyou.persistence.storagePid}
+		# storagePid = {$plugin.tx_connectyou.persistence.storagePid}
 		classes{
 		    Tx_connectyou_Domain_Model_Project.newRecordStoragePid = 7
 		    Tx_connectyou_Domain_Model_User.newRecordStoragePid = 9
