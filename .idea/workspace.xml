@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,25 +46,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.txt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="setup.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt">
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="368" selection-end="368" vertical-scroll-proportion="-5.5555553" vertical-offset="0" max-vertical-offset="720">
+            <state line="7" column="69" selection-start="246" selection-end="307" vertical-scroll-proportion="0.16055046" vertical-offset="0" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constants.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="constants.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt">
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="25" selection-start="579" selection-end="579" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
+            <state line="11" column="25" selection-start="579" selection-end="579" vertical-scroll-proportion="-6.111111" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -136,9 +137,9 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" />
         <option value="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" />
       </list>
     </option>
   </component>
@@ -493,16 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="368" selection-end="368" vertical-scroll-proportion="-5.5555553" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="479" selection-end="479" vertical-scroll-proportion="0.2863436" vertical-offset="0" max-vertical-offset="681">
@@ -550,7 +541,17 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="579" selection-end="579" vertical-scroll-proportion="0.2522936" vertical-offset="0" max-vertical-offset="654">
+        <state line="11" column="25" selection-start="579" selection-end="579" vertical-scroll-proportion="-6.111111" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="69" selection-start="246" selection-end="307" vertical-scroll-proportion="0.16055046" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
