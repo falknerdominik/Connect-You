@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="List.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="19" selection-start="516" selection-end="516" vertical-scroll-proportion="0.19025876" vertical-offset="145" max-vertical-offset="840">
+            <state line="18" column="19" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.2083335" vertical-offset="145" max-vertical-offset="840">
               <folding>
                 <element signature="n#style#0;n#td#5;n#tr#0;n#f:for#0;n#table#0;n#f:section#0;n#!!top" expanded="true" />
               </folding>
@@ -67,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="UserController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="8" selection-start="1771" selection-end="1850" vertical-scroll-proportion="-15.5" vertical-offset="528" max-vertical-offset="2085">
+            <state line="60" column="82" selection-start="1845" selection-end="1845" vertical-scroll-proportion="0.5890411" vertical-offset="513" max-vertical-offset="2085">
               <folding />
             </state>
           </provider>
@@ -126,8 +128,8 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/constants.txt" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" />
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
         <option value="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
       </list>
     </option>
   </component>
@@ -680,13 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="8" selection-start="1771" selection-end="1850" vertical-scroll-proportion="-15.5" vertical-offset="528" max-vertical-offset="2085">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="33" selection-start="1393" selection-end="1393" vertical-scroll-proportion="-3.125" vertical-offset="555" max-vertical-offset="2070">
@@ -703,10 +698,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="19" selection-start="516" selection-end="516" vertical-scroll-proportion="0.19025876" vertical-offset="145" max-vertical-offset="840">
+        <state line="18" column="19" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.2083335" vertical-offset="145" max-vertical-offset="840">
           <folding>
             <element signature="n#style#0;n#td#5;n#tr#0;n#f:for#0;n#table#0;n#f:section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="82" selection-start="1845" selection-end="1845" vertical-scroll-proportion="0.5890411" vertical-offset="513" max-vertical-offset="2085">
+          <folding />
         </state>
       </provider>
     </entry>
