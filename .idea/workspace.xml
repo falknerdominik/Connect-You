@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" afterPath="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
-    </list>
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,19 +47,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="UserController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="52" selection-start="1815" selection-end="1815" vertical-scroll-proportion="-15.5" vertical-offset="528" max-vertical-offset="2085">
+            <state line="60" column="52" selection-start="1815" selection-end="1815" vertical-scroll-proportion="0.5470588" vertical-offset="528" max-vertical-offset="2085">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Typo3DbBackend.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Typo3DbBackend.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="432" column="29" selection-start="15284" selection-end="15284" vertical-scroll-proportion="0.4034268" vertical-offset="6221" max-vertical-offset="19770">
+            <state line="432" column="29" selection-start="15284" selection-end="15284" vertical-scroll-proportion="-5.285714" vertical-offset="6221" max-vertical-offset="19770">
               <folding />
             </state>
           </provider>
@@ -782,16 +780,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
+    <entry file="file://$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="52" selection-start="1815" selection-end="1815" vertical-scroll-proportion="-15.5" vertical-offset="528" max-vertical-offset="2085">
+        <state line="432" column="29" selection-start="15284" selection-end="15284" vertical-scroll-proportion="-5.285714" vertical-offset="6221" max-vertical-offset="19770">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="432" column="29" selection-start="15284" selection-end="15284" vertical-scroll-proportion="0.4034268" vertical-offset="6221" max-vertical-offset="19770">
+        <state line="60" column="52" selection-start="1815" selection-end="1815" vertical-scroll-proportion="0.5470588" vertical-offset="528" max-vertical-offset="2085">
           <folding />
         </state>
       </provider>
