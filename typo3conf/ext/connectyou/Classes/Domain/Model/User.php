@@ -44,7 +44,7 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
     /**
      * Die Id des Users
      *
-     * @var int
+     * @var string
      */
     protected $uid;
 
@@ -60,7 +60,7 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
     /**
      * Gets the uid
      *
-     * @return int
+     * @return string
      */
     public function getUid() {
         return $this->uid;
