@@ -64,7 +64,7 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
      * @return void
      */
     public function getUid($uid) {
-        $this->name = $uid;
+        return $this->uid;
     }
 }
 ?>
