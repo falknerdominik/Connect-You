@@ -104,6 +104,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
         $users = $this->userRepository->findAll();
         $user = $this->userRepository->findByUid(3);
         var_dump($user->getUsername());
+        var_dump($user->getUid());
         $this->view->assign('users', $users);
 	}
 
