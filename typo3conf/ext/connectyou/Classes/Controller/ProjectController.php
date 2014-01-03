@@ -102,9 +102,6 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	public function editAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
 		$this->view->assign('project', $project);
         $users = $this->userRepository->findAll();
-        $user = $this->userRepository->findByUid(3);
-        var_dump($user->getUsername());
-        var_dump($user->getUid());
         $this->view->assign('users', $users);
 	}
 
