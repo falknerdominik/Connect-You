@@ -112,10 +112,13 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 * @return void
 	 */
 	public function updateAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
-		#$this->projectRepository->update($project);
+        # Die Daten der Form holen
         $arguments = $this->request->getArguments();
         $formData = $arguments['project'];
+
+        #debug
         \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
+        #$this->projectRepository->update($project);
 		#$this->flashMessageContainer->add('Your Project was updated.');
 		#$this->redirect('list');
 	}
