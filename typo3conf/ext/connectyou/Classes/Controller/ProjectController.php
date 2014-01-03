@@ -118,6 +118,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 
         #debug
         \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
         #$this->projectRepository->update($project);
 		#$this->flashMessageContainer->add('Your Project was updated.');
 		#$this->redirect('list');
