@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +55,7 @@
       <file leaf-file-name="FormFields.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="64" selection-start="636" selection-end="636" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
+            <state line="14" column="69" selection-start="641" selection-end="641" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
               <folding />
             </state>
           </provider>
@@ -832,7 +832,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="64" selection-start="636" selection-end="636" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
+        <state line="14" column="69" selection-start="641" selection-end="641" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
           <folding />
         </state>
       </provider>
