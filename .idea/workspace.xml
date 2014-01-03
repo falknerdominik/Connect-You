@@ -43,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Edit.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Edit.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.38812786" vertical-offset="0" max-vertical-offset="657">
+            <state line="24" column="55" selection-start="682" selection-end="682" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormFields.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FormFields.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="46" selection-start="572" selection-end="572" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="465">
+            <state line="14" column="46" selection-start="572" selection-end="572" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
               <folding />
             </state>
           </provider>
@@ -830,13 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="46" selection-start="572" selection-end="572" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="8" selection-start="1788" selection-end="1788" vertical-scroll-proportion="-6.125" vertical-offset="783" max-vertical-offset="2130">
@@ -853,7 +846,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="481" selection-end="481" vertical-scroll-proportion="0.38812786" vertical-offset="0" max-vertical-offset="657">
+        <state line="24" column="55" selection-start="682" selection-end="682" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="46" selection-start="572" selection-end="572" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
           <folding />
         </state>
       </provider>
