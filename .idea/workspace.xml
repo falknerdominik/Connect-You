@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,7 +55,7 @@
       <file leaf-file-name="FormFields.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="80" selection-start="652" selection-end="652" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
+            <state line="14" column="58" selection-start="630" selection-end="630" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
               <folding />
             </state>
           </provider>
@@ -111,9 +113,9 @@
         <option value="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html" />
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
       </list>
     </option>
   </component>
@@ -859,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="80" selection-start="652" selection-end="652" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
+        <state line="14" column="58" selection-start="630" selection-end="630" vertical-scroll-proportion="0.3196347" vertical-offset="0" max-vertical-offset="657">
           <folding />
         </state>
       </provider>
