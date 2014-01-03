@@ -34,6 +34,30 @@ namespace TYPO3\Connectyou\Domain\Model;
  *
  */
 class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
+    /**
+     * Benutzername des Users
+     *
+     * @var \string
+     */
+    protected $username;
 
+    /**
+     * Returns the name
+     *
+     * @return \string $name
+     */
+    public function getUserame() {
+        return $this->username;
+    }
+
+    /**
+     * Sets the name
+     *
+     * @param \string $name
+     * @return void
+     */
+    public function setName($name) {
+        $this->name = $name;
+    }
 }
 ?>
