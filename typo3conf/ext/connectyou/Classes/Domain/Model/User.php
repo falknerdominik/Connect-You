@@ -42,6 +42,13 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
     protected $username;
 
     /**
+     * Die Id des Users
+     *
+     * @var int
+     */
+    protected $uid;
+
+    /**
      * Returns the name
      *
      * @return \string $name
@@ -51,13 +58,13 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
     }
 
     /**
-     * Sets the name
+     * Gets the uid
      *
-     * @param \string $name
+     * @param int $uid
      * @return void
      */
-    public function setName($name) {
-        $this->name = $name;
+    public function setUsername($uid) {
+        $this->name = $uid;
     }
 }
 ?>
