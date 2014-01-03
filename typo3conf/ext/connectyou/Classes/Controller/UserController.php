@@ -60,8 +60,8 @@ class UserController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionController 
         $projects = $this->projectRepository->findAll();
 
         # Debug
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->projectRepository);
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->userRepository);
+        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->projectRepository);
+        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->userRepository);
 		$this->view->assign('users', $users);
         $this->view->assign('projects', $projects);
 	}
