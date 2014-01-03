@@ -8,8 +8,15 @@
 	<f:translate key="tx_connectyou_domain_model_project.description" /> <span class="required">(notwendig)</span>
 </label><br />
 	<f:form.textfield property="description" /><br />
+
 <label for="type">
 	<f:translate key="tx_connectyou_domain_model_project.type" /> <span class="required">(notwendig)</span>
 </label><br />
 	<f:form.textfield property="type" /><br />
-<f:form.select name="users" options="{users}" multiple="1" />
+
+
+<f:for ></f:for>
+<label for="team">
+    <f:translate key="tx_connectyou_domain_model_project.team" />
+</label>
+    <f:form.select name="users" options="{users}" multiple="1" />
