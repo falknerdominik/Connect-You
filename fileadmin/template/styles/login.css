@@ -63,14 +63,14 @@ body, html {
 #user {
     margin-bottom: 2%;
     width: 100%;
-    height: 2.5%;
+    height: 3%;
     background: white url("../images/Anmelden_Icon.png") right no-repeat;
     background-size: 12% 80%;
 }
 #pass {
     margin-bottom: 1.5%;
     width: 100%;
-    height: 2.5%;
+    height: 3%;
     background: white url("../images/Passwort_Icon.png") right no-repeat;
     background-size: 12% 80%;
 }
