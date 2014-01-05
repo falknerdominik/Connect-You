@@ -62,7 +62,7 @@
       <file leaf-file-name="FormFields.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="0" selection-end="809" vertical-scroll-proportion="0.48913044" vertical-offset="0" max-vertical-offset="644">
+            <state line="20" column="43" selection-start="711" selection-end="715" vertical-scroll-proportion="0.46583852" vertical-offset="0" max-vertical-offset="644">
               <folding />
             </state>
           </provider>
@@ -860,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="0" selection-end="809" vertical-scroll-proportion="0.48913044" vertical-offset="0" max-vertical-offset="644">
+        <state line="20" column="43" selection-start="711" selection-end="715" vertical-scroll-proportion="0.46583852" vertical-offset="0" max-vertical-offset="644">
           <folding />
         </state>
       </provider>
