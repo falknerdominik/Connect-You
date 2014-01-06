@@ -49,21 +49,70 @@ class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
     protected $uid;
 
     /**
-     * Returns the name
+     * Die Gruppe des Users
      *
-     * @return \string $name
+     * @var \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
+     */
+    protected $usergroup;
+
+    /**
+     * Die Firma des Clienten
+     *
+     * @var \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
+     */
+    protected $companyname;
+
+    /**
+     * Die Firma des Clienten
+     *
+     * @var \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
+     */
+    protected $project;
+
+    /**
+     * Gibt den Benutzernamen zurück
+     *
+     * @return \string
      */
     public function getUserame() {
         return $this->username;
     }
 
     /**
-     * Gets the uid
+     * Gibt den Benutzernamen zurück
+     *
+     * @return \string
+     */
+    public function getProject() {
+        return $this->project;
+    }
+
+    /**
+     * Gibt die UID zurück
      *
      * @return string
      */
     public function getUid() {
         return $this->uid;
     }
+
+    /**
+     * Gibt die Gruppe zurück
+     *
+     * @return \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
+     */
+    public function getUsergroup() {
+        return $this->usergroup;
+    }
+
+    /**
+     * Gibt die Gruppe zurück
+     *
+     * @return \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
+     */
+    public function getCompanyname() {
+        return $this->companyname;
+    }
+
 }
 ?>

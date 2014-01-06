@@ -5,7 +5,7 @@ namespace TYPO3\Connectyou\Controller;
  *  Copyright notice
  *
  *  (c) 2013 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
- *  
+ *
  *  All rights reserved
  *
  *  This script is part of the TYPO3 project. The TYPO3 project is
@@ -51,27 +51,31 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
     protected $userRepository;
 
 	/**
-	 * action list
+	 * Die Projekte in Listenform anzeigen
 	 *
 	 * @return void
 	 */
 	public function listAction() {
+        # Alle Projekte aus dem Repository holen
 		$projects = $this->projectRepository->findAll();
+
+        # Das Projekt Fluid übergeben
 		$this->view->assign('projects', $projects);
 	}
 
 	/**
-	 * action show
+	 * Details eines Projektes Anzeigen
 	 *
 	 * @param \TYPO3\Connectyou\Domain\Model\Project $project
 	 * @return void
 	 */
 	public function showAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
+        # Das Projekt zu Fluid weitergeben
 		$this->view->assign('project', $project);
 	}
 
 	/**
-	 * action new
+	 * Neues Projekt erstellen
 	 *
 	 * @param \TYPO3\Connectyou\Domain\Model\Project $newProject
 	 * @dontvalidate $newProject
@@ -82,46 +86,66 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	}
 
 	/**
-	 * action create
+	 * Neues Projekt persistieren
 	 *
 	 * @param \TYPO3\Connectyou\Domain\Model\Project $newProject
 	 * @return void
 	 */
 	public function createAction(\TYPO3\Connectyou\Domain\Model\Project $newProject) {
-		$this->projectRepository->add($newProject);
+		# Persistieren
+        $this->projectRepository->add($newProject);
+
+        # Neue FlashMassage erstellen
 		$this->flashMessageContainer->add('Your new Project was created.');
+
+        # Weiterleitung zur Liste
 		$this->redirect('list');
 	}
 
 	/**
-	 * action edit
+	 * Project bearbeiten
 	 *
 	 * @param \TYPO3\Connectyou\Domain\Model\Project $project
 	 * @return void
 	 */
 	public function editAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
-		$this->view->assign('project', $project);
-        $users = $this->userRepository->findAll();
-        $this->view->assign('users', $users);
+        # Uid des Projektes auslesen das vorhandene Team angezeigt wird
+        $uid = $project->getUid();
+
+        # Die Benutzer nach Gruppensortiert auslesen
+        $clients = $this->findUsersWithFrontendUserGroupTitle('Clients', $uid);
+        $students = $this->findUsersWithFrontendUserGroupTitle("Students", $uid);
+
+
+        # der View zuweisen
+        $this->view->assign('students', $students);
+        $this->view->assign('project', $project);
+        $this->view->assign('clients', $clients);
 	}
 
 	/**
-	 * action update
+	 * Project Updaten
 	 *
 	 * @param \TYPO3\Connectyou\Domain\Model\Project $project
 	 * @return void
 	 */
 	public function updateAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
-        # Die Daten der Form holen
-        $arguments = $this->request->getArguments();
-        $formData = $arguments['project'];
+        # Die Daten der Form holen für Debugging
+        # $arguments = $this->request->getArguments();
+        # $formData = $arguments['project'];
 
         #debug
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
+        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
+        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
+
+        # Update Projekt
         $this->projectRepository->update($project);
-		#$this->flashMessageContainer->add('Your Project was updated.');
-		$this->redirect('list');
+
+        # Erstelle FlashMassage
+		$this->flashMessageContainer->add("Das Projekt $project->getName() wurde geupdated.");
+
+        # Weiterleitung zur Liste
+		#$this->redirect('list');
 	}
 
 	/**
@@ -131,9 +155,49 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 * @return void
 	 */
 	public function deleteAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
-		$this->projectRepository->remove($project);
-		$this->flashMessageContainer->add('Your Project was removed.');
+		# Das Projekt vom Repo löschen
+        $this->projectRepository->remove($project);
+
+        # Erstelle FlashMassage
+		$this->flashMessageContainer->add("Das Projekt $project->getName() wurde gelöscht!");
+
+        #Weiterleitung zur Liste
 		$this->redirect('list');
 	}
+
+
+    /**
+     * Sucht die Benutzer nach dem Gruppentitel heraus.
+     *
+     * @param $title
+     * @return array
+     */
+    public function findUsersWithFrontendUserGroupTitle($title, $uid) {
+        # Array initalisieren
+        $searchedUsers = array();
+
+        # Finde alle Benutzer
+        $allUsers = $this->userRepository->findAll();
+
+        # debug
+        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($allUsers);
+
+        # suche nur jene heraus die den Gruppentitel $title haben
+        foreach($allUsers as $user) {
+            # get FrontendUserGroup  aus ObjektStorage
+            $group = $user->getUsergroup();
+
+            # Suche die Gruppenzugehörigen heraus und Speichere die nötigen user im Array
+            if($group->getTitle() == $title && ($user->getProject == 0 || $user->getProject() == $uid)){
+                array_push($searchedUsers, $user);
+            }
+        }
+
+        #debug
+        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($searchedUsers);
+
+        # return
+        return $searchedUsers;
+    }
 }
 ?>

@@ -35,6 +35,14 @@ namespace TYPO3\Connectyou\Domain\Model;
  */
 class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 
+    /**
+     * UID des Projektes
+     *
+     * @var \string
+     * @validate NotEmpty
+     */
+    protected $uid;
+
 	/**
 	 * Name des Projektes
 	 *
@@ -66,14 +74,19 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	 */
 	protected $assignments;
 
+    /**
+     * Auftraggeber
+     *
+     * @var \TYPO3\Connectyou\Domain\Model\User
+     */
+    protected $client;
+
 	/**
 	 * Teammitglieder
 	 *
 	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\User>
 	 */
 	protected $team;
-
-
 
 	/**
 	 * __construct
@@ -100,6 +113,15 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 		
 		$this->team = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
 	}
+
+    /**
+     * Gibt die UID zurück
+     *
+     * @return \string $uid
+     */
+    public function getUid() {
+        return $this->uid;
+    }
 
 	/**
 	 * Returns the name
@@ -235,6 +257,24 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	public function setTeam(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $team) {
 		$this->team = $team;
 	}
+
+    /**
+     * Setzt den Client
+     *
+     * @param \TYPO3\Connectyou\Domain\Model\User $client
+     */
+    public function setClient(\TYPO3\Connectyou\Domain\Model\User $client) {
+        $this->client = $client;
+    }
+
+    /**
+     * Gibt den Client zurück
+     *
+     * @return \TYPO3\Connectyou\Domain\Model\User $client
+     */
+    public function getClient() {
+        return $this->client;
+    }
 
 }
 ?>

@@ -18,4 +18,10 @@
 <label for="team">
     <f:translate key="tx_connectyou_domain_model_project.team" />
 </label>
-    <f:form.select name="team[]" property="team" options="{users}" multiple="multiple" optionValueField="uid" optionLabelField="username" />
+    <f:form.select name="team[]" property="team" options="{students}" multiple="multiple" optionValueField="uid" optionLabelField="username" />
+
+<label for="client">
+    <f:translate key="tx_connectyou_domain_model_project.client" />
+</label>
+<f:form.select name="client" property="client" options="{clients}" optionValueField="uid" optionLabelField="company" />
+

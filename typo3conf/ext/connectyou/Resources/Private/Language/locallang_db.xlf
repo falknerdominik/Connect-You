@@ -23,6 +23,9 @@
 			<trans-unit id="tx_connectyou_domain_model_project.team">
 				<source>Team</source>
 			</trans-unit>
+			<trans-unit id="tx_connectyou_domain_model_project.client">
+            	<source>Client</source>
+            </trans-unit>
 			
 			
 			<trans-unit id="tx_connectyou_domain_model_role">

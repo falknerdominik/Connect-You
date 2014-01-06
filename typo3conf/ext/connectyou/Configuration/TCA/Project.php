@@ -154,6 +154,24 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 				),
 			),
 		),
+
+        'client' => array(
+            'exclude' => 0,
+            'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.client',
+            'config' => array(
+                'type' => 'inline',
+                'foreign_table' => 'fe_users',
+                'foreign_field' => 'projectclient',
+                'maxitems'      => 9999,
+                'appearance' => array(
+                    'collapseAll' => 0,
+                    'levelLinksPosition' => 'top',
+                    'showSynchronizationLink' => 1,
+                    'showPossibleLocalizationRecords' => 1,
+                    'showAllLocalizationLink' => 1
+                ),
+            ),
+        ),
 	),
 );
 
