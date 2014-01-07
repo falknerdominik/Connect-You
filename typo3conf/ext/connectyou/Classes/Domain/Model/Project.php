@@ -131,6 +131,15 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
         return $this->uid;
     }
 
+    /**
+     * Gibt das Erstellungsdatum zurück
+     *
+     * @return string $crdate
+     */
+    public function getCrdate() {
+        return $this->crdate;
+    }
+
 	/**
 	 * Returns the name
 	 *
