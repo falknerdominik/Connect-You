@@ -46,7 +46,7 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
     /**
      * Erstellungsdatum
      *
-     * @var \date
+     * @var \string
      * @validate NotEmpty
      */
     protected $crdate;

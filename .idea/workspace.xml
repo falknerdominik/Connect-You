@@ -37,7 +37,7 @@
       <file leaf-file-name="Project.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="22" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.47488585" vertical-offset="453" max-vertical-offset="4395">
+            <state line="48" column="19" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.4063927" vertical-offset="453" max-vertical-offset="4395">
               <folding />
             </state>
           </provider>
@@ -862,7 +862,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="22" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.47488585" vertical-offset="453" max-vertical-offset="4395">
+        <state line="48" column="19" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.4063927" vertical-offset="453" max-vertical-offset="4395">
           <folding />
         </state>
       </provider>
