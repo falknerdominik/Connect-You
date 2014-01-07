@@ -102,15 +102,6 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 				'eval' => 'trim,required',
 			),
 		),
-        'tstamp' => array(
-            'exclude' => 0,
-            'label' => 'Zeitstempel',
-            'config' => array(
-                'type' => 'input',
-                'format' => 'date',
-                'eval' => 'date'
-            ),
-        ),
 		'description' => array(
 			'exclude' => 0,
 			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.description',
