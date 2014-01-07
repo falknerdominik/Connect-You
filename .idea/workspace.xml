@@ -26,7 +26,7 @@
       <file leaf-file-name="ProjectController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="38" selection-start="3188" selection-end="3188" vertical-scroll-proportion="-9.25" vertical-offset="1503" max-vertical-offset="2160">
+            <state line="135" column="0" selection-start="3934" selection-end="3934" vertical-scroll-proportion="-9.25" vertical-offset="1803" max-vertical-offset="3120">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="Project.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="93" selection-start="1847" selection-end="1847" vertical-scroll-proportion="8.875" vertical-offset="1278" max-vertical-offset="3675">
+            <state line="93" column="22" selection-start="2146" selection-end="2146" vertical-scroll-proportion="8.875" vertical-offset="1608" max-vertical-offset="4275">
               <folding />
             </state>
           </provider>
@@ -44,8 +44,10 @@
       <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="21" selection-start="1627" selection-end="1627" vertical-scroll-proportion="-19.875" vertical-offset="453" max-vertical-offset="1110">
-              <folding />
+            <state line="110" column="21" selection-start="2556" selection-end="2556" vertical-scroll-proportion="-19.875" vertical-offset="1173" max-vertical-offset="1845">
+              <folding>
+                <marker date="1388937484000" expanded="true" signature="1428:1436" placeholder=" Returns the name ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -832,22 +834,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="38" selection-start="3188" selection-end="3188" vertical-scroll-proportion="-9.25" vertical-offset="1503" max-vertical-offset="2160">
+        <state line="135" column="0" selection-start="3934" selection-end="3934" vertical-scroll-proportion="-9.25" vertical-offset="1803" max-vertical-offset="3120">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="93" selection-start="1847" selection-end="1847" vertical-scroll-proportion="8.875" vertical-offset="1278" max-vertical-offset="3675">
+        <state line="93" column="22" selection-start="2146" selection-end="2146" vertical-scroll-proportion="8.875" vertical-offset="1608" max-vertical-offset="4275">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="21" selection-start="1627" selection-end="1627" vertical-scroll-proportion="-19.875" vertical-offset="453" max-vertical-offset="1110">
-          <folding />
+        <state line="110" column="21" selection-start="2556" selection-end="2556" vertical-scroll-proportion="-19.875" vertical-offset="1173" max-vertical-offset="1845">
+          <folding>
+            <marker date="1388937484000" expanded="true" signature="1428:1436" placeholder=" Returns the name ..." />
+          </folding>
         </state>
       </provider>
     </entry>
