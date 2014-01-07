@@ -50,7 +50,7 @@ overwriteSettings:
     TypoScript: keep
 
   Resources:
-    Private:
+    Private: keep
       Language:
         #locallang.xml: merge
         #locallang.xlf: merge
