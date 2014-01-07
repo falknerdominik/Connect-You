@@ -40,10 +40,9 @@
 overwriteSettings:
   Classes:
     Controller: keep
-    Model: keep
-    Domain:
-      Model: merge
-      Repository: keep
+  Domain:
+      Model: keep
+      Repository: merge
 
   Configuration:
     TCA: keep
