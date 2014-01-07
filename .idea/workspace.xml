@@ -28,7 +28,7 @@
       <file leaf-file-name="settings.yaml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="2" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.38210228" vertical-offset="361" max-vertical-offset="1500">
+            <state line="47" column="14" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.46732953" vertical-offset="376" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -456,7 +456,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="2" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.38210228" vertical-offset="361" max-vertical-offset="1500">
+        <state line="47" column="14" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.46732953" vertical-offset="376" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
