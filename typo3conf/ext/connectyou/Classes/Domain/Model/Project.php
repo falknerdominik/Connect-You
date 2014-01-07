@@ -130,7 +130,16 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
         return $this->uid;
     }
 
-	/**
+    /**
+     * Gibt des Zeitstempel zurück
+     *
+     * @return string $tstamp
+     */
+    public function getTstamp() {
+        return $this->tstamp;
+    }
+
+    /**
 	 * Returns the name
 	 *
 	 * @return \string $name
