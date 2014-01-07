@@ -22,26 +22,7 @@
     <favorites_list name="Connect-You" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="settings.yaml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="14" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1700">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="4" selection-start="2246" selection-end="2246" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="2499">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -80,10 +61,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="-8" />
-    <option name="width" value="1319" />
-    <option name="height" value="784" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -111,6 +91,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -381,7 +362,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,7 +395,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1319" height="784" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="827" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -503,9 +483,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="87" selection-start="1788" selection-end="1867" vertical-scroll-proportion="0.0" vertical-offset="1054" max-vertical-offset="2414">
-          <folding />
-        </state>
+        <state line="62" column="87" selection-start="1788" selection-end="1867" vertical-scroll-proportion="0.0" vertical-offset="1054" max-vertical-offset="2414" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Repository/AssignmentRepository.php">
