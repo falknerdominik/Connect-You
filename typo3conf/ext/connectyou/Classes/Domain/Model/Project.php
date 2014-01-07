@@ -43,14 +43,6 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
      */
     protected $uid;
 
-    /**
-     * Erstellungsdatum
-     *
-     * @var \string
-     * @validate NotEmpty
-     */
-    protected $crdate;
-
 	/**
 	 * Name des Projektes
 	 *
@@ -129,15 +121,6 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
      */
     public function getUid() {
         return $this->uid;
-    }
-
-    /**
-     * Gibt das Erstellungsdatum zurück
-     *
-     * @return string $crdate
-     */
-    public function getCrdate() {
-        return $this->crdate;
     }
 
 	/**
