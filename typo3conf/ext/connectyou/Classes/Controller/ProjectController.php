@@ -116,6 +116,8 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
         $clients = $this->findUsersWithFrontendUserGroupTitle('Clients', $uid);
         $students = $this->findUsersWithFrontendUserGroupTitle("Students", $uid);
 
+        # debug
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
 
         # der View zuweisen
         $this->view->assign('students', $students);
