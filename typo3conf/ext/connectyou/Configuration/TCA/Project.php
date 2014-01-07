@@ -102,6 +102,15 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 				'eval' => 'trim,required'
 			),
 		),
+        'crdate' = Array (
+            'exclude' => 1,
+            'label' => 'Creation date',
+            'config' => Array (
+                'type' => 'none',
+                'format' => 'date',
+                'eval' => 'date',
+            ),
+        ),
 		'description' => array(
 			'exclude' => 0,
 			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.description',
