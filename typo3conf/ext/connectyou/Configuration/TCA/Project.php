@@ -99,7 +99,7 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 			'config' => array(
 				'type' => 'input',
 				'size' => 30,
-				'eval' => 'trim,required'
+				'eval' => 'trim,required',
 			),
 		),
         'tstamp' => array(
