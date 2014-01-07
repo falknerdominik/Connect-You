@@ -46,10 +46,10 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
     /**
      * Erstellungsdatum
      *
-     * @var \
+     * @var \date
      * @validate NotEmpty
      */
-    protected $uid;
+    protected $crdate;
 
 	/**
 	 * Name des Projektes
