@@ -107,7 +107,8 @@ $TCA['tx_connectyou_domain_model_project'] = array(
             'label' => 'Zeitstempel',
             'config' => array(
                 'type' => 'none',
-                'format' => 'date'
+                'format' => 'date',
+                'eval' => 'date'
             ),
         ),
 		'description' => array(
