@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="Project.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="31" selection-start="3227" selection-end="3227" vertical-scroll-proportion="0.8136646" vertical-offset="1096" max-vertical-offset="2925">
+            <state line="109" column="34" selection-start="3265" selection-end="3265" vertical-scroll-proportion="0.8369565" vertical-offset="1096" max-vertical-offset="2940">
               <folding />
             </state>
           </provider>
@@ -872,7 +872,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="31" selection-start="3227" selection-end="3227" vertical-scroll-proportion="0.8136646" vertical-offset="1096" max-vertical-offset="2925">
+        <state line="109" column="34" selection-start="3265" selection-end="3265" vertical-scroll-proportion="0.8369565" vertical-offset="1096" max-vertical-offset="2940">
           <folding />
         </state>
       </provider>
