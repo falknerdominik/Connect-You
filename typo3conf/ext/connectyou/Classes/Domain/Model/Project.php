@@ -43,7 +43,14 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
      */
     protected $uid;
 
-	/**
+    /**
+     * Zeitstempel des Projektes
+     *
+     * @var string
+     */
+    protected $tstamp;
+
+    /**
 	 * Name des Projektes
 	 *
 	 * @var \string
