@@ -59,8 +59,6 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
         # Alle Projekte aus dem Repository holen
 		$projects = $this->projectRepository->findAll();
 
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($projects);
-
         # Das Projekt Fluid übergeben
 		$this->view->assign('projects', $projects);
 	}
