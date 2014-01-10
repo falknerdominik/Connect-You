@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.yaml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="9" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.5221843" vertical-offset="595" max-vertical-offset="1700">
+            <state line="53" column="9" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1700">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="70" selection-start="1833" selection-end="1833" vertical-scroll-proportion="0.33392859" vertical-offset="850" max-vertical-offset="3604">
               <folding />
             </state>
           </provider>
@@ -61,11 +72,11 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html" />
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
       </list>
     </option>
   </component>
@@ -315,6 +326,10 @@
               <option name="myItemId" value="Classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -467,11 +482,6 @@
         <state line="19" column="19" selection-start="502" selection-end="502" vertical-scroll-proportion="0.43378997" vertical-offset="0" max-vertical-offset="657" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="69" selection-start="3494" selection-end="3494" vertical-scroll-proportion="0.0" vertical-offset="2023" max-vertical-offset="3570" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.7542662" vertical-offset="0" max-vertical-offset="586" />
@@ -519,7 +529,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="9" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.5221843" vertical-offset="595" max-vertical-offset="1700">
+        <state line="53" column="9" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="70" selection-start="1833" selection-end="1833" vertical-scroll-proportion="0.33392859" vertical-offset="850" max-vertical-offset="3604">
           <folding />
         </state>
       </provider>
