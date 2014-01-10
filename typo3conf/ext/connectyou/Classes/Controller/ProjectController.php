@@ -137,11 +137,11 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
         # $formData = $arguments['project'];
 
         #debug
-        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
-        #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
 
         # Update Projekt
-        $this->projectRepository->update($project);
+        #$this->projectRepository->update($project);
 
         # Erstelle FlashMassage
 		$this->flashMessageContainer->add("Das Projekt $project->getName() wurde geupdated.");
