@@ -61,9 +61,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="827" />
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -91,7 +92,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -362,6 +362,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,7 +396,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="827" extended-state="0" />
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -403,7 +404,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38958332" sideWeight="0.67076504" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38945827" sideWeight="0.67076504" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -448,37 +449,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="19" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.22374429" vertical-offset="498" max-vertical-offset="4275">
-          <folding />
-        </state>
+        <state line="43" column="19" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.22374429" vertical-offset="498" max-vertical-offset="4275" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="502" selection-end="502" vertical-scroll-proportion="0.43378997" vertical-offset="0" max-vertical-offset="657">
-          <folding />
-        </state>
+        <state line="19" column="19" selection-start="502" selection-end="502" vertical-scroll-proportion="0.43378997" vertical-offset="0" max-vertical-offset="657" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="69" selection-start="3494" selection-end="3494" vertical-scroll-proportion="0.0" vertical-offset="2023" max-vertical-offset="3570">
-          <folding />
-        </state>
+        <state line="119" column="69" selection-start="3494" selection-end="3494" vertical-scroll-proportion="0.0" vertical-offset="2023" max-vertical-offset="3570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.7542662" vertical-offset="0" max-vertical-offset="586">
-          <folding />
-        </state>
+        <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.7542662" vertical-offset="0" max-vertical-offset="586" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="21" selection-start="2556" selection-end="2556" vertical-scroll-proportion="0.6310518" vertical-offset="1492" max-vertical-offset="2091">
-          <folding />
-        </state>
+        <state line="110" column="21" selection-start="2556" selection-end="2556" vertical-scroll-proportion="0.6310518" vertical-offset="1492" max-vertical-offset="2091" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php">
@@ -503,9 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/Project.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="10" selection-start="3073" selection-end="3073" vertical-scroll-proportion="-0.9115442" vertical-offset="2153" max-vertical-offset="2820">
-          <folding />
-        </state>
+        <state line="103" column="10" selection-start="3073" selection-end="3073" vertical-scroll-proportion="-0.9115442" vertical-offset="2153" max-vertical-offset="2820" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php">
@@ -515,16 +504,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="14" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1500">
-          <folding />
-        </state>
+        <state line="47" column="14" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1500" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="4" selection-start="2246" selection-end="2246" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="2499">
-          <folding />
-        </state>
+        <state line="47" column="4" selection-start="2246" selection-end="2246" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="2499" />
       </provider>
     </entry>
   </component>
