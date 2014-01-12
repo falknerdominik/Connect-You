@@ -35,4 +35,5 @@ ul {
 
 #titlefield {
 	background-color: lightblue;
+	z-index: 0;
 }
