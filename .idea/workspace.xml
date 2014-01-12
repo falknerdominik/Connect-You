@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.yaml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.11789773" vertical-offset="787" max-vertical-offset="1500">
+            <state line="58" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="787" max-vertical-offset="1500">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="90" column="9" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.29411766" vertical-offset="1150" max-vertical-offset="3315">
               <folding />
             </state>
           </provider>
@@ -64,8 +75,8 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Project.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
       </list>
     </option>
   </component>
@@ -683,16 +694,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="70" selection-start="2690" selection-end="2690" vertical-scroll-proportion="0.29411766" vertical-offset="1150" max-vertical-offset="3315">
+        <state line="58" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="787" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml">
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.11789773" vertical-offset="787" max-vertical-offset="1500">
+        <state line="90" column="9" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.29411766" vertical-offset="1150" max-vertical-offset="3315">
           <folding />
         </state>
       </provider>
