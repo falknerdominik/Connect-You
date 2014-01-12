@@ -33,6 +33,10 @@ ul {
 	color: white;
 }
 
+#titlefield {
+	background-color: lightblue;
+}
+
 #titlefield h1 {
     margin: 0;
     padding: 0;
@@ -49,9 +53,7 @@ ul {
     margin-left: 45%;
 }
 
-#titlefield {
-	background-color: lightblue;
-}
+
 /*****************
  * Projektübersicht
 *****************/
