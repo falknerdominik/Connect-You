@@ -46,7 +46,7 @@
       <file leaf-file-name="FrontendLoginController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="9" selection-start="3423" selection-end="3423" vertical-scroll-proportion="2.4962518" vertical-offset="450" max-vertical-offset="15465">
+            <state line="152" column="75" selection-start="3879" selection-end="3879" vertical-scroll-proportion="0.2923538" vertical-offset="2085" max-vertical-offset="15540">
               <folding />
             </state>
           </provider>
@@ -781,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="9" selection-start="3423" selection-end="3423" vertical-scroll-proportion="2.4962518" vertical-offset="450" max-vertical-offset="15465">
+        <state line="152" column="75" selection-start="3879" selection-end="3879" vertical-scroll-proportion="0.2923538" vertical-offset="2085" max-vertical-offset="15540">
           <folding />
         </state>
       </provider>

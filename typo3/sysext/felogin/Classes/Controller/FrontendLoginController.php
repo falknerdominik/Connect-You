@@ -147,6 +147,11 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		$this->noRedirect = $this->piVars['noredirect'] || $this->conf['redirectDisable'];
 		// If config.typolinkLinkAccessRestrictedPages is set, the var is return_url
 		$returnUrl = GeneralUtility::_GP('return_url');
+
+
+        # DEBUG
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump("Die ReturnUrl: " . $this->spid);
+
 		if ($returnUrl) {
 			$this->redirectUrl = $returnUrl;
 		} else {
