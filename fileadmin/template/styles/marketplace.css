@@ -52,14 +52,14 @@ ul {
 /*****************
  * Projektübersicht
 *****************/
-#projects {
+#projectwrapper {
     width: 70%;
     margin: 0 auto;
     height: 94%;
 	border: 2px solid lightblue;
 }
 
-#projects a {
+#projectwrapper a {
 	float:left;
 	margin-bottom: 2%;
 	margin-top: 2%;
