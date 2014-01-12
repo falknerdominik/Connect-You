@@ -35,7 +35,7 @@ ul {
 #head p {
 	color: white;
 	float: left;
-	margin-top: 0.3%;
+	margin-top: 0.5%;
 }
 
 #head img {
@@ -46,7 +46,7 @@ ul {
 	float: right;
 	color: lightgrey;
 	margin-right: 1%;
-	margin-top: 0.6%;
+	margin-top: 1%;
 }
 
 #titlefield h1:first-child {
