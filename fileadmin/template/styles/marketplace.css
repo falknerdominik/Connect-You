@@ -67,8 +67,7 @@ ul {
     margin: 0 auto;
     height: 94%;
 	border: 2px solid lightblue;
-	background-color: #F5ECCE;
-	background-image: url("../images/Background/Pinnwand.png");
+	background-image: url("../images/marketplace_content.png");
 }
 
 #projectnavigation  a{
