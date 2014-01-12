@@ -59,6 +59,10 @@ ul {
     margin-top: 0.35em;
 	background-color: #3498db;
 }
+
+#head hr {
+	color: #9B58B6;
+}
 /*****************
  * Projektübersicht
 *****************/
