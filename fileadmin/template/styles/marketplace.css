@@ -52,17 +52,16 @@ ul {
 /*****************
  * Projektübersicht
 *****************/
-#projectwrapper {
+#projects {
     width: 70%;
     margin: 0 auto;
     height: 94%;
 	border: 2px solid lightblue;
 }
 
-#projectwrapper a {
-	margin-top: 1%;
-	margin-left: 1%;
-	
+#projectnavigation {
+	margin-bottom: 2%;
+	margin-top: 2%;
 }
 /****
 *** PROJEKT NEU - FALKNER
