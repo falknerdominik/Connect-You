@@ -82,7 +82,18 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 * @return void
 	 */
 	public function newAction(\TYPO3\Connectyou\Domain\Model\Project $newProject = NULL) {
-		$this->view->assign('newProject', $newProject);
+
+        # Die Benutzer nach Gruppensortiert auslesen
+        $clients = $this->findUsersWithFrontendUserGroupTitle('Clients', $uid);
+        $students = $this->findUsersWithFrontendUserGroupTitle("Students", $uid);
+
+        # debug
+        # \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($students);
+
+        # der View zuweisen
+        $this->view->assign('students', $students);
+        $this->view->assign('clients', $clients);
+		$this->view->assign('project', $newProject);
 	}
 
 	/**
