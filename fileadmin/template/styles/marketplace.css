@@ -39,6 +39,10 @@ ul {
 	margin-right: 1%;
 }
 
+#head img{
+	float: left;
+}
+
 #hilfe {
 	margin-right: 5%;
 }
