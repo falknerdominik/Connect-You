@@ -30,7 +30,11 @@ ul {
 #head {
     height: 6%;
     background-image: url("../images/Background/Pinnwand.png");
+}
+
+#head p {
 	color: white;
+	float: right;
 }
 
 #head a {
