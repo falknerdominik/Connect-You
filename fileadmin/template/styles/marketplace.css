@@ -33,14 +33,7 @@ ul {
 }
 
 #head a {
-	margin: right;
-	color: lightgrey;
-	margin-top: 1%;
-	margin-left: 1%;
-}
-
-#headlogin {
-	margin: right;
+	float: right;
 	color: lightgrey;
 	margin-top: 1%;
 	margin-left: 1%;
