@@ -35,6 +35,7 @@ ul {
 
 #titlefield {
 	background-color: lightblue;
+	z-index: 1;
 }
 
 #titlefield h1 {
