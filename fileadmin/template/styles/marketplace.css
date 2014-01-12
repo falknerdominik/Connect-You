@@ -68,6 +68,7 @@ ul {
     height: 94%;
 	border: 2px solid lightblue;
 	background-color: #F5ECCE;
+	background-image: url("../images/Background/Pinnwand.png");
 }
 
 #projectnavigation  a{
