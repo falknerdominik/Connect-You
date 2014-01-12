@@ -142,7 +142,7 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		}
 
         # DEBUG
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->spid);
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump("Die Spid der Klasse: " . $this->spid);
 
 		// GPvars:
 		$this->logintype = GeneralUtility::_GP('logintype');
