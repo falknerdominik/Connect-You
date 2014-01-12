@@ -31,7 +31,7 @@ ul {
     height: 6%;
     background-image: url("../images/Background/Pinnwand.png");
 }
-#head h1 {
+#titlefield h1 {
     margin: 0;
     padding: 0;
     color: #9B58B6;
@@ -41,7 +41,7 @@ ul {
     float: left;
     margin-top: 0.35em;
 }
-#head h1:first-child {
+#titlefield h1:first-child {
     color: white;
     margin-left: 45%;
 }
