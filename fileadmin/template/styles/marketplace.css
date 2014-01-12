@@ -61,7 +61,8 @@ ul {
 }
 
 #head hr {
-	color: #9B58B6;
+	border: 1px solid #9B58B6;
+	height: 1px;
 }
 /*****************
  * Projektübersicht
