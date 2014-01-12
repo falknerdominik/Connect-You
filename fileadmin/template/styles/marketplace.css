@@ -31,6 +31,7 @@ ul {
     height: 6%;
     background-image: url("../images/Background/Pinnwand.png");
 }
+
 #titlefield h1 {
     margin: 0;
     padding: 0;
@@ -41,6 +42,7 @@ ul {
     float: left;
     margin-top: 0.35em;
 }
+
 #titlefield h1:first-child {
     color: white;
     margin-left: 45%;
@@ -52,6 +54,12 @@ ul {
 /*****************
  * Projektübersicht
 *****************/
+#projects {
+	width: 70%;
+    margin: 0 auto;
+    height: 94%;
+	border: 2px solid lightblue;
+}
 
 #projectnavigation {
 	width: 70%;
@@ -61,12 +69,6 @@ ul {
 	margin-left: 5%;
 }
 
-#projects {
-	width: 70%;
-    margin: 0 auto;
-    height: 94%;
-	border: 2px solid lightblue;
-}
 /****
 *** PROJEKT NEU - FALKNER
 ****/
