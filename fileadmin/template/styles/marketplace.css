@@ -60,7 +60,7 @@ ul {
 }
 
 #projects a {
-	float: left;
+	position: relative;
 	margin-bottom: 2%;
 }
 /****
