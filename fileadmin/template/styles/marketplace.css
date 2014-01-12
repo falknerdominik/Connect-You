@@ -55,6 +55,7 @@ ul {
     text-align: center;
     float: left;
     margin-top: 0.35em;
+	background-color: Peter River;
 }
 #head h1:first-child {
     color: white;
