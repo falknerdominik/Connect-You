@@ -83,6 +83,13 @@ ul {
 	display: block;
 	margin-right: 50%;
 }
+
+#projectnavigation hr {
+	border: none; 
+	border-top: 1px dotted #9000E0; 
+	background-color: #FFFFFF; 
+	height: 1px;
+}
 /****
 *** PROJEKT NEU - FALKNER
 ****/
