@@ -46,6 +46,11 @@ ul {
 	margin-left: 1%;
 }
 
+#head h1:first-child {
+    color: white;
+
+}
+
 #titlefield {
     margin: 0;
     padding: 0;
@@ -56,10 +61,7 @@ ul {
     float: left;
     margin-top: 0.35em;
 	background-color: #3498db;
-}
-#head h1:first-child {
-    color: white;
-    margin-left: 45%;
+	margin-left: 45%;
 }
 /*****************
  * Projektübersicht
