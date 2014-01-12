@@ -64,7 +64,6 @@ ul {
 *****************/
 #projects {
     width: 70%;
-    margin: 0 auto;
     height: 94%;
 	border: 2px solid lightblue;
 	background-color: #F5ECCE;
@@ -77,7 +76,7 @@ ul {
 
 #projectnavigation {
 	display: block;
-	margin-right: 10%;
+	margin-right: %;
 }
 /****
 *** PROJEKT NEU - FALKNER
