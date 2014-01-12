@@ -37,6 +37,10 @@ ul {
 	float: left;
 }
 
+#head img {
+	float: right;
+}
+
 #head a {
 	float: right;
 	color: lightgrey;
