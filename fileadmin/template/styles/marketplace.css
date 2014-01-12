@@ -73,6 +73,9 @@ ul {
 #projectnavigation  a{
 	color: lightgrey;
 	font-size: 15px;
+}
+
+#projectnavigation {
 	display: block;
 }
 /****
