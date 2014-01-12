@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html" afterPath="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,10 +34,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProjectController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="70" selection-start="2690" selection-end="2690" vertical-scroll-proportion="0.29411766" vertical-offset="1150" max-vertical-offset="3315">
+            <state line="90" column="70" selection-start="2690" selection-end="2690" vertical-scroll-proportion="-8.333333" vertical-offset="1150" max-vertical-offset="3315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="New.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="61" selection-start="670" selection-end="670" vertical-scroll-proportion="0.4852941" vertical-offset="0" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="39" selection-start="666" selection-end="684" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -61,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Language/locallang_db.xlf" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/users.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html" />
@@ -77,6 +94,7 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
+        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html" />
       </list>
     </option>
   </component>
@@ -182,6 +200,134 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="connectyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="typo3conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="typo3conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="typo3conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="typo3conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectyou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -490,11 +636,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Assignment/List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="522" selection-end="522" vertical-scroll-proportion="0.456621" vertical-offset="0" max-vertical-offset="657" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TCA/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.11415525" vertical-offset="0" max-vertical-offset="657" />
@@ -503,11 +644,6 @@
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/Role.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="1243" selection-end="1561" vertical-scroll-proportion="0.24657534" vertical-offset="393" max-vertical-offset="1050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="502" selection-end="502" vertical-scroll-proportion="0.43378997" vertical-offset="0" max-vertical-offset="657" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
@@ -571,7 +707,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="70" selection-start="2690" selection-end="2690" vertical-scroll-proportion="0.29411766" vertical-offset="1150" max-vertical-offset="3315">
+        <state line="90" column="70" selection-start="2690" selection-end="2690" vertical-scroll-proportion="-8.333333" vertical-offset="1150" max-vertical-offset="3315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/Edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="39" selection-start="666" selection-end="684" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="61" selection-start="670" selection-end="670" vertical-scroll-proportion="0.4852941" vertical-offset="0" max-vertical-offset="680">
           <folding />
         </state>
       </provider>

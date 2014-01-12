@@ -19,8 +19,8 @@ Otherwise your changes will be overwritten the next time you save the extension 
 
 <f:render partial="FormErrors" arguments="{object:Project}"/>
 
-<f:form action="create"  name="newProject" object="{newProject}" >
-    <f:render partial="Project/FormFields" />
+<f:form action="create"  name="newProject" object="{project}" >
+    <f:render partial="Project/FormFields" arguments="{_all}"/>
     <f:form.submit value="Erstellen" class="btn btn-large btn-block btn-primary"/>
 </f:form>
 
