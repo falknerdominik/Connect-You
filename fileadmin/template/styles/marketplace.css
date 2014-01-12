@@ -37,8 +37,10 @@ ul {
 	color: lightgrey;
 	margin-top: 1%;
 	margin-right: 1%;
-	margin-left: 1%;
-	
+}
+
+#hilfe {
+	margin-right: 1%;
 }
 
 #titlefield h1:first-child {
