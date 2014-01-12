@@ -129,9 +129,6 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		$this->pi_initPIflexForm();
 		$this->mergeflexFormValuesIntoConf();
 
-        # DEBUG
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->conf['storagePid']);
-
 		// Get storage PIDs:
 		if ($this->conf['storagePid']) {
 			if (intval($this->conf['recursive'])) {
@@ -143,6 +140,10 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 			$pids = $GLOBALS['TSFE']->getStorageSiterootPids();
 			$this->spid = $pids['_STORAGE_PID'];
 		}
+
+        # DEBUG
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->spid);
+
 		// GPvars:
 		$this->logintype = GeneralUtility::_GP('logintype');
 		$this->referer = $this->validateRedirectUrl(GeneralUtility::_GP('referer'));
