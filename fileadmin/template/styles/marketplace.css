@@ -60,9 +60,10 @@ ul {
 }
 
 #projects a {
-	position: relative;
+	float:left;
 	margin-bottom: 2%;
 	margin-top: 2%;
+	
 }
 /****
 *** PROJEKT NEU - FALKNER
