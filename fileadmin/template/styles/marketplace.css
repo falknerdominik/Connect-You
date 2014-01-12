@@ -38,6 +38,12 @@ ul {
 	margin-top: 1%;
 }
 
+#headlogin {
+	float: right;
+	color: lightgrey;
+	margin-top: 1%;
+}
+
 #head h1 {
     margin: 0;
     padding: 0;
