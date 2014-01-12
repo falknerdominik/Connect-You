@@ -45,6 +45,10 @@ ul {
     color: white;
     margin-left: 45%;
 }
+
+#titlefield {
+	background-color: lightblue;
+}
 /*****************
  * Projektübersicht
 *****************/
