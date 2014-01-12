@@ -48,7 +48,7 @@ ul {
 
 #head h1:first-child {
     color: white;
-
+    margin-left: 45%;
 }
 
 #titlefield {
@@ -61,7 +61,6 @@ ul {
     float: left;
     margin-top: 0.35em;
 	background-color: #3498db;
-	margin-left: 45%;
 }
 /*****************
  * Projektübersicht
