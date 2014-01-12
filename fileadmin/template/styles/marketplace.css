@@ -73,7 +73,7 @@ ul {
 #projectnavigation  a{
 	color: lightgrey;
 	font-size: 15px;
-	float: left;
+	display: block;
 }
 /****
 *** PROJEKT NEU - FALKNER
