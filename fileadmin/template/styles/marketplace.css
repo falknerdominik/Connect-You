@@ -58,6 +58,10 @@ ul {
     height: 94%;
 	border: 2px solid lightblue;
 }
+
+#projects a {
+	margin:left;
+}
 /****
 *** PROJEKT NEU - FALKNER
 ****/
