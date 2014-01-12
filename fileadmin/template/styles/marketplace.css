@@ -68,7 +68,10 @@ ul {
 }
 
 #projects {
-
+	width: 70%;
+    margin: 0 auto;
+    height: 94%;
+	border: 2px solid lightblue;
 }
 /****
 *** PROJEKT NEU - FALKNER
@@ -76,24 +79,24 @@ ul {
 hr{
     border-color: black !important;
 }
-#projectwrapper .csc-default div {
+#projects .csc-default div {
     background: white;
     padding: 10px;
     margin-top: 1em;
 	height: 20%;
 }
-#projectwrapper {
+#projects {
     text-align: center;
 
 }
-#projectwrapper .csc-default div img {
+#projects .csc-default div img {
     border-radius: 50px;
 }
-#projectwrapper .csc-default div p, h1,h5 {
+#projects .csc-default div p, h1,h5 {
     margin: 0;
     padding: 0;
 }
-#projectwrapper .csc-default div p a{
+#projects .csc-default div p a{
     color: white;
     text-decoration: none;
     width: 100%;
@@ -138,12 +141,12 @@ input[type="text"]{
     background: transparent !important;
 }
 
-#projectwrapper .csc-default div #delete{
+#projects .csc-default div #delete{
     display: none;
 }
 
 
-#projectwrapper .csc-default div:hover #delete{
+#projects .csc-default div:hover #delete{
     display: block;
     position: absolute;
     top: 10px;
@@ -152,12 +155,12 @@ input[type="text"]{
     height: 10px;
 }
 
-#projectwrapper .csc-default div #edit{
+#projects .csc-default div #edit{
     display: none;
 }
 
 
-#projectwrapper .csc-default div:hover #edit{
+#projects .csc-default div:hover #edit{
     display: block;
     position: absolute;
     top: 10px;
