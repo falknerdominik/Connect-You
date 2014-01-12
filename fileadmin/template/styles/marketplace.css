@@ -37,3 +37,13 @@ ul {
 	background-color: lightblue;
 	width: 20%;
 }
+
+#titlefield h1 {
+    margin: 0;
+    padding: 0;
+    color: #9B58B6;
+    font-size: 16pt;
+    text-align: center;
+    float: left;
+    margin-top: 0.35em;
+}
