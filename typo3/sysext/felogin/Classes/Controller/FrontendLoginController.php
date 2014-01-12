@@ -148,10 +148,6 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		// If config.typolinkLinkAccessRestrictedPages is set, the var is return_url
 		$returnUrl = GeneralUtility::_GP('return_url');
 
-
-        # DEBUG
-        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump("Die ReturnUrl: " . $this->spid);
-
 		if ($returnUrl) {
 			$this->redirectUrl = $returnUrl;
 		} else {
@@ -172,6 +168,8 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 				$this->redirectUrl = '';
 			}
 		}
+        # DEBUG
+        # \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->conf);
 		// What to display
 		$content = '';
 		if ($this->piVars['forgot']) {
@@ -590,6 +588,9 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		if (!$gpRedirectUrl && $this->redirectUrl) {
 			$gpRedirectUrl = $this->redirectUrl;
 		}
+
+        # DEBUG
+        # \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump("onSubmit: " . $this->getPageLink('', array(), TRUE));
 		// Login form
 		$markerArray['###ACTION_URI###'] = $this->getPageLink('', array(), TRUE);
 		// Used by kb_md5fepw extension...
@@ -641,6 +642,7 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		$redirect_url = array();
 		if ($this->conf['redirectMode']) {
 			$redirectMethods = GeneralUtility::trimExplode(',', $this->conf['redirectMode'], TRUE);
+            \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($GLOBALS['TSFE']->loginUser);
 			foreach ($redirectMethods as $redirMethod) {
 				if ($GLOBALS['TSFE']->loginUser && $this->logintype === 'login') {
 					// Logintype is needed because the login-page wouldn't be accessible anymore after a login (would always redirect)
@@ -648,6 +650,7 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 						case 'groupLogin':
 							// taken from dkd_redirect_at_login written by Ingmar Schlecht; database-field changed
 							$groupData = $GLOBALS['TSFE']->fe_user->groupData;
+
 							$res = $GLOBALS['TYPO3_DB']->exec_SELECTquery(
 								'felogin_redirectPid',
 								$GLOBALS['TSFE']->fe_user->usergroup_table,
@@ -846,6 +849,9 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 				$additionalParams .= '&' . $key . '=' . $val;
 			}
 		}
+
+        # DEBUG
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->conf);
 		// Should GETvars be preserved?
 		if ($this->conf['preserveGETvars']) {
 			$additionalParams .= $this->getPreserveGetVars();

@@ -17,9 +17,9 @@ Otherwise your changes will be overwritten the next time you save the extension 
 
 <f:flashMessages />
 
-<f:render partial="FormErrors" arguments="{object:Project}"/>
+<f:render partial="FormErrors" arguments="{object:newProject}"/>
 
-<f:form action="create"  name="newProject" object="{project}" >
+<f:form action="create"  name="newProject" object="{newProject}" >
     <f:render partial="Project/FormFields" arguments="{_all}"/>
     <f:form.submit value="Erstellen" class="btn btn-large btn-block btn-primary"/>
 </f:form>

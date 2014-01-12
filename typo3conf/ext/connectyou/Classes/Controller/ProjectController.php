@@ -93,7 +93,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
         # der View zuweisen
         $this->view->assign('students', $students);
         $this->view->assign('clients', $clients);
-		$this->view->assign('project', $newProject);
+		$this->view->assign('newProject', $newProject);
 	}
 
 	/**
@@ -103,14 +103,22 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 * @return void
 	 */
 	public function createAction(\TYPO3\Connectyou\Domain\Model\Project $newProject) {
+        $arguments = $this->request->getArguments();
+        $formData = $arguments['project'];
+
+        #debug
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
+
+
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($newProject);
 		# Persistieren
-        $this->projectRepository->add($newProject);
+        # $this->projectRepository->add($newProject);
 
         # Neue FlashMassage erstellen
-		$this->flashMessageContainer->add('Your new Project was created.');
+		# $this->flashMessageContainer->add('Your new Project was created.');
 
         # Weiterleitung zur Liste
-		$this->redirect('list');
+		# $this->redirect('list');
 	}
 
 	/**
@@ -144,8 +152,8 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	 */
 	public function updateAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
         # Die Daten der Form holen für Debugging
-        # $arguments = $this->request->getArguments();
-        # $formData = $arguments['project'];
+        #$arguments = $this->request->getArguments();
+        #$formData = $arguments['project'];
 
         #debug
         #\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($formData);
