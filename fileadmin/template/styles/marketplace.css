@@ -36,10 +36,7 @@ ul {
 #titlefield {
 	background-color: lightblue;
 	width: 20%;
-}
-
-#titlefield h1 {
-    margin: 0;
+	margin: 0;
     padding: 0;
     color: #white;
     font-size: 25pt;
