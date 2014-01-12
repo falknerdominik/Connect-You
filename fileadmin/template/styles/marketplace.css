@@ -33,7 +33,7 @@ ul {
 }
 
 #head a {
-	float: right;
+	margin: right;
 	color: lightgrey;
 	margin-top: 1%;
 	margin-left: 1%;
