@@ -128,6 +128,10 @@ class FrontendLoginController extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin 
 		// Init FlexForm configuration for plugin:
 		$this->pi_initPIflexForm();
 		$this->mergeflexFormValuesIntoConf();
+
+        # DEBUG
+        \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($this->conf['storagePid']);
+
 		// Get storage PIDs:
 		if ($this->conf['storagePid']) {
 			if (intval($this->conf['recursive'])) {

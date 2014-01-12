@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php" afterPath="$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +37,7 @@
       <file leaf-file-name="ProjectController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="9" selection-start="2629" selection-end="2629" vertical-scroll-proportion="-8.333333" vertical-offset="1150" max-vertical-offset="3315">
+            <state line="90" column="73" selection-start="2630" selection-end="2693" vertical-scroll-proportion="-8.333333" vertical-offset="1150" max-vertical-offset="3315">
               <folding />
             </state>
           </provider>
@@ -44,7 +46,7 @@
       <file leaf-file-name="FrontendLoginController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="32" selection-start="2877" selection-end="2877" vertical-scroll-proportion="0.26986507" vertical-offset="1680" max-vertical-offset="15435">
+            <state line="132" column="84" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.4497751" vertical-offset="1680" max-vertical-offset="15495">
               <folding />
             </state>
           </provider>
@@ -77,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/fileadmin/template/html/users.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_tables.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/User/List.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/ext_typoscript_setup.txt" />
@@ -93,6 +94,7 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php" />
+        <option value="$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php" />
       </list>
     </option>
   </component>
@@ -763,13 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="9" selection-start="2629" selection-end="2629" vertical-scroll-proportion="-8.333333" vertical-offset="1150" max-vertical-offset="3315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/frontend/Classes/Plugin/AbstractPlugin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="261" column="20" selection-start="8167" selection-end="8167" vertical-scroll-proportion="-151.875" vertical-offset="270" max-vertical-offset="19350">
@@ -777,9 +772,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/ProjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="73" selection-start="2630" selection-end="2693" vertical-scroll-proportion="-8.333333" vertical-offset="1150" max-vertical-offset="3315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/typo3/sysext/felogin/Classes/Controller/FrontendLoginController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="32" selection-start="2877" selection-end="2877" vertical-scroll-proportion="0.26986507" vertical-offset="1680" max-vertical-offset="15435">
+        <state line="132" column="84" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.4497751" vertical-offset="1680" max-vertical-offset="15495">
           <folding />
         </state>
       </provider>
