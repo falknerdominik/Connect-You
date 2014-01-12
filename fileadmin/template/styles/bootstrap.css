@@ -129,6 +129,9 @@ sub {
 
 img {
   border: 0;
+  -moz-box-shadow: 2px 2px 2px 2px #eee;
+  -webkit-box-shadow: 2px 2px 2px 2px #eee;
+  box-shadow: 2px 2px 2px 2px #eee;
 }
 
 svg:not(:root) {
