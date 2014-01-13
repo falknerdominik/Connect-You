@@ -64,9 +64,19 @@ ul {
 	background-color: #3498db;
 	margin-left: 40%;
 }
+
+/**************
+* Header - Diksn
+***************/
+#header {
+	background-image: url(../images/Background/Pinnwand.png);
+	background-repeat: repeat;
+}
+
 /*****************
  * Projektübersicht
 *****************/
+
 #projects {
     width: 70%;
     margin: 0 auto;
