@@ -69,9 +69,23 @@ ul {
 * Header - Diksn
 ***************/
 #header {
+	
+	position: relative;
 	background-image: url(../images/Background/Pinnwand.png);
 	background-repeat: repeat;
 }
+
+#titlefield {
+	margin-top: 0px;
+	position:relative;
+	width: 303px;
+	height: 63px;
+	background-color: #3498db;
+	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+}
+	
 
 /*****************
  * Projektübersicht
