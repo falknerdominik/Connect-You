@@ -61,7 +61,7 @@ overwriteSettings:
 
 #  ext_localconf.php: merge
 
-  ext_tables.php: keep
+  ext_tables.php: merge
 
 #  ext_tables.sql: merge
 
