@@ -6,10 +6,10 @@ if (!defined ('TYPO3_MODE')) {
 $TCA['tx_connectyou_domain_model_project'] = array(
 	'ctrl' => $TCA['tx_connectyou_domain_model_project']['ctrl'],
 	'interface' => array(
-		'showRecordFieldList' => 'sys_language_uid, l10n_parent, l10n_diffsource, hidden, name, description, type, assignments, team',
+		'showRecordFieldList' => 'sys_language_uid, l10n_parent, l10n_diffsource, hidden, name, description, type, team, widgets_private, widgets_public',
 	),
 	'types' => array(
-		'1' => array('showitem' => 'sys_language_uid;;;;1-1-1, l10n_parent, l10n_diffsource, hidden;;1, name, description, type, assignments, team,--div--;LLL:EXT:cms/locallang_ttc.xlf:tabs.access,starttime, endtime'),
+		'1' => array('showitem' => 'sys_language_uid;;;;1-1-1, l10n_parent, l10n_diffsource, hidden;;1, name, description, type, team, widgets_private, widgets_public,--div--;LLL:EXT:cms/locallang_ttc.xlf:tabs.access,starttime, endtime'),
 	),
 	'palettes' => array(
 		'1' => array('showitem' => ''),
@@ -99,7 +99,7 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 			'config' => array(
 				'type' => 'input',
 				'size' => 30,
-				'eval' => 'trim,required',
+				'eval' => 'trim,required'
 			),
 		),
 		'description' => array(
@@ -120,23 +120,6 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 				'eval' => 'trim,required'
 			),
 		),
-		'assignments' => array(
-			'exclude' => 0,
-			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.assignments',
-			'config' => array(
-				'type' => 'inline',
-				'foreign_table' => 'tx_connectyou_domain_model_assignment',
-				'foreign_field' => 'project',
-				'maxitems'      => 9999,
-				'appearance' => array(
-					'collapseAll' => 0,
-					'levelLinksPosition' => 'top',
-					'showSynchronizationLink' => 1,
-					'showPossibleLocalizationRecords' => 1,
-					'showAllLocalizationLink' => 1
-				),
-			),
-		),
 		'team' => array(
 			'exclude' => 0,
 			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.team',
@@ -154,24 +137,40 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 				),
 			),
 		),
-
-        'client' => array(
-            'exclude' => 0,
-            'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.client',
-            'config' => array(
-                'type' => 'inline',
-                'foreign_table' => 'fe_users',
-                'foreign_field' => 'projectclient',
-                'maxitems'      => 9999,
-                'appearance' => array(
-                    'collapseAll' => 0,
-                    'levelLinksPosition' => 'top',
-                    'showSynchronizationLink' => 1,
-                    'showPossibleLocalizationRecords' => 1,
-                    'showAllLocalizationLink' => 1
-                ),
-            ),
-        ),
+		'widgets_private' => array(
+			'exclude' => 0,
+			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.widgets_private',
+			'config' => array(
+				'type' => 'inline',
+				'foreign_table' => 'tx_connectyou_domain_model_widget',
+				'foreign_field' => 'project',
+				'maxitems'      => 9999,
+				'appearance' => array(
+					'collapseAll' => 0,
+					'levelLinksPosition' => 'top',
+					'showSynchronizationLink' => 1,
+					'showPossibleLocalizationRecords' => 1,
+					'showAllLocalizationLink' => 1
+				),
+			),
+		),
+		'widgets_public' => array(
+			'exclude' => 0,
+			'label' => 'LLL:EXT:connectyou/Resources/Private/Language/locallang_db.xlf:tx_connectyou_domain_model_project.widgets_public',
+			'config' => array(
+				'type' => 'inline',
+				'foreign_table' => 'tx_connectyou_domain_model_widget',
+				'foreign_field' => 'project2',
+				'maxitems'      => 9999,
+				'appearance' => array(
+					'collapseAll' => 0,
+					'levelLinksPosition' => 'top',
+					'showSynchronizationLink' => 1,
+					'showPossibleLocalizationRecords' => 1,
+					'showAllLocalizationLink' => 1
+				),
+			),
+		),
 	),
 );
 
@@ -180,4 +179,5 @@ $TCA['tx_connectyou_domain_model_project'] = array(
 
 
 
+## EXTENSION BUILDER DEFAULTS END TOKEN - Everything BEFORE this line is overwritten with the defaults of the extension builder
 ?>

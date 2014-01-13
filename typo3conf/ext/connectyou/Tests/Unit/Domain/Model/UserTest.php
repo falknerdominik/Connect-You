@@ -4,7 +4,7 @@ namespace TYPO3\Connectyou\Tests;
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2013 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
+ *  (c) 2014 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
  *  			
  *  All rights reserved
  *

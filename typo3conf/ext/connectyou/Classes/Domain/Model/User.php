@@ -1,11 +1,10 @@
 <?php
 namespace TYPO3\Connectyou\Domain\Model;
 
-
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2013 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
+ *  (c) 2014 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
  *  
  *  All rights reserved
  *
@@ -34,85 +33,6 @@ namespace TYPO3\Connectyou\Domain\Model;
  *
  */
 class User extends \TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
-    /**
-     * Benutzername des Users
-     *
-     * @var \string
-     */
-    protected $username;
-
-    /**
-     * Die Id des Users
-     *
-     * @var string
-     */
-    protected $uid;
-
-    /**
-     * Die Gruppe des Users
-     *
-     * @var \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
-     */
-    protected $usergroup;
-
-    /**
-     * Die Firma des Clienten
-     *
-     * @var \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
-     */
-    protected $companyname;
-
-    /**
-     * Die Firma des Clienten
-     *
-     * @var \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
-     */
-    protected $project;
-
-    /**
-     * Gibt den Benutzernamen zurück
-     *
-     * @return \string
-     */
-    public function getUserame() {
-        return $this->username;
-    }
-
-    /**
-     * Gibt den Benutzernamen zurück
-     *
-     * @return \string
-     */
-    public function getProject() {
-        return $this->project;
-    }
-
-    /**
-     * Gibt die UID zurück
-     *
-     * @return string
-     */
-    public function getUid() {
-        return $this->uid;
-    }
-
-    /**
-     * Gibt die Gruppe zurück
-     *
-     * @return \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
-     */
-    public function getUsergroup() {
-        return $this->usergroup;
-    }
-
-    /**
-     * Gibt die Gruppe zurück
-     *
-     * @return \TYPO3\CMS\Extbase\Domain\Model\FrontendUserGroup
-     */
-    public function getCompanyname() {
-        return $this->companyname;
-    }
 
 }
 ?>

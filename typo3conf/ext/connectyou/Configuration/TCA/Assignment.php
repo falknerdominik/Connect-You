@@ -144,11 +144,6 @@ $TCA['tx_connectyou_domain_model_assignment'] = array(
 				),
 			),
 		),
-		'project' => array(
-			'config' => array(
-				'type' => 'passthrough',
-			),
-		),
 	),
 );
 
@@ -157,4 +152,5 @@ $TCA['tx_connectyou_domain_model_assignment'] = array(
 
 
 
+## EXTENSION BUILDER DEFAULTS END TOKEN - Everything BEFORE this line is overwritten with the defaults of the extension builder
 ?>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-01-13T09:45:28Z" product-name="connectyou">
+		<header/>
+		<body>
+			
+            
+			<trans-unit id="name.description">
+				<source>Name des Meilensteins</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>Beschreibung</source>
+			</trans-unit>
+			<trans-unit id="complete.description">
+				<source>Wie viel Prozent ist es schon fertig (0-100)</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

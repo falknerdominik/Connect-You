@@ -4,7 +4,7 @@ namespace TYPO3\Connectyou\Tests;
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2013 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
+ *  (c) 2014 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
  *  			
  *  All rights reserved
  *
@@ -106,64 +106,6 @@ class ProjectTest extends \TYPO3\CMS\Extbase\Tests\Unit\BaseTestCase {
 	/**
 	 * @test
 	 */
-	public function getAssignmentsReturnsInitialValueForAssignment() { 
-		$newObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
-		$this->assertEquals(
-			$newObjectStorage,
-			$this->fixture->getAssignments()
-		);
-	}
-
-	/**
-	 * @test
-	 */
-	public function setAssignmentsForObjectStorageContainingAssignmentSetsAssignments() { 
-		$assignment = new \TYPO3\Connectyou\Domain\Model\Assignment();
-		$objectStorageHoldingExactlyOneAssignments = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
-		$objectStorageHoldingExactlyOneAssignments->attach($assignment);
-		$this->fixture->setAssignments($objectStorageHoldingExactlyOneAssignments);
-
-		$this->assertSame(
-			$objectStorageHoldingExactlyOneAssignments,
-			$this->fixture->getAssignments()
-		);
-	}
-	
-	/**
-	 * @test
-	 */
-	public function addAssignmentToObjectStorageHoldingAssignments() {
-		$assignment = new \TYPO3\Connectyou\Domain\Model\Assignment();
-		$objectStorageHoldingExactlyOneAssignment = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
-		$objectStorageHoldingExactlyOneAssignment->attach($assignment);
-		$this->fixture->addAssignment($assignment);
-
-		$this->assertEquals(
-			$objectStorageHoldingExactlyOneAssignment,
-			$this->fixture->getAssignments()
-		);
-	}
-
-	/**
-	 * @test
-	 */
-	public function removeAssignmentFromObjectStorageHoldingAssignments() {
-		$assignment = new \TYPO3\Connectyou\Domain\Model\Assignment();
-		$localObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
-		$localObjectStorage->attach($assignment);
-		$localObjectStorage->detach($assignment);
-		$this->fixture->addAssignment($assignment);
-		$this->fixture->removeAssignment($assignment);
-
-		$this->assertEquals(
-			$localObjectStorage,
-			$this->fixture->getAssignments()
-		);
-	}
-	
-	/**
-	 * @test
-	 */
 	public function getTeamReturnsInitialValueForUser() { 
 		$newObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
 		$this->assertEquals(
@@ -216,6 +158,122 @@ class ProjectTest extends \TYPO3\CMS\Extbase\Tests\Unit\BaseTestCase {
 		$this->assertEquals(
 			$localObjectStorage,
 			$this->fixture->getTeam()
+		);
+	}
+	
+	/**
+	 * @test
+	 */
+	public function getWidgetsPrivateReturnsInitialValueForWidget() { 
+		$newObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$this->assertEquals(
+			$newObjectStorage,
+			$this->fixture->getWidgetsPrivate()
+		);
+	}
+
+	/**
+	 * @test
+	 */
+	public function setWidgetsPrivateForObjectStorageContainingWidgetSetsWidgetsPrivate() { 
+		$widgetsPrivate = new \TYPO3\Connectyou\Domain\Model\Widget();
+		$objectStorageHoldingExactlyOneWidgetsPrivate = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$objectStorageHoldingExactlyOneWidgetsPrivate->attach($widgetsPrivate);
+		$this->fixture->setWidgetsPrivate($objectStorageHoldingExactlyOneWidgetsPrivate);
+
+		$this->assertSame(
+			$objectStorageHoldingExactlyOneWidgetsPrivate,
+			$this->fixture->getWidgetsPrivate()
+		);
+	}
+	
+	/**
+	 * @test
+	 */
+	public function addWidgetsPrivateToObjectStorageHoldingWidgetsPrivate() {
+		$widgetsPrivate = new \TYPO3\Connectyou\Domain\Model\Widget();
+		$objectStorageHoldingExactlyOneWidgetsPrivate = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$objectStorageHoldingExactlyOneWidgetsPrivate->attach($widgetsPrivate);
+		$this->fixture->addWidgetsPrivate($widgetsPrivate);
+
+		$this->assertEquals(
+			$objectStorageHoldingExactlyOneWidgetsPrivate,
+			$this->fixture->getWidgetsPrivate()
+		);
+	}
+
+	/**
+	 * @test
+	 */
+	public function removeWidgetsPrivateFromObjectStorageHoldingWidgetsPrivate() {
+		$widgetsPrivate = new \TYPO3\Connectyou\Domain\Model\Widget();
+		$localObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$localObjectStorage->attach($widgetsPrivate);
+		$localObjectStorage->detach($widgetsPrivate);
+		$this->fixture->addWidgetsPrivate($widgetsPrivate);
+		$this->fixture->removeWidgetsPrivate($widgetsPrivate);
+
+		$this->assertEquals(
+			$localObjectStorage,
+			$this->fixture->getWidgetsPrivate()
+		);
+	}
+	
+	/**
+	 * @test
+	 */
+	public function getWidgetsPublicReturnsInitialValueForWidget() { 
+		$newObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$this->assertEquals(
+			$newObjectStorage,
+			$this->fixture->getWidgetsPublic()
+		);
+	}
+
+	/**
+	 * @test
+	 */
+	public function setWidgetsPublicForObjectStorageContainingWidgetSetsWidgetsPublic() { 
+		$widgetsPublic = new \TYPO3\Connectyou\Domain\Model\Widget();
+		$objectStorageHoldingExactlyOneWidgetsPublic = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$objectStorageHoldingExactlyOneWidgetsPublic->attach($widgetsPublic);
+		$this->fixture->setWidgetsPublic($objectStorageHoldingExactlyOneWidgetsPublic);
+
+		$this->assertSame(
+			$objectStorageHoldingExactlyOneWidgetsPublic,
+			$this->fixture->getWidgetsPublic()
+		);
+	}
+	
+	/**
+	 * @test
+	 */
+	public function addWidgetsPublicToObjectStorageHoldingWidgetsPublic() {
+		$widgetsPublic = new \TYPO3\Connectyou\Domain\Model\Widget();
+		$objectStorageHoldingExactlyOneWidgetsPublic = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$objectStorageHoldingExactlyOneWidgetsPublic->attach($widgetsPublic);
+		$this->fixture->addWidgetsPublic($widgetsPublic);
+
+		$this->assertEquals(
+			$objectStorageHoldingExactlyOneWidgetsPublic,
+			$this->fixture->getWidgetsPublic()
+		);
+	}
+
+	/**
+	 * @test
+	 */
+	public function removeWidgetsPublicFromObjectStorageHoldingWidgetsPublic() {
+		$widgetsPublic = new \TYPO3\Connectyou\Domain\Model\Widget();
+		$localObjectStorage = new \TYPO3\CMS\Extbase\Persistence\Generic\ObjectStorage();
+		$localObjectStorage->attach($widgetsPublic);
+		$localObjectStorage->detach($widgetsPublic);
+		$this->fixture->addWidgetsPublic($widgetsPublic);
+		$this->fixture->removeWidgetsPublic($widgetsPublic);
+
+		$this->assertEquals(
+			$localObjectStorage,
+			$this->fixture->getWidgetsPublic()
 		);
 	}
 	

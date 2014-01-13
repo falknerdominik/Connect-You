@@ -25,26 +25,4 @@ if (!defined('TYPO3_MODE')) {
 	)
 );
 
-\TYPO3\CMS\Extbase\Utility\ExtensionUtility::configurePlugin(
-	'TYPO3.' . $_EXTKEY,
-	'Cyusers',
-	array(
-		'User' => 'list, show, new, create, edit, update, delete',
-		'Project' => 'list, show, new, create, edit, update, delete',
-		'Role' => 'list, new, create, edit, update, delete',
-		'Assignment' => 'list, show, new, create, edit, update, delete',
-		'Timeset' => 'list, new, create, edit, update, delete',
-		
-	),
-	// non-cacheable actions
-	array(
-		'User' => 'create, update, delete',
-		'Project' => 'create, update, delete',
-		'Role' => 'create, update, delete',
-		'Assignment' => 'create, update, delete',
-		'Timeset' => 'create, update, delete',
-		
-	)
-);
-
 ?>

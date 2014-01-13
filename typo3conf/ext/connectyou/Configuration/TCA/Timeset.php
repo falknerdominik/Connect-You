@@ -123,4 +123,5 @@ $TCA['tx_connectyou_domain_model_timeset'] = array(
 
 
 
+## EXTENSION BUILDER DEFAULTS END TOKEN - Everything BEFORE this line is overwritten with the defaults of the extension builder
 ?>

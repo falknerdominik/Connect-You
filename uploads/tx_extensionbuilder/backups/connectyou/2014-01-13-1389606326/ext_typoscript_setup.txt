@@ -1,0 +1,16 @@
+config.tx_extbase{
+    persistence{
+        classes{
+            TYPO3\CMS\Extbase\Domain\Model\FrontendUser {
+                subclasses {
+                    Tx_Extbase_Domain_Model_FrontendUser = TYPO3\Connectyou\Domain\Model\User
+          		}
+            }
+            TYPO3\Connectyou\Domain\Model\User {
+                mapping {
+                    tableName = fe_users
+                    recordType = Tx_Extbase_Domain_Model_FrontendUser
+                }
+    	}
+    }
+}

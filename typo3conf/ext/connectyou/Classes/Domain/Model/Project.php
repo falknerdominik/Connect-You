@@ -1,11 +1,10 @@
 <?php
 namespace TYPO3\Connectyou\Domain\Model;
 
-
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2013 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
+ *  (c) 2014 Dominik Falkner <falkner.dominik@gmail.com>, BBS-Rohrbach
  *  
  *  All rights reserved
  *
@@ -35,15 +34,7 @@ namespace TYPO3\Connectyou\Domain\Model;
  */
 class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 
-    /**
-     * UID des Projektes
-     *
-     * @var \string
-     * @validate NotEmpty
-     */
-    protected $uid;
-
-    /**
+	/**
 	 * Name des Projektes
 	 *
 	 * @var \string
@@ -68,25 +59,25 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	protected $type;
 
 	/**
-	 * Beinhaltet alle Assignments eines Projektes
-	 *
-	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Assignment>
-	 */
-	protected $assignments;
-
-    /**
-     * Auftraggeber
-     *
-     * @var \TYPO3\Connectyou\Domain\Model\User
-     */
-    protected $client;
-
-	/**
 	 * Teammitglieder
 	 *
 	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\User>
 	 */
 	protected $team;
+
+	/**
+	 * Widgets für ie Private Pinnwand
+	 *
+	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Widget>
+	 */
+	protected $widgetsPrivate;
+
+	/**
+	 * Widgets für die Public Pinnwand
+	 *
+	 * @var \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Widget>
+	 */
+	protected $widgetsPublic;
 
 	/**
 	 * __construct
@@ -109,21 +100,14 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 		 * It will be rewritten on each save in the extension builder
 		 * You may modify the constructor of this class instead
 		 */
-		$this->assignments = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
-		
 		$this->team = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
+		
+		$this->widgetsPrivate = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
+		
+		$this->widgetsPublic = new \TYPO3\CMS\Extbase\Persistence\ObjectStorage();
 	}
 
-    /**
-     * Gibt die UID zurück
-     *
-     * @return \string $uid
-     */
-    public function getUid() {
-        return $this->uid;
-    }
-
-    /**
+	/**
 	 * Returns the name
 	 *
 	 * @return \string $name
@@ -181,45 +165,6 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 	}
 
 	/**
-	 * Adds a Assignment
-	 *
-	 * @param \TYPO3\Connectyou\Domain\Model\Assignment $assignment
-	 * @return void
-	 */
-	public function addAssignment(\TYPO3\Connectyou\Domain\Model\Assignment $assignment) {
-		$this->assignments->attach($assignment);
-	}
-
-	/**
-	 * Removes a Assignment
-	 *
-	 * @param \TYPO3\Connectyou\Domain\Model\Assignment $assignmentToRemove The Assignment to be removed
-	 * @return void
-	 */
-	public function removeAssignment(\TYPO3\Connectyou\Domain\Model\Assignment $assignmentToRemove) {
-		$this->assignments->detach($assignmentToRemove);
-	}
-
-	/**
-	 * Returns the assignments
-	 *
-	 * @return \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Assignment> $assignments
-	 */
-	public function getAssignments() {
-		return $this->assignments;
-	}
-
-	/**
-	 * Sets the assignments
-	 *
-	 * @param \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Assignment> $assignments
-	 * @return void
-	 */
-	public function setAssignments(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $assignments) {
-		$this->assignments = $assignments;
-	}
-
-	/**
 	 * Adds a User
 	 *
 	 * @param \TYPO3\Connectyou\Domain\Model\User $team
@@ -258,23 +203,83 @@ class Project extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity {
 		$this->team = $team;
 	}
 
-    /**
-     * Setzt den Client
-     *
-     * @param \TYPO3\Connectyou\Domain\Model\User $client
-     */
-    public function setClient(\TYPO3\Connectyou\Domain\Model\User $client) {
-        $this->client = $client;
-    }
+	/**
+	 * Adds a Widget
+	 *
+	 * @param \TYPO3\Connectyou\Domain\Model\Widget $widgetsPrivate
+	 * @return void
+	 */
+	public function addWidgetsPrivate(\TYPO3\Connectyou\Domain\Model\Widget $widgetsPrivate) {
+		$this->widgetsPrivate->attach($widgetsPrivate);
+	}
 
-    /**
-     * Gibt den Client zurück
-     *
-     * @return \TYPO3\Connectyou\Domain\Model\User $client
-     */
-    public function getClient() {
-        return $this->client;
-    }
+	/**
+	 * Removes a Widget
+	 *
+	 * @param \TYPO3\Connectyou\Domain\Model\Widget $widgetsPrivateToRemove The Widget to be removed
+	 * @return void
+	 */
+	public function removeWidgetsPrivate(\TYPO3\Connectyou\Domain\Model\Widget $widgetsPrivateToRemove) {
+		$this->widgetsPrivate->detach($widgetsPrivateToRemove);
+	}
+
+	/**
+	 * Returns the widgetsPrivate
+	 *
+	 * @return \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Widget> $widgetsPrivate
+	 */
+	public function getWidgetsPrivate() {
+		return $this->widgetsPrivate;
+	}
+
+	/**
+	 * Sets the widgetsPrivate
+	 *
+	 * @param \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Widget> $widgetsPrivate
+	 * @return void
+	 */
+	public function setWidgetsPrivate(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $widgetsPrivate) {
+		$this->widgetsPrivate = $widgetsPrivate;
+	}
+
+	/**
+	 * Adds a Widget
+	 *
+	 * @param \TYPO3\Connectyou\Domain\Model\Widget $widgetsPublic
+	 * @return void
+	 */
+	public function addWidgetsPublic(\TYPO3\Connectyou\Domain\Model\Widget $widgetsPublic) {
+		$this->widgetsPublic->attach($widgetsPublic);
+	}
+
+	/**
+	 * Removes a Widget
+	 *
+	 * @param \TYPO3\Connectyou\Domain\Model\Widget $widgetsPublicToRemove The Widget to be removed
+	 * @return void
+	 */
+	public function removeWidgetsPublic(\TYPO3\Connectyou\Domain\Model\Widget $widgetsPublicToRemove) {
+		$this->widgetsPublic->detach($widgetsPublicToRemove);
+	}
+
+	/**
+	 * Returns the widgetsPublic
+	 *
+	 * @return \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Widget> $widgetsPublic
+	 */
+	public function getWidgetsPublic() {
+		return $this->widgetsPublic;
+	}
+
+	/**
+	 * Sets the widgetsPublic
+	 *
+	 * @param \TYPO3\CMS\Extbase\Persistence\ObjectStorage<\TYPO3\Connectyou\Domain\Model\Widget> $widgetsPublic
+	 * @return void
+	 */
+	public function setWidgetsPublic(\TYPO3\CMS\Extbase\Persistence\ObjectStorage $widgetsPublic) {
+		$this->widgetsPublic = $widgetsPublic;
+	}
 
 }
 ?>
