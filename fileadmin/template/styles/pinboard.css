@@ -31,11 +31,13 @@ body, html {
     background-color: grey;
 }
 #aufklappen {
-    width: 10em;
     text-align: right;
     margin-top: 6em;
     background-color: grey;
     font-size: 22pt;
+}
+#aufklappen i {
+    float: right;
 }
 /*****************
  * Menü-Oben
