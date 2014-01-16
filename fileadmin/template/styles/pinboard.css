@@ -37,6 +37,7 @@ body, html {
     position: absolute;
     width: 100px;
     text-align: center;
+    color: white;
     background-color: #9857BB;
     margin: 0 auto;
 }
