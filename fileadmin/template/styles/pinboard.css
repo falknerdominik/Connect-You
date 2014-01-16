@@ -150,9 +150,13 @@ body, html {
 	margin-left: 7.5em;
 	background-image:url("../images/Background/Pinnwand.png");
     font-size: 22pt;
+	
+	border:#9b59b6;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	
+	
 }
 #aufklappen i {
 	color:#FFF;
