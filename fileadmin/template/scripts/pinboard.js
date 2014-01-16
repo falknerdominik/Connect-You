@@ -5,13 +5,13 @@
 
 var widgets = new Array();
     //Kalender
-    widgets[0] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Kalender <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
+    widgets[0] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Kalender <i class='remove'>X</i> </div ><div class='panel-body'>";
 
     //Document
-    widgets[1] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Document <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
+    widgets[1] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Document <i class='remove'>X</i> </div ><div class='panel-body'>";
 
     //MileStone
-    widgets[2] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Milestone <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
+    widgets[2] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Milestone <i class='remove'>X</i> </div ><div class='panel-body'>";
 
 
 
