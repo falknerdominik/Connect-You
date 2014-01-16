@@ -53,7 +53,8 @@ body, html {
 #widgetmenu ul li {
     width: 100%;
     text-align: center;
-    border: 1 px solid blue;
+    border: 1px solid blue;
+    height: 4em;
 }
 /*****************
  * Menü-Oben
