@@ -82,6 +82,9 @@ body, html {
     letter-spacing: 1px;
     color: #EBEEF1;
 }
+#topright {
+    position: absolute;
+}
 #logo {
     float: left;
 }
