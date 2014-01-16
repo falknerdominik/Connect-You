@@ -3,7 +3,7 @@
  */
 
 window.onload = function () {
-    $(id).click(function () {
+    $("#move").click(function () {
         $(moveVield).animate({
             left: leftx
         }, 300);
