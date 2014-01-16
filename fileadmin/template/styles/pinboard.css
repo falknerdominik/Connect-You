@@ -87,6 +87,7 @@ body, html {
     float: right;
     color: #EBEEF1;
     right: 5em;
+    width: 20em;
 }
 #logo {
     float: left;
