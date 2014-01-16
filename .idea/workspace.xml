@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinboard.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pinboard.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="16" selection-start="542" selection-end="542" vertical-scroll-proportion="0.6736" vertical-offset="157" max-vertical-offset="2397">
+            <state line="8" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2397">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="5" selection-start="323" selection-end="323" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="1088">
               <folding />
             </state>
           </provider>
@@ -652,11 +661,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typo3/sysext/frontend/Classes/Plugin/AbstractPlugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="20" selection-start="8167" selection-end="8167" vertical-scroll-proportion="5.4647675" vertical-offset="270" max-vertical-offset="19350" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.5735294" vertical-offset="0" max-vertical-offset="680" />
@@ -737,7 +741,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="16" selection-start="542" selection-end="542" vertical-scroll-proportion="0.6736" vertical-offset="157" max-vertical-offset="2397">
+        <state line="8" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2397">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="5" selection-start="323" selection-end="323" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="1088">
           <folding />
         </state>
       </provider>
