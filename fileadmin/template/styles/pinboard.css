@@ -35,11 +35,11 @@ body, html {
 }
 #top h1 {
     position: absolute;
-    width: 100px;
+    width: 20em;
     text-align: center;
     color: white;
     font-size: 28pt;
-    height: 2em;
+    height: 1.5em;
     background-color: #9857BB;
     margin: 0 auto;
 }
