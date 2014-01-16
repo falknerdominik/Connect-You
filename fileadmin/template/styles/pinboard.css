@@ -76,7 +76,7 @@ body, html {
 }
 #topleft{
     position: absolute;
-    margin-top: 1em;
+    margin-top: 1.3em;
     margin-left: 1em;
     font-size: 12pt;
     letter-spacing: 1px;
