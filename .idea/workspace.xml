@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinboard.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="37" selection-start="402" selection-end="402" vertical-scroll-proportion="0.2320819" vertical-offset="0" max-vertical-offset="586">
+            <state line="8" column="37" selection-start="402" selection-end="402" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinboard.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinboard.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="28" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="2312">
+            <state line="35" column="22" selection-start="567" selection-end="567" vertical-scroll-proportion="0.6464" vertical-offset="191" max-vertical-offset="2329">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
-        <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
       </list>
     </option>
   </component>
@@ -728,16 +728,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="28" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="2312">
+        <state line="8" column="37" selection-start="402" selection-end="402" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="402" selection-end="402" vertical-scroll-proportion="0.2320819" vertical-offset="0" max-vertical-offset="586">
+        <state line="35" column="22" selection-start="567" selection-end="567" vertical-scroll-proportion="0.6464" vertical-offset="191" max-vertical-offset="2329">
           <folding />
         </state>
       </provider>
