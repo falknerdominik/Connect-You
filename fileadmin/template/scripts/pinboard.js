@@ -4,7 +4,7 @@
 
 window.onload = function () {
     $("#move").click(function () {
-        $(moveVield).animate({
+        $("#widgetmenu").animate({
             left: leftx
         }, 300);
 }
