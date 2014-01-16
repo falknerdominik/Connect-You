@@ -11,7 +11,7 @@ var widgets = new Array();
     widgets[1] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Document <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
 
     //MileStone
-    widgets[1] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Milestone <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
+    widgets[2] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Milestone <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
 
 
 
@@ -28,8 +28,18 @@ window.onload = function () {
     });
 
     $(function () {
-        $("li").click(function () {
+        $("todo").click(function () {
             $("#content").append(widgets[0]);
+        });
+    });
+    $(function () {
+        $("document").click(function () {
+            $("#content").append(widgets[1]);
+        });
+    });
+    $(function () {
+        $("milestone").click(function () {
+            $("#content").append(widgets[2]);
         });
     });
 }
