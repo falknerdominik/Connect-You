@@ -71,6 +71,8 @@ body, html {
 }
 #trennlinie {
     float: left;
+    text-align: center;
+    width: 1em;
 }
 #topleft{
     position: absolute;
