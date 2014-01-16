@@ -18,7 +18,7 @@ body, html {
     margin: 0;
     padding: 0;
 	background-color: #E7E7E7;
-    font-family: "Calibri";
+
 	
 }
 /*****************
@@ -50,6 +50,7 @@ body, html {
     -webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
     -moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
     box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    font-family: "Calibri";
 }
 #top #strich {
     background-color: #9b59b6;
