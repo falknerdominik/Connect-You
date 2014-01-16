@@ -84,6 +84,7 @@ body, html {
 }
 #topright {
     position: absolute;
+    float: right;
 }
 #logo {
     float: left;
