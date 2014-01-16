@@ -28,17 +28,17 @@ window.onload = function () {
     });
 
     $(function () {
-        $("todo").click(function () {
+        $("#todo").click(function () {
             $("#content").append(widgets[0]);
         });
     });
     $(function () {
-        $("document").click(function () {
+        $("#document").click(function () {
             $("#content").append(widgets[1]);
         });
     });
     $(function () {
-        $("milestone").click(function () {
+        $("#milestone").click(function () {
             $("#content").append(widgets[2]);
         });
     });
