@@ -193,6 +193,8 @@ body, html {
 	position:relative;
 	margin: 0 auto;
 	color:#FFF;
+	text-align:center;
+	font-size:20pt;
 }
 #widgetmenu ul {
 	color:#FFF;
