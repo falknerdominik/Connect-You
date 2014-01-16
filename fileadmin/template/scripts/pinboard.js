@@ -50,7 +50,7 @@ window.onload = function () {
 
     $(document).on('click', '.remove', function (e) {
         e.preventDefault();
-        $(this).closest('div').remove();
+        $(this).closest('.deletewidget').remove();
         return false;
     });
 }
