@@ -64,12 +64,9 @@ body, html {
 }
 #top a:first-child {
     float: left;
-    margin: 0;
-    padding: 0;
 }
 #topleft{
-    position: relative;
-    margin: 0; padding: 0;
+    position: absolute;
     margin-top: 1em;
 }
 #logo {
