@@ -27,6 +27,7 @@ body, html {
 #widgetmenu {
     position: absolute;
     height: 100%;
+    width: 1em;
 }
 /*****************
  * Menü-Oben
