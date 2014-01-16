@@ -147,6 +147,7 @@ body, html {
     padding-right: 0.4em;
     text-align: center;
     margin-top: 1em;
+	margin-left: 5em;
 	background-image:url("../images/Background/Pinnwand.png");
     font-size: 22pt;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
