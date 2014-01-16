@@ -155,7 +155,7 @@ body, html {
 	
 	border-top: 4px solid #9b59b6;
 	border-right: 4px solid #9b59b6;
-	border-left: 4px solid #9b59b6;
+	border-bottom: 4px solid #9b59b6;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
@@ -178,9 +178,8 @@ body, html {
     width: 80%;
     text-align: center;
     margin: 0 auto;
-    border-top: 1px solid #9b59b6;
-	border-right: 1px solid #9b59b6;
-	border-left: 1px solid #9b59b6;
+    
+	border: 1px solid #9b59b6;
     height: 4em;
     cursor: pointer;
 }
