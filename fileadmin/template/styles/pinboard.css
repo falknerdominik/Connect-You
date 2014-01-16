@@ -43,6 +43,7 @@ body, html {
 #aufklappen i {
     float: right;
     margin-left: 1em;
+    cursor: pointer;
 }
 /*****************
  * Menü-Oben
