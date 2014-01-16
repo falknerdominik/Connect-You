@@ -165,6 +165,8 @@ body, html {
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	
+	opacity:0.5;
+	
 	
 }
 #aufklappen i {
