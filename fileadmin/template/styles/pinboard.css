@@ -143,7 +143,7 @@ body, html {
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 #aufklappen {
-	position:relative;
+	position:absolute;
 	
 	height: 1.4em;
     width: 22%;
