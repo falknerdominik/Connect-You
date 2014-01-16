@@ -66,6 +66,9 @@ body, html {
     float: left;
     color: #EBEEF1;
 }
+#top a:visited {
+    color: #EBEEF1;
+}
 #topleft{
     position: absolute;
     margin-top: 0.8em;
