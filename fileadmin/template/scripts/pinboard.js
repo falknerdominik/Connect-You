@@ -10,7 +10,7 @@ window.onload = function () {
     });
     $("#content").click(function () {
         $("#widgetmenu").animate({
-            left: "0em"
+            left: "-15.8em"
         }, 300);
     });
 }
