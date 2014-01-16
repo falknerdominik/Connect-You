@@ -48,7 +48,7 @@ window.onload = function () {
         });
     });
 
-    $(document).on('click', 'i', function (e) {
+    $(document).on('click', '.remove', function (e) {
         e.preventDefault();
         $(this).closest('.deletewidget').remove();
         return false;
