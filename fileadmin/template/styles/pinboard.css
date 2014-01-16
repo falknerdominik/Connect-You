@@ -85,6 +85,7 @@ body, html {
 #topright {
     position: absolute;
     float: right;
+    color: #EBEEF1;
 }
 #logo {
     float: left;
