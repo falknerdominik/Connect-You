@@ -192,6 +192,7 @@ body, html {
 #aufklappen_innen p {
 	position:relative;
 	margin: 0 auto;
+	color:#FFF;
 }
 #widgetmenu ul {
 	color:#FFF;
