@@ -27,7 +27,7 @@ body, html {
 #widgetmenu {
     position: absolute;
     height: 100%;
-    width: 10em;
+    width: 16em;
     background-color: grey;
 }
 #aufklappen {
