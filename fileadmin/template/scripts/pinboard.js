@@ -7,4 +7,5 @@ window.onload = function () {
         $("#widgetmenu").animate({
             left: "0em"
         }, 300);
+    });
 }
