@@ -52,6 +52,7 @@ body, html {
 }
 #widgetmenu ul li {
     width: 100%;
+    text-align: center;
 }
 /*****************
  * Menü-Oben
