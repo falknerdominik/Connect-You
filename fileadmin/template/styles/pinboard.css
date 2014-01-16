@@ -35,7 +35,7 @@ body, html {
 }
 #top h1 {
     position: absolute;
-    margin-left: 10em;
+    left: 50%;
     width: 6em;
     text-align: center;
     color: white;
