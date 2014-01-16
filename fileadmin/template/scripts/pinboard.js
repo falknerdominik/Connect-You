@@ -3,13 +3,12 @@
  */
 
 
-
+var widgets = new Array();
 
 // widgets[0] = "<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Kalender <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>";
 
 
 window.onload = function () {
-    var widgets = array();
     $("#move").click(function () {
         $("#widgetmenu").animate({
             left: "0em"

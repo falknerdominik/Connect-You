@@ -44,7 +44,7 @@
       <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="26" selection-start="317" selection-end="317" vertical-scroll-proportion="0.30555555" vertical-offset="0" max-vertical-offset="612">
+            <state line="5" column="19" selection-start="65" selection-end="65" vertical-scroll-proportion="0.1388889" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -693,7 +693,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="317" selection-end="317" vertical-scroll-proportion="0.30555555" vertical-offset="0" max-vertical-offset="612">
+        <state line="5" column="19" selection-start="65" selection-end="65" vertical-scroll-proportion="0.1388889" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
