@@ -50,6 +50,9 @@ body, html {
     padding: 0;
     list-style: none;
 }
+#widgetmenu ul li {
+    width: 100%;
+}
 /*****************
  * Menü-Oben
 *****************/
