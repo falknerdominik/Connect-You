@@ -129,14 +129,16 @@ body, html {
 #acc_logout {
 	margin-left:10px;
 }
+
+
 /*****************
- * Menü-Links
+ * Widgetmenu
 *****************/
 #widgetmenu {
     position: absolute;
     height: 100%;
     width: 16em;
-    background-color: grey;
+	background-image:url("images/Background/Pinnwand.png");
     left: -15.8em;
 }
 #aufklappen {
