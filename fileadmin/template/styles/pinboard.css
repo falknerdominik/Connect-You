@@ -29,29 +29,10 @@ body, html {
 *****************/
 #top {
     height: 8%;
-    float: left;
     width: 89.75%;
     background-image: url("../images/Background/Pinnwand.png");
     background-repeat:repeat;
     border-bottom: 3px solid #5FCCFF;
-}
-#top ul {
-    list-style: none;
-}
-#top ul li {
-    width: 5em;
-    text-align: center;
-    float: left;
-    color: white;
-    letter-spacing: 0.1em;
-    margin-right: 0.5em;
-    margin-top: 1.4em;
-    font-size: 12pt;
-    padding-bottom: 0.1em;
-}
-#top ul li:hover {
-    color: #5FCCFF;
-    border-bottom: 2px solid #5FCCFF;
 }
 /*****************
  * Content
