@@ -670,9 +670,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
+    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="545" selection-end="545" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="442">
+        <state line="53" column="4" selection-start="1448" selection-end="1606" vertical-scroll-proportion="-9.88" vertical-offset="654" max-vertical-offset="1241">
           <folding />
         </state>
       </provider>
@@ -684,9 +684,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="4" selection-start="1448" selection-end="1606" vertical-scroll-proportion="-9.88" vertical-offset="654" max-vertical-offset="1241">
+        <state line="12" column="25" selection-start="545" selection-end="545" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="442">
           <folding />
         </state>
       </provider>
