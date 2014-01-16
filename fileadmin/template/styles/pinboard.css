@@ -53,6 +53,9 @@ body, html {
 #top #strich {
     background-color: #212121;
     width: 100%;
+    -webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    -moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 }
 /*****************
  * Content
