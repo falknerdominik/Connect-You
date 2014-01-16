@@ -19,72 +19,128 @@ body, html {
     padding: 0;
     background-color: #E7E7E7;
 	font-family: 'Lato';
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
 }
 ul {
     margin: 0;
     padding: 0;
 }
+
 /*****************
- * Top-Header
+ * Top-Header//Diksn
 *****************/
+
 #head {
-    height: 8%;
-    background-image: url("../images/Background/Pinnwand.png");
-}
-
-#head p {
-	color: white;
-	float: left;
-	margin-top: 0.6%;
-}
-
-#head img {
-	float: left;
-	margin-top: 0.8%;
-}
-
-#head a {
-	float: right;
-	color: lightgrey;
-	margin-right: 1%;
-	margin-top: 1%;
-}
-
-#titlefield h1:first-child {
-    color: white;
-	text-align: center;
-}
-
-#titlefield {
-    margin: 0;
-    padding: 0;
-    color: #9B58B6;
-    font-size: 12pt;
-    width: 20%;
-	background-color: #3498db;
-	margin-left: 40%;
-}
-
-/**************
-* Header - Diksn
-***************/
-#header {
-	
-	position: relative;
-	background-image: url(../images/Background/Pinnwand.png);
-	background-repeat: repeat;
-}
-
-#titlefield {
-	margin-top: 0px;
+	margin: 0;
+	padding-top: 0.4%;
 	position:relative;
-	width: 303px;
-	height: 63px;
+    width:100%;
+	height: 55px;
+	overflow:visible;
+	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	background-image:url(../images/Background/Pinnwand.png);
+	background-repeat:repeat;
+}
+
+#leiste {
+	position:relative;
+	width: 100%;
+	height: 4px;
 	background-color: #3498db;
 	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 }
+
+#titlefield {
+	position: relative;
+	margin: 0 auto;
+    width: 303px;
+	height: 65px;
+	
+	background-color: #3498db;
+	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+}
+
+#titlefield h1:first-child {
+	position: relative;
+	text-align:center;
+	color:#FFF;
+	font-family: 'Lato';
+    font-size: 35pt;
+	font-weight: 400;
+}
+
+#logo {
+	position: relative;
+	margin-left: 0.3%;
+	height:100%;
+	width:auto;	
+	float: left;
+
+}
+	
+
+#logo img {
+	width:auto;
+	height: 90%;
+	
+	float:left;
+	
+}
+#logo p {
+	position:relative;
+	text-align:center;
+	margin-top: 6.5%;
+	margin-left: 5px;
+	float:right;
+	font-size: 16pt;
+	font-weight: 200;
+	color:#FFF;
+	
+}
+
+
+#sidemenu {
+	position:relative;
+	height:100%;
+	width:auto;
+	margin-right: 1%;
+	float:right;
+	text-align:center;
+	padding-top:1%;
+}
+
+#sidemenu a {
+	
+	text-decoration:none;
+	font-size: 12pt;
+	font-weight: 100;
+	color:#FFF;
+}
+	
+#acc_logout {
+	margin-left:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 
 /*****************
@@ -92,27 +148,37 @@ ul {
 *****************/
 
 #projects {
-    width: 70%;
+	position:relative;
+    width: 66%;
     margin: 0 auto;
-    height: 94%;
-	background-image: url("../images/marketplace_content.png");
+	margin-top: 2%;
+    height: 100%;
+	border-left: 1px dotted #666666;
+	border-right:  1px dotted #666666;
+	
 }
 
 #projectnavigation  a{
 	color: grey;
 	font-size: 15px;
+	text-decoration:none;
+	text-align:center;
 }
 
 #projectnavigation {
-	display: block;
-	margin-right: 50%;
+	margin-left:25%;
+	margin-top: 0.5%;
 }
 
-#projects hr {
-	border: none; 
-	border-top: 1px dotted #9000E0; 
-	background-color: #FFFFFF; 
-	height: 1px;
+
+
+
+hr {
+	border: none;
+	margin: 0 auto;
+	margin-top: 0.5%;
+	width:60%;
+	border-top: 1px dotted #666666; 
 }
 /****
 *** PROJEKT NEU - FALKNER
