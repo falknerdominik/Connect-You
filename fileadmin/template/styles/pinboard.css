@@ -97,6 +97,7 @@ body, html {
     text-align: left;
 }
 #logout {
+    width: 5em;
     float: left;
     margin-top: -1.1em;
 }
