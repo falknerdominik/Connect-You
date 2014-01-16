@@ -29,7 +29,7 @@ body, html {
 *****************/
 #top {
     height: 8%;
-    width: 89.75%;
+    width: 100%;
     background-image: url("../images/Background/Pinnwand.png");
     background-repeat:repeat;
     border-bottom: 3px solid #5FCCFF;
@@ -41,6 +41,6 @@ body, html {
     float: left;
     width: 89.75%;
     height: 91.6%;
-    box-shadow: inset 4px 4px 12px -5px black;
+    box-shadow: inset 4px 8px 12px -5px black;
 }
 
