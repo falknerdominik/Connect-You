@@ -68,6 +68,7 @@ body, html {
 #topleft{
     position: absolute;
     margin-top: 1em;
+    font-size: 22pt;
 }
 #logo {
     float: left;
