@@ -69,6 +69,7 @@ body, html {
     position: absolute;
     margin-top: 1em;
     font-size: 16pt;
+    letter-spacing: 1px;
 }
 #logo {
     float: left;
