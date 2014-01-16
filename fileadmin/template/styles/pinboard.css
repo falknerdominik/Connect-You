@@ -179,10 +179,6 @@ body, html {
 #aufklappen_innen{
 	position:relative;
 	
-	
-	
-
-	
 	height: 2.9em;
     width: 100%;
     margin-top: 2.1em;
@@ -191,6 +187,11 @@ body, html {
 	border-bottom: 2px solid #9b59b6;
 	background-image:url("../images/Background/Pinnwand.png");
 	
+}
+
+#aufklappen_innen p {
+	position:relative;
+	margin:0 auto;
 }
 #widgetmenu ul {
 	color:#FFF;
