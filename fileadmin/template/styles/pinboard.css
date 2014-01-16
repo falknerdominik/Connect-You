@@ -176,7 +176,9 @@ body, html {
     width: 80%;
     text-align: center;
     margin: 0 auto;
-    border: 1px solid #9b59b6;
+    border-top: 1px solid #9b59b6;
+	border-right: 1px solid #9b59b6;
+	border-left: 1px solid #9b59b6;
     height: 4em;
     cursor: pointer;
 }
