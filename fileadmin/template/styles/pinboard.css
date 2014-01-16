@@ -142,6 +142,7 @@ body, html {
     left: -15.8em;
 }
 #aufklappen {
+	color:#FFF;
     width: 9.4em;
     padding: 0.1em;
     padding-right: 0.4em;
@@ -151,6 +152,7 @@ body, html {
     font-size: 22pt;
 }
 #aufklappen i {
+	color:#FFF;
     float: right;
     margin-left: 1em;
     cursor: pointer;
