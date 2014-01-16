@@ -63,7 +63,7 @@ body, html {
 	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 }
 
-#titlefield h1:first-child {
+#marketplace_header {
 	position: relative;
 	text-align:center;
 	color:#FFF;
