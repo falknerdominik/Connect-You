@@ -35,7 +35,7 @@
       <file leaf-file-name="pinboard.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="33" selection-start="612" selection-end="612" vertical-scroll-proportion="0.3472" vertical-offset="378" max-vertical-offset="2091">
+            <state line="35" column="21" selection-start="600" selection-end="600" vertical-scroll-proportion="0.3472" vertical-offset="378" max-vertical-offset="2091">
               <folding />
             </state>
           </provider>
@@ -709,7 +709,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="33" selection-start="612" selection-end="612" vertical-scroll-proportion="0.3472" vertical-offset="378" max-vertical-offset="2091">
+        <state line="35" column="21" selection-start="600" selection-end="600" vertical-scroll-proportion="0.3472" vertical-offset="378" max-vertical-offset="2091">
           <folding />
         </state>
       </provider>
