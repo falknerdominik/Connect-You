@@ -58,9 +58,112 @@ body, html {
     height: 4em;
     cursor: pointer;
 }
+
+
 /*****************
- * Menü-Oben
+ * Top-Header//Diksn
 *****************/
+
+#head {
+	margin: 0;
+	padding-top: 0.4%;
+	position:relative;
+    width:100%;
+	height: 55px;
+	overflow:visible;
+	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	background-image: url("../images/Background/Pinnwand.png");
+	background-repeat:repeat;
+}
+
+#leiste {
+	position:relative;
+	width: 100%;
+	height: 4px;
+	background-color: #3498db;
+	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+}
+
+#titlefield {
+	position: relative;
+	margin: 0 auto;
+    width: 303px;
+	height: 65px;
+	
+	background-color: #3498db;
+	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+}
+
+#titlefield h1:first-child {
+	position: relative;
+	text-align:center;
+	color:#FFF;
+	font-family: 'Lato';
+    font-size: 35pt;
+	font-weight: 400;
+}
+
+#logo {
+	position: relative;
+	margin-left: 0.3%;
+	height:100%;
+	width:auto;	
+	float: left;
+
+}
+	
+
+#logo img {
+	width:auto;
+	height: 90%;
+	
+	float:left;
+	
+}
+#logo p {
+	position:relative;
+	text-align:center;
+	margin-top: 6.5%;
+	margin-left: 5px;
+	float:right;
+	font-size: 16pt;
+	font-weight: 200;
+	color:#FFF;
+	
+}
+
+
+#sidemenu {
+	position:relative;
+	height:100%;
+	width:auto;
+	margin-right: 1%;
+	float:right;
+	text-align:center;
+	padding-top:1%;
+}
+
+#sidemenu a {
+	
+	text-decoration:none;
+	font-size: 12pt;
+	font-weight: 100;
+	color:#FFF;
+}
+	
+#acc_logout {
+	margin-left:10px;
+}
+
+/*****************
+ * Menü-Oben Vale 
+*****************
 #top {
     height: 8%;
     width: 100%;
@@ -139,6 +242,9 @@ body, html {
 #logo {
     float: left;
 }
+
+*/
+
 /*****************
  * Content
 *****************/
