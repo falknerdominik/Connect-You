@@ -83,6 +83,7 @@ body, html {
     color: #EBEEF1;
 }
 #topright {
+    position: absolute;
     margin-top: 1.5em;
     font-size: 10pt;
     letter-spacing: 1px;
