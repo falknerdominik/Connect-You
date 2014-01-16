@@ -8,7 +8,7 @@ window.onload = function () {
             left: "0em"
         }, 300);
     });
-    $("#move").click(function () {
+    $("#content").click(function () {
         $("#widgetmenu").animate({
             left: "0em"
         }, 300);
