@@ -51,8 +51,9 @@ body, html {
     list-style: none;
 }
 #widgetmenu ul li {
-    width: 100%;
+    width: 90%;
     text-align: center;
+    margin: 0 auto;
     border: 1px solid blue;
     height: 4em;
 }
