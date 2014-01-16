@@ -84,6 +84,8 @@ body, html {
 }
 #topright {
     margin-top: 1.3em;
+    font-size: 12pt;
+    letter-spacing: 1px;
     position: absolute;
     float: right;
     color: #EBEEF1;
