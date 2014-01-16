@@ -5,6 +5,6 @@
 window.onload = function () {
     $("#move").click(function () {
         $("#widgetmenu").animate({
-            left: leftx
+            left: "0em"
         }, 300);
 }
