@@ -42,4 +42,10 @@ window.onload = function () {
             $("#content").append(widgets[2]);
         });
     });
+
+    $(document).on('click', '.remove', function (e) {
+        e.preventDefault();
+        $(this).closest('.deletewidget').remove();
+        return false;
+    });
 }

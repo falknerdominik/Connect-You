@@ -44,7 +44,7 @@
       <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="144" selection-start="232" selection-end="232" vertical-scroll-proportion="0.19444445" vertical-offset="0" max-vertical-offset="850">
+            <state line="49" column="7" selection-start="1506" selection-end="1506" vertical-scroll-proportion="0.9444444" vertical-offset="255" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="main.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1241">
+            <state line="53" column="4" selection-start="1448" selection-end="1606" vertical-scroll-proportion="-9.88" vertical-offset="654" max-vertical-offset="1241">
               <folding />
             </state>
           </provider>
@@ -670,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="25" selection-start="545" selection-end="545" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="442">
@@ -691,9 +684,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="4" selection-start="1448" selection-end="1606" vertical-scroll-proportion="-9.88" vertical-offset="654" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="144" selection-start="232" selection-end="232" vertical-scroll-proportion="0.19444445" vertical-offset="0" max-vertical-offset="850">
+        <state line="49" column="7" selection-start="1506" selection-end="1506" vertical-scroll-proportion="0.9444444" vertical-offset="255" max-vertical-offset="952">
           <folding />
         </state>
       </provider>
