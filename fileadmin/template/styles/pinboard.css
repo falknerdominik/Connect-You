@@ -180,6 +180,8 @@ body, html {
     width: 22%;
     margin-top: 1em;
 	
+	background-image:url("../images/Background/Pinnwand.png");
+	
 }
 #widgetmenu ul {
 	color:#FFF;
