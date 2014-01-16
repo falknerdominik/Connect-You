@@ -140,16 +140,18 @@ body, html {
 }
 #aufklappen {
 	position:relative;
-	color:#FFF;
+	
 	height: 1.4em;
     width: 22%;
     padding: 0.1em;
     padding-right: 0.4em;
-    text-align: center;
     margin-top: 1em;
 	margin-left: 7.5em;
 	background-image:url("../images/Background/Pinnwand.png");
+	
+	color:#FFF;
     font-size: 22pt;
+	text-align: center;
 	
 	border: 4px #9b59b6;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
@@ -174,7 +176,7 @@ body, html {
     width: 80%;
     text-align: center;
     margin: 0 auto;
-    border: 1px solid blue;
+    border: 1px solid #9b59b6;
     height: 4em;
     cursor: pointer;
 }
