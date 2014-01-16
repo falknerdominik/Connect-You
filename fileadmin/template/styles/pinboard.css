@@ -56,6 +56,7 @@ body, html {
     margin: 0 auto;
     border: 1px solid blue;
     height: 4em;
+    cursor: pointer;
 }
 /*****************
  * Menü-Oben
