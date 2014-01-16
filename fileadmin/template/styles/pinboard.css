@@ -179,13 +179,14 @@ body, html {
 #aufklappen_innen{
 	position:relative;
 	
-	height: 2.9em;
-    width: 100%;
-    margin-top: 2.1em;
+	
 	
 	color:#FFF;
     font-size: 5pt;
 	
+	height: 2.9em;
+    width: 100%;
+    margin-top: 2.1em;
 	
 	border-top: 2px solid #9b59b6;
 	border-bottom: 2px solid #9b59b6;
