@@ -51,7 +51,8 @@ body, html {
     box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 }
 #top #strich {
-    
+    background-color: #212121;
+    width: 100%;
 }
 /*****************
  * Content
