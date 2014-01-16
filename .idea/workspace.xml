@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinboard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="16" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="238">
+            <state line="1" column="16" selection-start="31" selection-end="31" vertical-scroll-proportion="0.028380634" vertical-offset="0" max-vertical-offset="599">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinboard.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pinboard.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="29" selection-start="812" selection-end="812" vertical-scroll-proportion="0.7552" vertical-offset="310" max-vertical-offset="1156">
+            <state line="46" column="29" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -700,16 +700,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="31" selection-end="31" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="238">
+        <state line="46" column="29" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="29" selection-start="812" selection-end="812" vertical-scroll-proportion="0.7552" vertical-offset="310" max-vertical-offset="1156">
+        <state line="1" column="16" selection-start="31" selection-end="31" vertical-scroll-proportion="0.028380634" vertical-offset="0" max-vertical-offset="599">
           <folding />
         </state>
       </provider>
