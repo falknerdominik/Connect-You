@@ -64,11 +64,12 @@ body, html {
 }
 #top a:first-child {
     float: left;
+}
+#topleft{
     margin-top: 1em;
 }
 #logo {
     float: left;
-    margin-top: 1em;
 }
 /*****************
  * Content
