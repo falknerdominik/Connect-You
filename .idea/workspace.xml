@@ -32,13 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinnboard.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js">
+      <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0816" vertical-offset="0" max-vertical-offset="625">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/TypoScript/setup.txt" />
         <option value="$PROJECT_DIR$/typo3/sysext/extbase/Classes/Persistence/Generic/Storage/Typo3DbBackend.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Domain/Model/User.php" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Classes/Controller/UserController.php" />
@@ -86,6 +83,7 @@
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js" />
+        <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
       </list>
     </option>
   </component>
@@ -746,12 +744,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0816" vertical-offset="0" max-vertical-offset="625">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
+          <folding />
         </state>
       </provider>
     </entry>
