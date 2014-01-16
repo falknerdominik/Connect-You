@@ -65,16 +65,15 @@ ul {
 	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-}
-
-#titlefield h1:first-child {
-	position: relative;
+	
 	text-align:center;
 	color:#FFF;
 	font-family: 'Lato';
     font-size: 35pt;
 	font-weight: 400;
 }
+
+
 
 #logo {
 	position: relative;
