@@ -27,7 +27,7 @@ body, html {
 #widgetmenu {
     position: absolute;
     height: 100%;
-    width: 6em;
+    width: 10em;
     background-color: grey;
 }
 /*****************
