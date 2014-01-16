@@ -69,14 +69,7 @@ body, html {
 	font-weight: 400;
 }
 
-#marketplace_header {
-	position: relative;
-	text-align:center;
-	color:#FFF;
-	font-family: 'Lato';
-    font-size: 35pt;
-	font-weight: 400;
-}
+
 
 #logo {
 	position: relative;
@@ -146,7 +139,7 @@ body, html {
     width: 9.4em;
     padding: 0.1em;
     padding-right: 0.4em;
-    text-align: right;
+    text-align: center;
     margin-top: 3em;
 	background-image:url("../images/Background/Pinnwand.png");
     font-size: 22pt;
