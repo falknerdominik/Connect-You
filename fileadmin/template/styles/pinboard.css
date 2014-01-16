@@ -137,6 +137,7 @@ body, html {
 	border-top: 4px solid #9b59b6;
 	border-right: 4px solid #9b59b6;
 	border-bottom: 4px solid #9b59b6;
+	
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
