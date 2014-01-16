@@ -14,7 +14,7 @@
  * Allgemein
 *****************/
 body, html {
-     height: 100%;
+    height: 100%;
     margin: 0;
     padding: 0;
     
@@ -23,45 +23,6 @@ body, html {
 	background-repeat:repeat;
 	
 }
-/*****************
- * Menü-Links
-*****************/
-#widgetmenu {
-    position: absolute;
-    height: 100%;
-    width: 16em;
-    background-color: grey;
-    left: -15.8em;
-}
-#aufklappen {
-    width: 9.4em;
-    padding: 0.1em;
-    padding-right: 0.4em;
-    text-align: right;
-    margin-top: 3em;
-    background-color: grey;
-    font-size: 22pt;
-}
-#aufklappen i {
-    float: right;
-    margin-left: 1em;
-    cursor: pointer;
-}
-#widgetmenu ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-#widgetmenu ul li {
-    width: 80%;
-    text-align: center;
-    margin: 0 auto;
-    border: 1px solid blue;
-    height: 4em;
-    cursor: pointer;
-}
-
-
 /*****************
  * Top-Header//Diksn
 *****************/
@@ -162,6 +123,45 @@ body, html {
 #acc_logout {
 	margin-left:10px;
 }
+/*****************
+ * Menü-Links
+*****************/
+#widgetmenu {
+    position: absolute;
+    height: 100%;
+    width: 16em;
+    background-color: grey;
+    left: -15.8em;
+}
+#aufklappen {
+    width: 9.4em;
+    padding: 0.1em;
+    padding-right: 0.4em;
+    text-align: right;
+    margin-top: 3em;
+    background-color: grey;
+    font-size: 22pt;
+}
+#aufklappen i {
+    float: right;
+    margin-left: 1em;
+    cursor: pointer;
+}
+#widgetmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#widgetmenu ul li {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid blue;
+    height: 4em;
+    cursor: pointer;
+}
+
+
 
 /*****************
  * Menü-Oben Vale 
