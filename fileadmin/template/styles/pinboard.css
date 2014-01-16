@@ -29,7 +29,7 @@ body, html {
     height: 100%;
     width: 16em;
     background-color: grey;
-    left: 10em;
+    left: -10em;
 }
 #aufklappen {
     width: 9.4em;
