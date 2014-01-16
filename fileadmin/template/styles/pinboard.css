@@ -183,6 +183,10 @@ body, html {
     width: 100%;
     margin-top: 2.1em;
 	
+	color:#FFF;
+    font-size: 22pt;
+	text-align: center;
+	
 	border-top: 2px solid #9b59b6;
 	border-bottom: 2px solid #9b59b6;
 	background-image:url("../images/Background/Pinnwand.png");
