@@ -62,7 +62,12 @@ body, html {
     -moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
     box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 }
-#top 
+#top a:first-child {
+    float: left;
+}
+#logo {
+    float: left;
+}
 /*****************
  * Content
 *****************/
