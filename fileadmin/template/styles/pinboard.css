@@ -25,7 +25,8 @@ body, html {
  * Menü-Links
 *****************/
 #widgetmenu {
-    
+    position: absolute;
+    top: 4em;
 }
 /*****************
  * Menü-Oben
