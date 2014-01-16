@@ -13,4 +13,10 @@ window.onload = function () {
             left: "-15.8em"
         }, 300);
     });
+
+    $(function () {
+        $("#dragCalender").click(function () {
+            $("#content").append("<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Kalender <i class='remove glyphicon glyphicon-remove'></i> </div ><div class='panel-body'>");
+        });
+    });
 }

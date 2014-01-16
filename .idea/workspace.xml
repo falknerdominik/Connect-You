@@ -44,7 +44,16 @@
       <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="24" selection-start="291" selection-end="291" vertical-scroll-proportion="0.3264" vertical-offset="0" max-vertical-offset="625">
+            <state line="20" column="7" selection-start="636" selection-end="636" vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1241">
               <folding />
             </state>
           </provider>
@@ -81,9 +90,9 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js" />
-        <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
+        <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
       </list>
     </option>
   </component>
@@ -595,11 +604,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/FormFields.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.5735294" vertical-offset="0" max-vertical-offset="680" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/Properties.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704" />
@@ -680,9 +684,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="291" selection-end="291" vertical-scroll-proportion="0.3264" vertical-offset="0" max-vertical-offset="625">
+        <state line="20" column="7" selection-start="636" selection-end="636" vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
