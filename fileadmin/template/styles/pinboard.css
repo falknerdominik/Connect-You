@@ -38,8 +38,8 @@ body, html {
 #top h1 {
     position: absolute;
     left: 41%;
+    top: 1em;
     right: 41%;
-    margin-top: 0.4em;
     width: 18%;
     text-align: center;
     color: white;
