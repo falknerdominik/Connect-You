@@ -32,7 +32,6 @@ body, html {
 }
 #aufklappen {
     width: 12em;
-    float: left;
     text-align: right;
     margin-top: 6em;
     background-color: grey;
