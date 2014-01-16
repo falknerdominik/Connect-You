@@ -35,7 +35,7 @@
       <file leaf-file-name="pinboard.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="19" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.4896" vertical-offset="867" max-vertical-offset="1666">
+            <state line="72" column="16" selection-start="1413" selection-end="1413" vertical-scroll-proportion="0.5712" vertical-offset="867" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
-        <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
       </list>
     </option>
   </component>
@@ -709,7 +709,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="19" selection-start="1380" selection-end="1380" vertical-scroll-proportion="0.4896" vertical-offset="867" max-vertical-offset="1666">
+        <state line="72" column="16" selection-start="1413" selection-end="1413" vertical-scroll-proportion="0.5712" vertical-offset="867" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
