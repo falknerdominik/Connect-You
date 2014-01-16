@@ -141,8 +141,8 @@ body, html {
 #aufklappen {
 	position:relative;
 	color:#FFF;
-	height: 2.5em;
-    width: 9.4em;
+	height: 1.4em;
+    width: auto;
     padding: 0.1em;
     padding-right: 0.4em;
     text-align: center;
