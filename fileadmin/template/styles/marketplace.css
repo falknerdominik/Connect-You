@@ -163,6 +163,17 @@ ul {
 	width:1px;
 	border-left:1px dotted #666666;
 	margin-left: -2em;
+	margin-top: 5em;
+}
+
+#row2l {
+	position:absolute;
+	height: 60%;
+	width:1px;
+	border-left:1px dotted #666666;
+	margin-left: -4em;
+	margin-top: 10em;
+	
 }
 
 #projectnavigation  a{
