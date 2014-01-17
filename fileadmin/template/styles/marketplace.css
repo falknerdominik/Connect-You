@@ -176,6 +176,16 @@ ul {
 	
 }
 
+#row3l {
+	position:absolute;
+	height: 60%;
+	width:1px;
+	border-left:1px dotted #666666;
+	margin-left: -6em;
+	margin-top: 15em;
+	
+}
+
 #projectnavigation  a{
 	color: grey;
 	font-size: 15px;
