@@ -158,7 +158,7 @@ ul {
 	
 }
 #row1l {
-	position:relative;
+	position:absolute;
 	height: 80%;
 	width:1px;
 	border:1px dotted #666666;
