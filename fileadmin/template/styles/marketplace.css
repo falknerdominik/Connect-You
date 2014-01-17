@@ -265,6 +265,7 @@ hr{
     margin-top: -0.8em;
 	margin-left: 1.2em;
 	border: 4px solid lightgrey;
+	width: 50%;
 }
 #projects {
     text-align: center;
