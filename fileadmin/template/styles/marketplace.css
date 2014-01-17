@@ -273,7 +273,7 @@ hr {
 }
 #projects .csc-default div img {
     border-radius: 50px;
-	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7), 3px 4px 7px rgba(0,0,0,.7);
 	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 }
