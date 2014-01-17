@@ -284,6 +284,9 @@ hr {
 	text-align: justify;
 	
 }
+#projects .csc-default h3 {
+	padding: 2%;
+}
 #projects .csc-default div p, h1,h5 {
     margin: 0;
     padding: 0;
