@@ -265,7 +265,6 @@ hr {
 	border: 4px solid lightgrey;
 	width: 70%;
 	margin: 0 auto;
-	font-family: 'Lato';
 }
 #projects {
     text-align: center;
@@ -282,6 +281,7 @@ hr {
 #projects .csc-default div p, h1,h5 {
     margin: 0;
     padding: 0;
+	font-family: 'Lato';
 }
 #projects .csc-default div p a{
     color: white;
