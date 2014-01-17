@@ -260,6 +260,11 @@ hr {
 	border: 1px solid;
     border-color: #3498db !important;
 }
+#editbar {
+	float: right;
+	width: 3%;
+	height: 5%;
+}
 #projects .csc-default div {
     background: white;
 	border: 4px solid lightgrey;
@@ -303,11 +308,7 @@ hr {
 	font-weight: 300;
 	margin-bottom: 3%;
 }
-#editbar {
-	float: right;
-	width: 3%;
-	height: 5%;
-}
+
 #projects .csc-default div p a{
     color: white;
     text-decoration: none;
