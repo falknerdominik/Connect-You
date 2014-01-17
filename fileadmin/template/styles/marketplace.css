@@ -130,23 +130,12 @@ ul {
 
 
 
-
-
-
-
-
-
-
-
-
-
-	
-
 /*****************
  * Projektübersicht // Diksn
 *****************/
 
 #projects {
+	padding-left: 5%;
 	overflow:visible;
 	position:relative;
     width: 66%;
