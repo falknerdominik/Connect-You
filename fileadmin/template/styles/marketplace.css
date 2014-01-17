@@ -281,6 +281,7 @@ hr {
 }
 #beschreibung {
 	font-size: 1em;
+	text-align: left;
 }
 #projects .csc-default div p, h1,h5 {
     margin: 0;
