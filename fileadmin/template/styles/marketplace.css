@@ -147,6 +147,7 @@ ul {
 *****************/
 
 #projects {
+	overflow:visible;
 	position:relative;
     width: 66%;
     margin: 0 auto;
@@ -155,6 +156,12 @@ ul {
 	border-left: 1px dotted #666666;
 	border-right:  1px dotted #666666;
 	
+}
+#row1l {
+	position:relative;
+	height: 80%;
+	width:1px;
+	border:1px dotted #666666;
 }
 
 #projectnavigation  a{
