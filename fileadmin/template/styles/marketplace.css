@@ -273,9 +273,9 @@ hr {
 }
 #projects .csc-default div img {
     border-radius: 50px;
--webkit-box-shadow: 2px 0px 40px 0px rgba(76, 186, 211, 1);
--moz-box-shadow:    2px 0px 40px 0px rgba(76, 186, 211, 1);
-box-shadow:         2px 0px 40px 0px rgba(76, 186, 211, 1);
+-webkit-box-shadow: 2px 0px 30px 0px rgba(76, 186, 211, 1);
+-moz-box-shadow:    2px 0px 30px 0px rgba(76, 186, 211, 1);
+box-shadow:         2px 0px 30px 0px rgba(76, 186, 211, 1);
 }
 #projects .csc-default div p, h1,h5 {
     margin: 0;
