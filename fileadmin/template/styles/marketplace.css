@@ -303,7 +303,9 @@ hr {
 	font-weight: 300;
 	margin-bottom: 3%;
 }
-
+#editbar {
+	float: right;
+}
 #projects .csc-default div p a{
     color: white;
     text-decoration: none;
