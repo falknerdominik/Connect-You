@@ -305,6 +305,8 @@ hr {
 }
 #editbar {
 	float: right;
+	width: auto;
+	height: auto;
 }
 #projects .csc-default div p a{
     color: white;
