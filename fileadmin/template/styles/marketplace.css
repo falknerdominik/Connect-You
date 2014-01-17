@@ -265,6 +265,7 @@ hr {
 	border: 4px solid lightgrey;
 	width: 70%;
 	margin: 0 auto;
+	font-family: 'Lato';
 }
 #projects {
     text-align: center;
