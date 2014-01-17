@@ -279,7 +279,7 @@ hr {
 	margin-top: -6%;
 	margin-bottom: 3%;
 }
-#beschreibung {
+#beschreibung, #anforderungen {
 	font-size: 1em;
 	text-align: justify;
 	
