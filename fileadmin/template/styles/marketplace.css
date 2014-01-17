@@ -256,8 +256,8 @@ hr {
 /****
 *** PROJEKT NEU - FALKNER
 ****/
-hr{
-    border-color: black !important;
+#projects hr{
+    border-color: #3498db !important;
 }
 #projects .csc-default div {
     background: white;
