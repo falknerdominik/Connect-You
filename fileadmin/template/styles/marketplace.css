@@ -161,8 +161,8 @@ ul {
 	position:absolute;
 	height: 80%;
 	width:1px;
-	border:1px dotted #666666;
-	margin-left: 56%;
+	border-left:1px dotted #666666;
+	margin-left: 25%;
 }
 
 #projectnavigation  a{
