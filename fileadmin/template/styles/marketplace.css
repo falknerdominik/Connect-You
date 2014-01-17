@@ -265,6 +265,11 @@ hr {
 	width: 3%;
 	height: 5%;
 }
+#editbar img{
+	float: right;
+	width: 3%;
+	height: 5%;
+}
 #projects .csc-default div {
     background: white;
 	border: 4px solid lightgrey;
