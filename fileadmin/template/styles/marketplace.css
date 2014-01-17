@@ -158,7 +158,7 @@ ul {
 	
 }
 #row1l {
-	position:relative;
+	position:absolute;
 	height: 80%;
 	width:1px;
 	border-left:1px dotted #666666;
@@ -167,7 +167,7 @@ ul {
 }
 
 #row2l {
-	position:relative;
+	position:absolute;
 	height: 60%;
 	width:1px;
 	border-left:1px dotted #666666;
@@ -177,7 +177,7 @@ ul {
 }
 
 #row3l {
-	position:relative;
+	position:absolute;
 	height: 40%;
 	width:1px;
 	border-left:1px dotted #666666;
@@ -187,7 +187,7 @@ ul {
 }
 
 #row4l {
-	position:relative;
+	position:absolute;
 	height: 20%;
 	width:1px;
 	border-left:1px dotted #666666;
@@ -195,8 +195,8 @@ ul {
 	margin-top: 20em;
 	
 }
-#row5l {
-	position:relative;
+#row4l {
+	position:absolute;
 	height: 5%;
 	width:1px;
 	border-left:1px dotted #666666;
