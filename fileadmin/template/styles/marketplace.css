@@ -297,6 +297,11 @@ hr {
 	font-weight: 300;
 	font-size: 3em;
 }
+#projects .csc-default h6 {
+	font-family: 'Lato';
+	font-size: 3em;
+	font-weight: 300;
+}
 #projects .csc-default div p a{
     color: white;
     text-decoration: none;
