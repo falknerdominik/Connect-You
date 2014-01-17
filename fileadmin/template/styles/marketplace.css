@@ -260,16 +260,6 @@ hr {
 	border: 1px solid;
     border-color: #3498db !important;
 }
-#editbar {
-	float: right;
-	width: 3%;
-	height: 5%;
-}
-#editbar img{
-  display: block;
-  margin: right;
-  
-}
 #projects .csc-default div {
     background: white;
 	border: 4px solid lightgrey;
