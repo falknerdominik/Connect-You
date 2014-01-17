@@ -66,6 +66,10 @@ ul {
 	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	
+	
+}
+
+#tilefield p {
 	text-align:center;
 	color:#FFF;
 	font-family: 'Lato';
