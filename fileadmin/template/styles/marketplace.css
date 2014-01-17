@@ -266,7 +266,7 @@ hr {
 	height: 5%;
 }
 #editbar img{
-  display: block;
+  display: inline;
 }
 #projects .csc-default div {
     background: white;
