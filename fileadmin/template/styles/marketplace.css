@@ -267,7 +267,7 @@ hr {
 }
 #editbar img{
   display: block;
-  float:right;
+  margin: right;
   
 }
 #projects .csc-default div {
