@@ -279,7 +279,7 @@ hr {
 	margin-top: -6%;
 	margin-bottom: 3%;
 }
-#beschreibung, #anforderungen {
+#beschreibung, #anforderungen, p {
 	font-size: 0.9em;
 	text-align: justify;
 	font-family: 'Lato';
@@ -302,6 +302,7 @@ hr {
 	font-size: 1.8em;
 	font-weight: 300;
 }
+
 #projects .csc-default div p a{
     color: white;
     text-decoration: none;
