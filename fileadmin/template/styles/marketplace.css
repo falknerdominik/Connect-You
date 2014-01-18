@@ -272,10 +272,14 @@ hr {
 
 }
 #projects .csc-default div img {
-    border-radius: 50px;
-	-webkit-box-shadow: 2px 0px 25px 0px rgba(41, 150, 171, 1);
-	-moz-box-shadow:    2px 0px 25px 0px rgba(41, 150, 171, 1);
-	box-shadow:         2px 0px 25px 0px rgba(41, 150, 171, 1);
+    
+	-webkit-border-radius: 88px/89px;
+	-moz-border-radius: 88px/89px;
+	border-radius: 88px/89px;
+	background-color: #fff;
+	-webkit-box-shadow: 0 0 40px rgba(52,152,219,.4);
+	-moz-box-shadow: 0 0 40px rgba(52,152,219,.4);
+	box-shadow: 0 0 40px rgba(52,152,219,.4);x 25px 0px rgba(41, 150, 171, 1);
 	margin-top: -6%;
 	margin-bottom: 3%;
 }
