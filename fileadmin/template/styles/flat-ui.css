@@ -1013,12 +1013,12 @@ a.muted:focus {
   padding-right: 30px;
 }
 .btn.btn-primary {
-  background-color: #1abc9c;
+  background-color: #2980b9;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus,
 .btn-group:focus .btn.btn-primary.dropdown-toggle {
-  background-color: #48c9b0;
+  background-color: #3498db;
 }
 .btn.btn-primary:active,
 .btn-group.open .btn.btn-primary.dropdown-toggle,
@@ -1026,7 +1026,7 @@ a.muted:focus {
   background-color: #16a085;
 }
 .btn.btn-info {
-  background-color: #3498db;
+  background-color: #2980b9;
 }
 .btn.btn-info:hover,
 .btn.btn-info:focus,
