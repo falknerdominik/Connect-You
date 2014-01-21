@@ -199,7 +199,7 @@ hr {
 	box-shadow: 0 0 40px rgba(52,152,219,.4);x 25px 0px rgba(41, 150, 171, 1);
 	margin-top: -6%;
 	margin-bottom: 3%;
-	margin-top: 1%;
+	margin-top: 0.1%;
 }
 #beschreibung, #anforderungen {
 	font-size: 0.9em;
