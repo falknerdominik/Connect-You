@@ -32,9 +32,11 @@ Otherwise your changes will be overwritten the next time you save the extension 
 	
 	<f:if condition="{project.team}"><f:then>
 	<h3> Anforderungen </h3>
-		<p id="anforderungen"><f:render partial="Project/Properties" arguments="{project:team}" /></p>
-		
-		</f:then><f:else></f:else></f:if>
+		<p id="anforderungen"><f:render partial="Project/Properties" arguments="{project:project}" /></p>
+		</f:then>
+		<f:else>
+		</f:else>
+		</f:if>
 	
 	
 		
