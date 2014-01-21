@@ -2,3 +2,12 @@
 <hr />
 <h6>{project.type}</h6>
 <p>{project.description}</p>
+
+<f:if condition="{project.team}"><f:then>
+	<h3> Teammitglieder </h3>
+		<p id="anforderungen"><f:render partial="Project/Properties" arguments="{project:project}" /></p>
+	</f:then>
+		
+	<f:else>
+	</f:else>
+</f:if>
