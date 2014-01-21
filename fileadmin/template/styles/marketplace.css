@@ -179,7 +179,8 @@ hr {
 #projects .csc-default div {
     background: white;
 	border: 2px solid #E0E0E0;
-	width: 70%;
+	width: 90%;
+	margin-bottom: 10%;
 	margin: 0 auto;
 	padding: 6%;
 }
