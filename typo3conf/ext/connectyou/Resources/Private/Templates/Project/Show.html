@@ -30,11 +30,13 @@ Otherwise your changes will be overwritten the next time you save the extension 
 		Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. 
 		»Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich </p>
 	
-	<f:if(condition: '{rank} > 100', then: 'rank is > 100', else: 'rank is <= 100')>
-	<f:if condition=“somecondition“><f:then>...</f:then><f:else>...</f:else></f:if>
-	
+	<f:if condition="{project.team}"><f:then>
 	<h3> Anforderungen </h3>
 		<p id="anforderungen"><f:render partial="Project/Properties" arguments="{project:team}" /></p>
+		
+		</f:then><f:else></f:else></f:if>
+	
+	
 		
 		<f:link.action action="list">Zurück zur Liste</f:link.action><br />
 </div>
