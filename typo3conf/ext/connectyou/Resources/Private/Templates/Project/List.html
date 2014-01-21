@@ -16,12 +16,16 @@ Otherwise your changes will be overwritten the next time you save the extension 
     <f:flashMessages />
     <f:for each="{projects}" as="project">
         <div class="col-md-2 col-md-offset-1">
-            <img src="#" alt="projectIMG" />
+            <img src="http://placehold.it/100x100" alt="projectIMG" />
 			<h4>{project.name}</h4>
             <hr />
 			<h6>{project.type}</h6>
             <p><f:link.action action="show" class="btn btn-large btn-block btn-primary" arguments="{project : project}">Beschreibung</f:link.action></p>
-            <span id="delete"><f:link.action action="delete" arguments="{project : project}">x</f:link.action></span>
+            <span id="delete">
+            	<f:link.action action="delete" arguments="{project : project}">
+                	<f:image src="EXT:connectyou/Resources/Public/Img/MP/Header_logo_weis.png" alt='CY' />
+				</f:link.action>
+            </span>
             <span id="edit"><f:link.action action="edit" arguments="{project : project}">e</f:link.action></span>
 
         </div>
