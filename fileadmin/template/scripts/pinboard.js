@@ -48,11 +48,6 @@ window.onload = function () {
         });
     });
 
-    $(document).on('click', '.remove', function (e) {
-        e.preventDefault();
-        $(this).closest('.deletewidget').remove();
-        return false;
-    });
 
 alert("HI");
 }
