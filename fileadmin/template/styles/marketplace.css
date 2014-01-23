@@ -272,7 +272,7 @@ input[type="text"]{
 	border: 2px solid #E0E0E0;
 	width: 60% !important;
 	padding: 2%;
-	margin: 0 auto;
+	margin: 0 auto !important;
 }
 
 #beschreibung {
