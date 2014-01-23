@@ -72,7 +72,7 @@ class ProjectController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControll
 	public function showAction(\TYPO3\Connectyou\Domain\Model\Project $project) {
         # Das Projekt zu Fluid weitergeben
 		$this->view->assign('project', $project);
-		\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
+		# \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($project);
 	}
 
 	/**
