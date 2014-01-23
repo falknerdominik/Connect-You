@@ -51,6 +51,7 @@ window.onload = function () {
     $(document).on('click', '.remove', function (e) {
         e.preventDefault();
         $(this).closest('.paneld').remove();
+        alert("HI");
         return false;
     });
 }
