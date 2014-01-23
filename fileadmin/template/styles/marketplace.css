@@ -268,9 +268,10 @@ input[type="text"]{
 }
 
 #show{
-    background: white;
-	border: 2px solid #E0E0E0;
+    background: white !important;
+	border: 2px solid #E0E0E0 !important;
 	width: 60% !important;
+	height: 60% !important;
 	padding: 2%;
 	margin: 0 auto !important;
 }
