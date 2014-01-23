@@ -49,8 +49,8 @@ window.onload = function () {
     });
 
     $(function () {
-        $("i").click(function () {
-            alert("I");
+        $(".remove").click(function () {
+            $(".remove").closest(".panel").remove();
         });
     });
 
