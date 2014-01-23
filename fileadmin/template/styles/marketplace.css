@@ -267,7 +267,7 @@ input[type="text"]{
     border-color: #3498db !important;
 }
 
-#show {
+#show div {
     background: white;
 	border: 2px solid #E0E0E0;
 	width: 60%;
