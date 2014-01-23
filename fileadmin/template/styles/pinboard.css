@@ -133,7 +133,7 @@ body, html {
     width: 16em;
 	background-image:url("../images/Background/Pinnwand.png");
     left: -15.8em;
-	
+	z-index: 2;
 	border-top: 4px solid #9b59b6;
 	border-right: 4px solid #9b59b6;
 	border-bottom: 4px solid #9b59b6;
