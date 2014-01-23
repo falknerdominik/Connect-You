@@ -275,7 +275,7 @@ input[type="text"]{
 	margin: 0 auto;
 }
 
-#beschreibung, #anforderungen {
+#beschreibung {
 	font-size: 0.9em;
 	text-align: justify;
 	font-family: 'Lato';
