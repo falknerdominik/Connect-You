@@ -54,7 +54,5 @@ window.onload = function () {
         return false;
     });
 
-    $(document).on('click', '.remove', function(){
-        alert("HG");
-    });
+alert("HI");
 }
