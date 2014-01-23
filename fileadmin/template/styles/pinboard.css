@@ -310,3 +310,12 @@ body, html {
     height: 25em;
     }
 
+
+/*****************
+ * WIDGETS
+*****************/
+
+.remove {
+    float: right;
+    cursor: pointer;
+}
