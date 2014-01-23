@@ -276,7 +276,7 @@ input[type="text"]{
 	margin: 0 auto !important;
 }
 
-#beschreibung {
+#beschreibung, #team{
 	font-size: 0.9em;
 	text-align: justify;
 	font-family: 'Lato';
