@@ -53,4 +53,8 @@ window.onload = function () {
         $(this).closest('.deletewidget').remove();
         return false;
     });
+
+    $(document).on('click', '.remove' function()) {
+        alert("HG");
+    }
 }
