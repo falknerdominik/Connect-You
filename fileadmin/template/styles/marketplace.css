@@ -260,6 +260,48 @@ input[type="text"]{
 }
 
 /*****************
+ * Detail
+******************/
+#show hr{
+	border: 1px solid;
+    border-color: #3498db !important;
+}
+
+#show div {
+    background: white;
+	border: 2px solid #E0E0E0;
+	width: 30%;
+	margin-left: 3%;
+	padding: 2%;
+}
+
+#beschreibung, #anforderungen {
+	font-size: 0.9em;
+	text-align: justify;
+	font-family: 'Lato';
+	line-height: 1.8em;
+}
+#show h3 {
+	margin-top: 6%;
+	margin-bottom: 2%;
+	font-family: 'Lato';
+	font-weight: 300;
+}
+#show h1,h5 {
+    margin: 0;
+    padding: 0;
+	font-family: 'Lato';
+	font-weight: 300;
+	font-size: 3em;
+}
+#show h6 {
+	font-family: 'Lato';
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-bottom: 3%;
+}
+
+/*****************
  * Absolute
 ******************/
 
