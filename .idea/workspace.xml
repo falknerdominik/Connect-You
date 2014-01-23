@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinboard.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.4215148" vertical-offset="313" max-vertical-offset="1224">
+            <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-14.769231" vertical-offset="313" max-vertical-offset="1224">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
@@ -36,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinboard.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="43" selection-start="1319" selection-end="1329" vertical-scroll-proportion="0.0" vertical-offset="202" max-vertical-offset="1139">
+            <state line="65" column="0" selection-start="79" selection-end="1656" vertical-scroll-proportion="0.89114195" vertical-offset="270" max-vertical-offset="1207">
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
-        <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
+        <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
       </list>
     </option>
   </component>
@@ -768,21 +768,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="43" selection-start="1319" selection-end="1329" vertical-scroll-proportion="0.0" vertical-offset="202" max-vertical-offset="1139">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.4215148" vertical-offset="313" max-vertical-offset="1224">
+        <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-14.769231" vertical-offset="313" max-vertical-offset="1224">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="0" selection-start="79" selection-end="1656" vertical-scroll-proportion="0.89114195" vertical-offset="270" max-vertical-offset="1207">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -59,4 +59,8 @@ window.onload = function () {
         $( "#content" ).disableSelection();
     });
 
+    $(".panel").click(function(){
+        alert("HUI");
+    });
+
 }
