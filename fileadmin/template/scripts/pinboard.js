@@ -54,5 +54,9 @@ window.onload = function () {
         });
     });
 
+    $(function() {
+        $( "#content" ).sortable();
+        $( "#content" ).disableSelection();
+    });
 
 }
