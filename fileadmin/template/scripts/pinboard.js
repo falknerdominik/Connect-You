@@ -44,7 +44,7 @@ window.onload = function () {
     });
     $(function () {
         $("#milestone").click(function () {
-            $("#content").append("<div class='deletewidget panel panel-primary col-md-3 col-md-offset-1' ><div class='panel-heading' > Milestone <i class='remove'>X</i> </div ><div class='panel-body'>");
+            $("#content").append(widgets[2]);
         });
     });
 
