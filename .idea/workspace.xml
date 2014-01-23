@@ -35,7 +35,7 @@
       <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="20" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.8367129" vertical-offset="202" max-vertical-offset="1139">
+            <state line="52" column="18" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.72785485" vertical-offset="202" max-vertical-offset="1139">
               <folding />
             </state>
           </provider>
@@ -757,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="10" selection-start="650" selection-end="650" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="799">
@@ -771,9 +764,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="20" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.8367129" vertical-offset="202" max-vertical-offset="1139">
+        <state line="52" column="18" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.72785485" vertical-offset="202" max-vertical-offset="1139">
           <folding />
         </state>
       </provider>

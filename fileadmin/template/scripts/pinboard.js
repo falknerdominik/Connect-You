@@ -50,7 +50,7 @@ window.onload = function () {
 
     $(function () {
         $(".remove").click(function () {
-            $(".remove").closest(".panel").remove();
+            $(this).closest(".panel").remove();
         });
     });
 
