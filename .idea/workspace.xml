@@ -23,19 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pinboard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="10" selection-start="650" selection-end="650" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="799">
-              <folding />
+            <state line="41" column="28" selection-start="1105" selection-end="1111" vertical-scroll-proportion="0.7650933" vertical-offset="0" max-vertical-offset="952">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pinboard.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="43" selection-start="1319" selection-end="1329" vertical-scroll-proportion="0.6189968" vertical-offset="202" max-vertical-offset="1139">
+            <state line="46" column="43" selection-start="1319" selection-end="1329" vertical-scroll-proportion="0.0" vertical-offset="202" max-vertical-offset="1139">
               <folding />
             </state>
           </provider>
@@ -90,9 +92,9 @@
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Configuration/ExtensionBuilder/settings.yaml" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinnboard.js" />
-        <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/pinboard.css" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
       </list>
     </option>
   </component>
@@ -757,13 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="10" selection-start="650" selection-end="650" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1088">
@@ -773,8 +768,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="43" selection-start="1319" selection-end="1329" vertical-scroll-proportion="0.6189968" vertical-offset="202" max-vertical-offset="1139">
+        <state line="46" column="43" selection-start="1319" selection-end="1329" vertical-scroll-proportion="0.0" vertical-offset="202" max-vertical-offset="1139">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="28" selection-start="1105" selection-end="1111" vertical-scroll-proportion="0.7650933" vertical-offset="0" max-vertical-offset="952">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
