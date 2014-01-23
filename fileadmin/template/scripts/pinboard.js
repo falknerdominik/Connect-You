@@ -50,7 +50,7 @@ window.onload = function () {
 
     $(function () {
         $(".remove").click(function () {
-            $("#content").append(widgets[2]);
+            alert("I");
         });
     });
 
