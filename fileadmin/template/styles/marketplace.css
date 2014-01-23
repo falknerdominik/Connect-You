@@ -270,8 +270,7 @@ input[type="text"]{
 #show div {
     background: white;
 	border: 2px solid #E0E0E0;
-	width: 30%;
-	margin-left: 3%;
+	width: 60%;
 	padding: 2%;
 	margin: 0 auto;
 }
