@@ -49,7 +49,7 @@ window.onload = function () {
     });
 
     $(function () {
-        $(".remove").click(function () {
+        $("i").click(function () {
             alert("I");
         });
     });
