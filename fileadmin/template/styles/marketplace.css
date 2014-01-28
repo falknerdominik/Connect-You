@@ -233,7 +233,8 @@ hr {
 }
 
 p {
-	font-size: 1em !important;
+	font-size: 1em;
+	
 }
 .csc-default:first-child{
     margin: 0 !important;
