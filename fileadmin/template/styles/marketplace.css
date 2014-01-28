@@ -184,7 +184,6 @@ hr {
 	height: 100%;
 	margin-left: 3%;
 	padding: 1%;
-	font-size: 1px;
 }
 
 #projects .csc-default div:hover {
@@ -192,7 +191,7 @@ hr {
 }
 #projects {
     text-align: center;
-
+		font-size: 1em;
 }
 #projects .csc-default div img {
 	-webkit-border-radius: 88px/89px;
