@@ -243,9 +243,9 @@ hr {
 }
 
 #projectteaser {
-	font-family: 'Lato';
-	font-size: 1em;
-	text-align: justify;
+	font-family: 'Lato' !important;
+	font-size: 1em !important;
+	text-align: justify !important;
 }
 
 /*****************
