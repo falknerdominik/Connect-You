@@ -9,12 +9,11 @@
 			<f:render partial="Project/Properties" arguments="{project:project}" />
 
             <p><f:link.action action="show" arguments="{project : project}"> >> Mehr</f:link.action></p>
-            <span id="delete">
+            <span class="glyphicon glyphicon-trash">
             	<f:link.action action="delete" arguments="{project : project}">
-                	<f:image src='connectyou/Resources/Public/Img/MP/Header_logo_weis.png' alt='CY' />
 				</f:link.action>
             </span>
-            <span id="edit"><f:link.action action="edit">e</f:link.action></span>
+            <span id="edit"><f:link.action action="edit" arguments="{project : project}">e</f:link.action></span>
 
         </div>
     </f:for>
