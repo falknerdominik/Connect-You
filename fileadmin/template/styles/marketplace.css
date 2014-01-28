@@ -233,15 +233,6 @@ hr {
     margin: 0 !important;
 }
 
-#wrapper{
-    width: 70%;
-    margin: auto;
-}
-
-#wrapper .btn{
-    margin-top: 1em;
-}
-
 .half{
     width: 40%;
    margin: 0 auto;
