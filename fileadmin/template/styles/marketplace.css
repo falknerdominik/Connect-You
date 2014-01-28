@@ -201,12 +201,6 @@ hr {
 	margin-top: 0.1%;
 }
 
-#beschreibung, #anforderungen {
-	font-size: 0.9em;
-	text-align: justify;
-	font-family: 'Lato';
-	line-height: 1.8em;
-}
 #projects .csc-default h3 {
 	margin-top: 6%;
 	margin-bottom: 2%;
@@ -246,12 +240,6 @@ hr {
 
 #wrapper .btn{
     margin-top: 1em;
-}
-
-input[type="text"]{
-    margin-bottom: 0.2em;
-    width: 50%;
-    height: 2.5em;
 }
 
 .half{
@@ -312,6 +300,12 @@ input[type="text"]{
 	height: 100% !important;
 	padding: 2%;
 	margin: 0 auto !important;
+}
+
+input[type="text"]{
+    margin-bottom: 0.2em;
+    width: 50%;
+    height: 2.5em;
 }
 
 
