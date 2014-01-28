@@ -340,9 +340,9 @@ select[size] {
 ******************/
 
 #addProject{
-	width: 3%;
-	height: 3%;
-	border: 0px solid;
+	width: 3% !important;
+	height: 3% !important;
+	border: 0px solid !important;
     font-size: 40px;
     color: black;
     position: absolute;
