@@ -299,6 +299,12 @@ input[type="text"]{
     height: 2.5em !important;
 }
 
+label {
+  display: inline-block;
+  margin-bottom: 2%;
+  font-weight: bold;
+}
+
 #wrapper .btn{
     margin-top: 1% !important;
 	width: 40%;
