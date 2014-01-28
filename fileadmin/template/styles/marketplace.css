@@ -242,6 +242,12 @@ hr {
    margin: 0 auto;
 }
 
+#projectteaser {
+	font-family: 'Lato';
+	font-size: 1em;
+	text-align: justify;
+}
+
 /*****************
  * Detail
 ******************/
