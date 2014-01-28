@@ -238,6 +238,8 @@ hr {
 p {
 	font-size: 1em;
 	text-align: justify;
+	margin-top: 1%;
+	margin-bottom: 1%;
 	
 }
 .csc-default:first-child{
