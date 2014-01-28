@@ -308,7 +308,7 @@ label {
 
 textarea {
   width: 85% !important;
-  width: 6em;
+  width: 50% !important;
   font-size: 1em;
   line-height: 24px;
   padding: 5px 11px;
