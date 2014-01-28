@@ -183,7 +183,7 @@ hr {
 	width: 21%;
 	height: 30em;
 	margin-left: 3%;
-	padding: 2%;
+	padding: 1%;
 }
 
 #projects .csc-default div:hover {
@@ -194,7 +194,6 @@ hr {
 
 }
 #projects .csc-default div img {
-    
 	-webkit-border-radius: 88px/89px;
 	-moz-border-radius: 88px/89px;
 	border-radius: 88px/89px;
@@ -204,7 +203,7 @@ hr {
 	box-shadow: 0 0 40px rgba(52,152,219,.4), x 25px 0px rgba(41, 150, 171, 1);
 	margin-top: -6%;
 	margin-bottom: 3%;
-	margin-top: 0.1%;
+	margin-top: 0.5%;
 }
 
 #projects .csc-default h3 {
