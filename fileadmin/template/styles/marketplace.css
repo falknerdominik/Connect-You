@@ -300,25 +300,26 @@ input[type="text"]{
 }
 
 label {
-  display: inline-block;
-  margin-bottom: 1.5%;
-  margin-top: 3%;
-  font-weight: bold;
+	display: inline-block;
+	margin-bottom: 1.5%;
+	margin-top: 3%;
+	font-weight: bold;
 }
 
 textarea {
-  width: 85% !important;
-  height: 10em !important;
-  font-size: 1em;
-  line-height: 24px;
-  padding: 5px 11px;
-  text-indent: 0;
+	width: 85% !important;
+	height: 10em !important;
+	font-size: 1em;
+	line-height: 24px;
+	padding: 5px 11px;
+	text-indent: 0;
 }
 
 select[multiple],
 select[size] {
-  height: 100%;
-  width: 40%;
+  
+	height: 8em;
+	width: 40%;
 }
 
 #wrapper .btn{
