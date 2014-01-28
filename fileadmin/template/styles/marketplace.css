@@ -315,6 +315,12 @@ textarea {
   text-indent: 0;
 }
 
+select[multiple],
+select[size] {
+  height: 100%;
+  width: 40%;
+}
+
 #wrapper .btn{
     margin-top: 4% !important;
 	margin-bottom: 4% !important;
