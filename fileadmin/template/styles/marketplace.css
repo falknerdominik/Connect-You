@@ -183,6 +183,10 @@ hr {
 	margin-left: 3%;
 	padding: 2%;
 }
+
+#projects .csc-default div:hover {
+	border: 2px solid #3498db;
+}
 #projects {
     text-align: center;
 
