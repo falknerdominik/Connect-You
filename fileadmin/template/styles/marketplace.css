@@ -175,6 +175,7 @@ hr {
 #projects hr{
 	border: 1px solid;
     border-color: #3498db !important;
+	width: 20%;
 }
 #projects .csc-default div {
     background: white;
