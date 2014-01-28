@@ -299,6 +299,10 @@ input[type="text"]{
     height: 2.5em;
 }
 
+#wrapper .btn{
+    margin-top: 1em;
+}
+
 
 /*****************
  * Absolute
