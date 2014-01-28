@@ -2858,15 +2858,6 @@ textarea,
 .uneditable-input {
   width: 192px;
 }
-textarea {
-  height: auto;
-  font-size: 14.994px;
-  /* 15px */
-
-  line-height: 24px;
-  padding: 5px 11px;
-  text-indent: 0;
-}
 .row-fluid textarea {
   height: auto;
   width: 100% !important;
