@@ -1886,11 +1886,6 @@ input[type="file"] {
   display: block;
 }
 
-select[multiple],
-select[size] {
-  height: auto;
-}
-
 select optgroup {
   font-family: inherit;
   font-size: inherit;
