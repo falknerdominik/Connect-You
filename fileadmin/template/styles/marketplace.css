@@ -193,6 +193,7 @@ hr {
 }
 #projects {
     text-align: center;
+	margin: 0 auto;
 }
 #projects .csc-default div img {
 	-webkit-border-radius: 88px/89px;
