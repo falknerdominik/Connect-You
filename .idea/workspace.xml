@@ -26,12 +26,8 @@
       <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-14.769231" vertical-offset="313" max-vertical-offset="1224">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-              </folding>
+            <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1080">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,16 +35,7 @@
       <file leaf-file-name="pinboard.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="31" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.8185699" vertical-offset="270" max-vertical-offset="1207">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1088">
+            <state line="61" column="31" selection-start="1622" selection-end="1622" vertical-scroll-proportion="1.3241678" vertical-offset="0" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -57,7 +44,7 @@
       <file leaf-file-name="pinboard.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2157" max-vertical-offset="5542">
+            <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="4890">
               <folding />
             </state>
           </provider>
@@ -102,10 +89,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -133,6 +119,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -621,7 +608,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -656,7 +642,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="827" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -664,7 +650,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19590957" sideWeight="0.67076504" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19583334" sideWeight="0.67076504" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -754,34 +740,23 @@
         <state line="25" column="0" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.62286687" vertical-offset="60" max-vertical-offset="646" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2157" max-vertical-offset="5542">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../Private Sachen/Widgets/Widgets/data/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-14.769231" vertical-offset="313" max-vertical-offset="1224">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-          </folding>
+        <state line="41" column="40" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1080">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="31" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.8185699" vertical-offset="270" max-vertical-offset="1207">
+        <state line="61" column="31" selection-start="1622" selection-end="1622" vertical-scroll-proportion="1.3241678" vertical-offset="0" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2157" max-vertical-offset="5542">
           <folding />
         </state>
       </provider>
