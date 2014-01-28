@@ -186,6 +186,7 @@ hr {
 	margin-right: 2%;
 	margin-bottom: 2%;
 	padding: 1%;
+	margin: 0 auto;
 }
 
 #projects .csc-default div:hover {
