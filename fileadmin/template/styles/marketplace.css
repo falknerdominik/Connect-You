@@ -224,6 +224,7 @@ hr {
     color: #3498db;
     text-decoration: none;
 	position: absolute;
+	bottom: 0px;
     width: 100%;
 	text-align: right;
 }
