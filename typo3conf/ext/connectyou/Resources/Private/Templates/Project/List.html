@@ -5,16 +5,18 @@
     <f:flashMessages />
     <f:for each="{projects}" as="project">
         <div class="col-md-2 col-md-offset-1">
-		<f:link.action action="show" arguments="{project : project}">
-            <img src="http://placehold.it/100x100" alt="projectIMG" />
-			<f:render partial="Project/Properties" arguments="{project:project}" />
+				<img src="http://placehold.it/100x100" alt="projectIMG" />
+				<f:render partial="Project/Properties" arguments="{project:project}" />
 
-            <p><f:link.action action="show" arguments="{project : project}"> >> Mehr</f:link.action></p>
-            <span id="delete">
-            	<f:link.action action="delete" arguments="{project : project}">X</f:link.action>
-            </span>
-            <span id="edit"><f:link.action action="edit" arguments="{project : project}">E</f:link.action></span>
-		</f:link.action>
+				<p><f:link.action action="show" arguments="{project : project}"> >> Mehr</f:link.action></p>
+				
+				<span id="delete">
+					<f:link.action action="delete" arguments="{project : project}">X</f:link.action>
+				</span>
+				
+				<span id="edit">
+					<f:link.action action="edit" arguments="{project : project}">E</f:link.action>
+				</span>
         </div>
     </f:for>
 
