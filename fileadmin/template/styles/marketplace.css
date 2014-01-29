@@ -224,10 +224,10 @@ hr {
     color: #3498db;
     text-decoration: none;
 	position: absolute;
-	bottom: 2px;
+	bottom: 4px;
     width: 100%;
 	text-align: right;
-	right: 2px;
+	right: 4px;
 }
 
 p {
