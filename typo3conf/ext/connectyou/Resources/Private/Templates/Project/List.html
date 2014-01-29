@@ -4,6 +4,7 @@
 
     <f:flashMessages />
     <f:for each="{projects}" as="project">
+    <f:link.action action="show" arguments="{project : project}">
         <div class="col-md-2 col-md-offset-1">
 				<img src="http://placehold.it/100x100" alt="projectIMG" />
 				<f:render partial="Project/Properties" arguments="{project:project}" />
@@ -18,6 +19,7 @@
 					<f:link.action action="edit" arguments="{project : project}">E</f:link.action>
 				</span>
         </div>
+    </f:link.action>
     </f:for>
 
 
