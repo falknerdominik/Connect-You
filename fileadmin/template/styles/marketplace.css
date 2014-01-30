@@ -390,7 +390,7 @@ select[size] {
 }
 
 #projects .csc-default div:hover #edit_img{
-	position:absolute, z-index: -1;
+	position:absolute;
 	
 	
 }
