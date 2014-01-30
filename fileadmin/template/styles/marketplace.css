@@ -129,7 +129,7 @@ ul {
 	position:relative;
     width: 66%;
     margin: 0 auto;
-	margin-top: 2%;
+	margin-top: 1em;
     height: 160em;
 	border-left: 1px dotted #666666;
 	border-right: 1px dotted #666666;
@@ -370,6 +370,7 @@ select[size] {
     right: 10px;
     width: 10px;
     height: 10px;
+	on-
 }
 
 #projects .csc-default div #edit{
