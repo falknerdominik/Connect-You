@@ -173,6 +173,7 @@ hr {
 	margin-right: 1.5%;
 	margin-bottom: 2%;
 	padding: 1%;
+	overflow-wrap: break-word;
 	
 }
 
