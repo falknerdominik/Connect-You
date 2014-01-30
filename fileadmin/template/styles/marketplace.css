@@ -81,13 +81,14 @@ ul {
 	width:auto;	
 	float: left;
 
-}	
+}
+	
 
 #logo img {
 	width:auto;
 	height: 90%;
+	
 	float:left;
-}
 
 #logo p {
 	position:relative;
