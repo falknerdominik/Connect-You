@@ -3,8 +3,8 @@
 <f:section name="main">
 
     <f:flashMessages />
+	<f:link.action action="show" arguments="{project : project}">
     <f:for each="{projects}" as="project">
-    <f:link.action action="show" arguments="{project : project}">
         <div class="col-md-2 col-md-offset-1">
 				<img src="http://placehold.it/100x100" alt="projectIMG" />
 				<f:render partial="Project/Properties" arguments="{project:project}" />
@@ -20,6 +20,6 @@
 				
 				
         </div>
-    </f:link.action>
     </f:for>
+	</f:link.action>
 </f:section>
