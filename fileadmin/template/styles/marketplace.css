@@ -389,13 +389,3 @@ select[size] {
     height: 10px;
 }
 
-#projects .csc-default div #edit_img{
-    display: block;
-    position: z-index: 0;
-    top: 10px;
-    left: 10px;
-    width: 10px;
-    height: 10px;
-}
-
-
