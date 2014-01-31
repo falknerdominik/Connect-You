@@ -138,14 +138,14 @@ ul {
 	padding-left: 0.5%;
 }
 
-#projectnavigation  a{
+#sidemenu  a{
 	color: grey;
 	font-size: 15px;
 	text-decoration:none;
 	text-align:center;
 }
 
-#projectnavigation {
+#sidemenu {
 	margin-left:25%;
 	margin-top: 0.5%;
 }
@@ -392,14 +392,14 @@ select[size] {
 TEST
 **********/
 
-projectnavigation {
+sidemenu {
     width: 960px;
 }
-projectnavigation ul {
+sidemenu ul {
     padding: 0px;
     margin: 0px;
 }
-projectnavigation ul:after {
+sidemenu ul:after {
     clear: both;
     content: " ";
     display: block;
@@ -407,36 +407,36 @@ projectnavigation ul:after {
     height: 0;
     visibility: hidden;
 }
-    projectnavigation ul,projectnavigation ul li{
+    sidemenu ul,sidemenu ul li{
     background-color: #FAFAFA;
 }
-    projectnavigation ul li {
+    sidemenu ul li {
     list-style: none;
     float:left;
 }
-projectnavigation ul li a {
+sidemenu ul li a {
     text-decoration: none;
     display: block;
     color: #333;
     padding: 14px 34px 14px 34px;
 }
-projectnavigation ul li:hover > ul {
+sidemenu ul li:hover > ul {
     visibility: visible;
 }
-projectnavigation ul li ul{
+sidemenu ul li ul{
     display: inline;
     visibility: hidden;
     position: absolute;
     padding:0px;
 }
-projectnavigation ul li ul li{
+sidemenu ul li ul li{
     float: none;
 }
-projectnavigation ul li ul li a:hover{
+sidemenu ul li ul li a:hover{
     color: #333;
 }
 
-projectnavigation ul {
+sidemenu ul {
     padding: 0px;
     margin: 0px;
  
@@ -444,12 +444,12 @@ projectnavigation ul {
     -moz-box-shadow: 2px 2px 2px #dfdfdf;
     -webkit-box-shadow: 2px 2px 2px #dfdfdf;
 }
-projectnavigation ul li {
+sidemenu ul li {
 list-style: none;
     float:left;
     border-right: 1px solid #dfdfdf;
 }
-projectnavigation ul li a {
+sidemenu ul li a {
     text-decoration: none;
     display: block;
     color: #333;
@@ -460,28 +460,28 @@ projectnavigation ul li a {
     -moz-transition: background 0.3 ease-out; /* firefox */
     -o-transition: background 0.3 ease-out; /* opera */
 }
-projectnavigation ul li.cat1:hover a, projectnavigation ul li.cat1:hover > ul li a  {
+sidemenu ul li.cat1:hover a, sidemenu ul li.cat1:hover > ul li a  {
     background-color: #E6DD00;
 }
-projectnavigation ul li.cat2:hover a, projectnavigation ul li.cat2:hover > ul li a  {
+sidemenu ul li.cat2:hover a, sidemenu ul li.cat2:hover > ul li a  {
     background-color: #8CB302;
 }
-projectnavigation ul li.cat3:hover a, projectnavigation ul li.cat3:hover > ul li a {
+sidemenu ul li.cat3:hover a, sidemenu ul li.cat3:hover > ul li a {
     background-color: #008C74;
 }
-projectnavigation ul li.cat4:hover a, projectnavigation ul li.cat4:hover > ul li a {
+sidemenu ul li.cat4:hover a, sidemenu ul li.cat4:hover > ul li a {
     background-color: #004C66;
 }
-projectnavigation ul li.cat5:hover a, projectnavigation ul li.cat5:hover > ul li a {
+sidemenu ul li.cat5:hover a, sidemenu ul li.cat5:hover > ul li a {
     background-color: #332B40;
 }
-projectnavigation ul li:hover > a {
+sidemenu ul li:hover > a {
     color: #FAFAFA;
 }
-projectnavigation ul li ul li a {
+sidemenu ul li ul li a {
     color: #FAFAFA;
 }
-projectnavigation ul li ul li a:hover{
+sidemenu ul li ul li a:hover{
     color: #333;
     background-color: #FAFAFA !important;
 }
