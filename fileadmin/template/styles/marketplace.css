@@ -138,14 +138,14 @@ ul {
 	padding-left: 0.5%;
 }
 
-#sidemenu  a{
+#projectnavigation  a{
 	color: grey;
 	font-size: 15px;
 	text-decoration:none;
 	text-align:center;
 }
 
-#sidemenu {
+#projectnavigation {
 	margin-left:25%;
 	margin-top: 0.5%;
 }
@@ -373,6 +373,7 @@ select[size] {
     right: 10px;
     width: 10px;
     height: 10px;
+	on-
 }
 
 #projects .csc-default div #edit{
@@ -386,103 +387,5 @@ select[size] {
     left: 10px;
     width: 10px;
     height: 10px;
-}
-
-/*************
-TEST
-**********/
-
-sidemenu {
-    width: 960px;
-}
-sidemenu ul {
-    padding: 0px;
-    margin: 0px;
-}
-sidemenu ul:after {
-    clear: both;
-    content: " ";
-    display: block;
-    font-size: 0;
-    height: 0;
-    visibility: hidden;
-}
-    sidemenu ul,sidemenu ul li{
-    background-color: #FAFAFA;
-}
-    sidemenu ul li {
-    list-style: none;
-    float:left;
-}
-sidemenu ul li a {
-    text-decoration: none;
-    display: block;
-    color: #333;
-    padding: 14px 34px 14px 34px;
-}
-sidemenu ul li:hover > ul {
-    visibility: visible;
-}
-sidemenu ul li ul{
-    display: inline;
-    visibility: hidden;
-    position: absolute;
-    padding:0px;
-}
-sidemenu ul li ul li{
-    float: none;
-}
-sidemenu ul li ul li a:hover{
-    color: #333;
-}
-
-sidemenu ul {
-    padding: 0px;
-    margin: 0px;
- 
-    box-shadow: 2px 2px 2px #dfdfdf;
-    -moz-box-shadow: 2px 2px 2px #dfdfdf;
-    -webkit-box-shadow: 2px 2px 2px #dfdfdf;
-}
-sidemenu ul li {
-list-style: none;
-    float:left;
-    border-right: 1px solid #dfdfdf;
-}
-sidemenu ul li a {
-    text-decoration: none;
-    display: block;
-    color: #333;
-    padding: 14px 34px 14px 34px;
- 
-    transition: background 0.3s ease-out; /* explorer 10 */
-    -webkit-transition: background 0.3s ease-out; /* chrome & safari */
-    -moz-transition: background 0.3 ease-out; /* firefox */
-    -o-transition: background 0.3 ease-out; /* opera */
-}
-sidemenu ul li.cat1:hover a, sidemenu ul li.cat1:hover > ul li a  {
-    background-color: #E6DD00;
-}
-sidemenu ul li.cat2:hover a, sidemenu ul li.cat2:hover > ul li a  {
-    background-color: #8CB302;
-}
-sidemenu ul li.cat3:hover a, sidemenu ul li.cat3:hover > ul li a {
-    background-color: #008C74;
-}
-sidemenu ul li.cat4:hover a, sidemenu ul li.cat4:hover > ul li a {
-    background-color: #004C66;
-}
-sidemenu ul li.cat5:hover a, sidemenu ul li.cat5:hover > ul li a {
-    background-color: #332B40;
-}
-sidemenu ul li:hover > a {
-    color: #FAFAFA;
-}
-sidemenu ul li ul li a {
-    color: #FAFAFA;
-}
-sidemenu ul li ul li a:hover{
-    color: #333;
-    background-color: #FAFAFA !important;
 }
 
