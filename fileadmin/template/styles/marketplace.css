@@ -523,7 +523,6 @@ select[size] {
 }
 #logo ul li, #sidemenuleft ul li{
 	list-style: none;
-    float:left;
 }
 #logo ul li a, #sidemenuleft ul li a {
     text-decoration: none;
