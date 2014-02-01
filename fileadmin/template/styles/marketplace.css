@@ -346,9 +346,9 @@ select[size] {
 	margin: 0 auto;
 }
 
-/*****************
+/********************
  * Footer - PENEDER
-******************/
+*********************/
 
 #footer {
 	bottom: 0;
@@ -389,9 +389,9 @@ select[size] {
 	float: left;
 }
 
-/*****************
+/**********************
  * Impressum - PENEDER
-******************/
+***********************/
 #impressum {
 	font-family: 'Lato';
     background: white;
@@ -437,6 +437,7 @@ select[size] {
 	text-align: justify;
 	line-height: 1.8em;
 }
+
 /*****************
  * Absolute
 ******************/
