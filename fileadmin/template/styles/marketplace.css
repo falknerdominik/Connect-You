@@ -369,6 +369,7 @@ select[size] {
 	margin-top:1.5em !important;
 	width: 100%;
 	margin: 0 auto;
+	float: left;
 }
 
 #impressum{
@@ -386,7 +387,7 @@ select[size] {
 }
 
 #footer p {
-	float: left;
+
 }
 
 /*****************
