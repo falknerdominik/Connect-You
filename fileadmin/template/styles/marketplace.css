@@ -371,6 +371,10 @@ select[size] {
 	margin: 0 auto;
 }
 
+#impressum{
+	margin-left: 1% !important;
+}
+
 #footer a {
 	text-decoration: underline;
 }
