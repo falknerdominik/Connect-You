@@ -367,11 +367,12 @@ select[size] {
 	color: white;
 	text-align: center;
 	margin-top:1.3em;
-	margin-left: 50%;
+
 }
 
 #footer p {
 	float: left;
+	margin-left: 30%;
 }
 
 /*****************
