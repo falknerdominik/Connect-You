@@ -483,7 +483,7 @@ select[size] {
     padding: 0px;
     margin: 0px;
 }
-#logo ul:after {
+#logo ul:after, #sidemenuleft ul:after{
     clear: both;
     content: " ";
     display: block;
@@ -492,11 +492,11 @@ select[size] {
     visibility: hidden;
 }
 
-#logo ul li {
+#logo ul li, #sidemenuleft ul li{
     list-style: none;
     float:left;
 }
-#logo ul li a {
+#logo ul li a, #sidemenuleft ul li a {
     text-decoration: none;
     display: block;
     color: #333;
