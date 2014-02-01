@@ -408,7 +408,7 @@ select[size] {
 	line-height: 1.8em;
 }
 
-#impressum h4 {
+#impressum h5 {
 	margin-top: 6%;
 	margin-bottom: 2%;
 	font-family: 'Lato';
@@ -423,7 +423,7 @@ select[size] {
 	font-size: 3em !important;
 }
 
-#impressum h6 {
+#impressum h4 {
 	font-family: 'Lato';
 	font-size: 1.8em;
 	font-weight: 300;
