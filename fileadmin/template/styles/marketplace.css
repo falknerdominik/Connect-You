@@ -539,7 +539,7 @@ select[size] {
 #logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a {
     background-image: url("../images/Background/Pinnwand.png");
 }
-#sidemenuleft ul li.cat3:hover a, #sidemenuleft ul li.cat3:hover > ul li a   {
+#sidemenuleft ul li.cat3:hover > ul li a   {
     background-image: url("../images/Background/Pinnwand.png");
 }
 
