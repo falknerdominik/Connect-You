@@ -376,6 +376,10 @@ select[size] {
 	text-decoration: none !important;
 }
 
+#flow3 {
+	margin-right: 0.2% !important;
+}
+
 #footer a {
 	text-decoration: underline;
 	margin-left: 0.2% !important;
@@ -383,7 +387,6 @@ select[size] {
 
 #footer p {
 	float: left;
-	margin-left: 0.2% !important;
 }
 
 /*****************
