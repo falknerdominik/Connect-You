@@ -503,12 +503,19 @@ select[size] {
 #logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
     visibility: visible;
 }
-#logo ul li ul, #sidemenuleft ul li ul{
+#logo ul li ul{
     display: inline;
     visibility: hidden;
     position: absolute;
     padding:0px;
 }
+
+#sidemenuleft ul li ul{
+    visibility: hidden;
+    position: absolute;
+    padding:0px;
+}
+
 #logo ul li ul li, #sidemenuleft ul li ul li{
     float: none;
 }
