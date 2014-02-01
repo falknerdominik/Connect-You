@@ -390,6 +390,16 @@ select[size] {
 }
 
 /*****************
+ * Impressum - PENEDER
+******************/
+#impressum {
+	height: 100%;
+    margin: 0;
+    padding: 0;
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
+}
+/*****************
  * Absolute
 ******************/
 #addProject{
