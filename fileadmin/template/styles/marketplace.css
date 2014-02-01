@@ -484,6 +484,7 @@ select[size] {
 }
 
 #logo ul li ul{
+    display: block;
     visibility: hidden;
     position: absolute;
     padding:0px;
