@@ -479,9 +479,7 @@ select[size] {
  * TEST
 ******************/
 
-#logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
-    visibility: visible;
-}
+
 #logo ul li ul{
     display: inline;
     visibility: hidden;
