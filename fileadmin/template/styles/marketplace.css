@@ -505,28 +505,28 @@ select[size] {
 #logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
     visibility: visible;
 }
-#logo ul li ul{
+#logo ul li ul, #sidemenuleft ul li ul{
     display: inline;
     visibility: hidden;
     position: absolute;
     padding:0px;
 }
-#logo ul li ul li{
+#logo ul li ul li, #sidemenuleft ul li ul li{
     float: none;
 }
-#logo ul li ul li a:hover{
+#logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
     color: white;
 }
 
-#logo ul {
+#logo ul, #sidemenuleft ul {
     padding: 0px;
     margin: 0px;
 }
-#logo ul li {
+#logo ul li, #sidemenuleft ul li{
 	list-style: none;
     float:left;
 }
-#logo ul li a {
+#logo ul li a, #sidemenuleft ul li a {
     text-decoration: none;
     display: block;
     color: #333;
@@ -537,13 +537,13 @@ select[size] {
     -moz-transition: background 0.3 ease-out; /* firefox */
     -o-transition: background 0.3 ease-out; /* opera */
 }
-#logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a  {
+#logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a, #sidemenuleft ul li.cat1:hover a, #sidemenuleft ul li.cat1:hover > ul li a  {
     background-image: url("../images/Background/Pinnwand.png");
 }
-#logo ul li.cat2:hover a, #logo ul li.cat2:hover > ul li a  {
+#logo ul li.cat2:hover a, #logo ul li.cat2:hover > ul li a, #sidemenuleft ul li.cat1:hover a, #sidemenuleft ul li.cat1:hover > ul li a   {
     background-color: red;
 }
 
-#logo ul li ul li a {
+#logo ul li ul li a, #sidemenuleft ul li ul li a {
     color: #FAFAFA;
 }
