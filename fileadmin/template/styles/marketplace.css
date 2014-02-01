@@ -372,10 +372,7 @@ select[size] {
 }
 
 #impressum{
-	color: white;
-	text-align: center;
-	width: 100%;
-	margin: 0 auto;
+	margin-left: 0.1% !important;
 }
 
 #footer a {
