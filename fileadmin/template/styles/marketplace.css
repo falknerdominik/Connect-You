@@ -90,6 +90,7 @@ ul {
 }
 
 #logo p {
+	font-family: 'Lato' !important;
 	position:relative;
 	text-align:center;
 	margin-top: 6.5%;
