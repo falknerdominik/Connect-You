@@ -484,7 +484,6 @@ select[size] {
 }
 
 #logo ul li ul{
-	font-family: 'Lato' !important;
 	margin-top: 14.9%;
 	margin-left: -2%;
     visibility: hidden;
@@ -506,7 +505,6 @@ select[size] {
 
 #logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
     color: white;
-	font-family: 'Lato' !important;
 }
 
 #logo ul li, #sidemenuleft ul li{
@@ -515,7 +513,6 @@ select[size] {
 }
 
 #logo ul li a, #sidemenuleft ul li a{
-	font-family: 'Lato' !important;
     text-decoration: none;
     display: block;
     color: white;
