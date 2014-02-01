@@ -423,6 +423,9 @@ select[size] {
 
 #impressum ul {
 	margin-left: 5%;
+	font-size: 0.9em;
+	text-align: justify;
+	line-height: 1.8em;
 }
 /*****************
  * Absolute
