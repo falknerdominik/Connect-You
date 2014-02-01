@@ -536,8 +536,6 @@ select[size] {
     display: block;
     color: white;
     padding: 14px 34px 11px 34px;
- 
-    transition: background 0.3s ease-out; /* explorer 10 */
 }
 
 #sidemenuleft ul li a {
@@ -545,8 +543,6 @@ select[size] {
     display: block;
     color: white;
     padding: 14px 34px 11px 34px;
- 
-    transition: background 0.3s ease-out; /* explorer 10 */
 }
 #logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a {
     background-image: url("../images/Background/Pinnwand.png");
