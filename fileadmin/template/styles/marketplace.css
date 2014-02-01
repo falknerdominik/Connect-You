@@ -369,10 +369,11 @@ select[size] {
 	margin-top:1.5em !important;
 	width: 100%;
 	margin: 0 auto;
+	margin-left: 0.2% !important;
 }
 
 #impressum{
-	margin-left: 0.2% !important;
+
 	text-decoration: none !important;
 }
 
