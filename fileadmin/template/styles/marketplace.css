@@ -522,22 +522,11 @@ select[size] {
 #logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
     color: white;
 }
-
-#logo ul, #sidemenuleft ul {
-    padding: 0px;
-    margin: 0px;
-}
-#logo ul li, #sidemenuleft ul li{
-	list-style: none;
-    float:left;
-}
 #logo ul li a{
     text-decoration: none;
     display: block;
     color: white;
     padding: 14px 34px 11px 34px;
- 
-    transition: background 0.3s ease-out; /* explorer 10 */
 }
 
 #sidemenuleft ul li a {
@@ -545,8 +534,6 @@ select[size] {
     display: block;
     color: white;
     padding: 14px 34px 11px 34px;
- 
-
 }
 #logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a {
     background-image: url("../images/Background/Pinnwand.png");
