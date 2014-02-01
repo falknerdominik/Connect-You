@@ -399,6 +399,7 @@ select[size] {
 	width: 60%;
 	padding: 2%;
 	margin: 0 auto;
+	text-align: center;
 }
 
 #impressum p{
