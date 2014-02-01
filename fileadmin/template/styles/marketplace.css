@@ -494,10 +494,8 @@ nav ul:after {
     height: 0;
     visibility: hidden;
 }
-    nav ul,nav ul li{
-    background-color: #FAFAFA;
-}
-    nav ul li {
+
+nav ul li {
     list-style: none;
     float:left;
 }
