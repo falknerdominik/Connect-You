@@ -75,6 +75,7 @@ ul {
 }
 
 #logo {
+	font-family: 'Lato' !important;
 	position: relative;
 	margin-left: 0.3%;
 	height:100%;
