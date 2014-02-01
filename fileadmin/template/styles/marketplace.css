@@ -522,6 +522,12 @@ select[size] {
 #logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
     color: white;
 }
+
+#logo ul li, #sidemenuleft ul li{
+	list-style: none;
+    float:left;
+}
+
 #logo ul li a{
     text-decoration: none;
     display: block;
