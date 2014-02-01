@@ -415,11 +415,11 @@ select[size] {
 }
 
 #impressum h2 {
-    margin: 0 !important;
-    padding: 0 !important;
-	font-family: 'Lato' !important;
-	font-weight: 300 !important;
-	font-size: 2em !important;
+    margin: 0;
+    padding: 0;
+	font-family: 'Lato';
+	font-weight: 300;
+	font-size: 2em;
 }
 /*****************
  * Absolute
