@@ -363,7 +363,7 @@ select[size] {
 	background-repeat:repeat;
 }
 
-#footer p a {
+#footer p, a {
 	color: white !important;
 }
 
