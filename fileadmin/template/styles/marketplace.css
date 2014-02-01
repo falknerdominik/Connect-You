@@ -498,7 +498,7 @@ select[size] {
 	text-align: right;
     visibility: hidden;
     position: absolute;
-    padding-left: 10%;
+    padding-right: 10%;
 }
 
 #logo ul li ul li, #sidemenuleft ul li ul li{
