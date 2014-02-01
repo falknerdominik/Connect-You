@@ -492,7 +492,6 @@ select[size] {
 
 #logo ul li {
     list-style: none;
-    float:left;
 }
 #logo ul li a {
     text-decoration: none;
@@ -522,7 +521,6 @@ select[size] {
 }
 #logo ul li {
 	list-style: none;
-    float:left;
 }
 #logo ul li a {
     text-decoration: none;
