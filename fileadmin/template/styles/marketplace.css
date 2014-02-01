@@ -77,8 +77,8 @@ ul {
 #logo {
 	position: relative;
 	margin-left: 0.3%;
-	height:20% !important;
-	width:20% !important;	
+	height:100%;
+	width:auto;	
 	float: left;
 }
 
@@ -86,8 +86,8 @@ ul {
 	
 
 #logo img {
-	width:auto;
-	height: 90%;
+	width:20%;
+	height: 20%;
 	float:left;
 }
 
