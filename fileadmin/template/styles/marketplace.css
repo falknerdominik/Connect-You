@@ -528,7 +528,6 @@ nav ul {
 nav ul li {
 list-style: none;
     float:left;
-    border-right: 1px solid #dfdfdf;
 }
 nav ul li a {
     text-decoration: none;
