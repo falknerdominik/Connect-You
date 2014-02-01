@@ -482,11 +482,11 @@ select[size] {
 /*****************
  * TEST
 ******************/
-nav ul {
+#logo ul {
     padding: 0px;
     margin: 0px;
 }
-nav ul:after {
+#logo ul:after {
     clear: both;
     content: " ";
     display: block;
@@ -495,41 +495,41 @@ nav ul:after {
     visibility: hidden;
 }
 
-nav ul li {
+#logo ul li {
     list-style: none;
     float:left;
 }
-nav ul li a {
+#logo ul li a {
     text-decoration: none;
     display: block;
     color: #333;
     padding: 14px 34px 14px 34px;
 }
-nav ul li:hover > ul {
+#logo ul li:hover > ul {
     visibility: visible;
 }
-nav ul li ul{
+#logo ul li ul{
     display: inline;
     visibility: hidden;
     position: absolute;
     padding:0px;
 }
-nav ul li ul li{
+#logo ul li ul li{
     float: none;
 }
-nav ul li ul li a:hover{
+#logo ul li ul li a:hover{
     color: #333;
 }
 
-nav ul {
+#logo ul {
     padding: 0px;
     margin: 0px;
 }
-nav ul li {
+#logo ul li {
 list-style: none;
     float:left;
 }
-nav ul li a {
+#logo ul li a {
     text-decoration: none;
     display: block;
     color: #333;
@@ -540,13 +540,13 @@ nav ul li a {
     -moz-transition: background 0.3 ease-out; /* firefox */
     -o-transition: background 0.3 ease-out; /* opera */
 }
-nav ul li.cat1:hover a, nav ul li.cat1:hover > ul li a  {
+#logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a  {
     background-color: lightblue;
 }
-nav ul li.cat2:hover a, nav ul li.cat2:hover > ul li a  {
+#logo ul li.cat2:hover a, #logo ul li.cat2:hover > ul li a  {
     background-color: red;
 }
 
-nav ul li ul li a {
+#logo ul li ul li a {
     color: #FAFAFA;
 }
