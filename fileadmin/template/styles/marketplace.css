@@ -398,6 +398,7 @@ select[size] {
     margin: 0;
     padding: 0;
 	border: 4px solid #E0E0E0;
+	background-color: white;
 	margin: 0 auto;
 	text-align: center;
 }
