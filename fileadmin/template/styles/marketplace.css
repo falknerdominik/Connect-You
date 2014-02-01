@@ -479,19 +479,7 @@ select[size] {
  * TEST
 ******************/
 
-#logo ul:after, #sidemenuleft ul:after{
-    clear: both;
-    content: " ";
-    display: block;
-    font-size: 0;
-    height: 0;
-    visibility: hidden;
-}
 
-#logo ul li, #sidemenuleft ul li{
-    list-style: none;
-    float:right;
-}
 #logo ul li a, #sidemenuleft ul li a {
     text-decoration: none;
     display: block;
