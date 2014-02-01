@@ -400,6 +400,35 @@ select[size] {
 	padding: 2%;
 	margin: 0 auto;
 }
+
+#beschreibung, #team{
+	font-size: 0.9em;
+	text-align: justify;
+	font-family: 'Lato';
+	line-height: 1.8em;
+}
+
+#impressum h3 {
+	margin-top: 6%;
+	margin-bottom: 2%;
+	font-family: 'Lato';
+	font-weight: 300;
+}
+
+#impressum h1,h5 {
+    margin: 0 !important;
+    padding: 0 !important;
+	font-family: 'Lato' !important;
+	font-weight: 300 !important;
+	font-size: 3em !important;
+}
+
+#impressum h6 {
+	font-family: 'Lato';
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-bottom: 3%;
+}
 /*****************
  * Absolute
 ******************/
