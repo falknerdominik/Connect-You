@@ -78,14 +78,12 @@ ul {
 	position: relative;
 	margin-left: 0.3%;
 	height:100%;
-	width:auto;	
-	float: left;
+	width:auto;
 }
 
 #logo img {
 	width:60%;
 	height: 50%;
-	float:left;
 }
 
 #logo p {
