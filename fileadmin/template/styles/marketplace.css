@@ -535,7 +535,7 @@ select[size] {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 14px 34px 14px 34px;
+    padding: 14px 34px 11px 34px;
  
     transition: background 0.3s ease-out; /* explorer 10 */
 }
