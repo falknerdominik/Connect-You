@@ -393,10 +393,12 @@ select[size] {
  * Impressum - PENEDER
 ******************/
 #impressum {
+	width: 60%;
 	height: 100%;
     margin: 0;
     padding: 0;
 	border: 4px solid #E0E0E0;
+	margin: 0 auto;
 	background-image:url(../images/Background/debut_light.png);
 	background-repeat:repeat;
 }
