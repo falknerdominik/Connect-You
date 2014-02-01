@@ -506,13 +506,13 @@ select[size] {
 #logo ul li ul{
     display: inline;
     visibility: hidden;
-    position: absolute;
+    position: relative;
     padding:0px;
 }
 
 #sidemenuleft ul li ul{
     visibility: hidden;
-    position: absolute;
+    position: relative;
     padding:0px;
 }
 
