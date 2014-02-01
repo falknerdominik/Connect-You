@@ -364,10 +364,10 @@ select[size] {
 }
 
 #footer p, #footer a {
-	font-family: 'Lato' !important;
+	font-family: 'Lato';
 	color: white;
 	text-align: center;
-	margin-top:1.5em !important;
+	margin-top:1.5em;
 	width: 100%;
 	margin: 0 auto;
 }
