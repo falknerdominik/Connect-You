@@ -366,7 +366,7 @@ select[size] {
 #footer p, a {
 	color: white !important;
 	text-align: center;
-	margin: 0 auto;
+	margin: 0 auto !important;
 }
 
 #footer p {
