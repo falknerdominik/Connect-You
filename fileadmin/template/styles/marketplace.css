@@ -516,7 +516,9 @@ select[size] {
     padding:0px;
 }
 
-
+#logo ul li ul li, #sidemenuleft ul li ul li{
+    float: none;
+}
 
 #logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
     color: white;
@@ -524,7 +526,7 @@ select[size] {
 
 #logo ul li, #sidemenuleft ul li{
 	list-style: none;
-    float:left;
+    float:right;
 }
 
 #logo ul li a, #sidemenuleft ul li a{
