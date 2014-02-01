@@ -401,6 +401,7 @@ select[size] {
 	margin: 0 auto;
 	background-image:url(../images/Background/debut_light.png);
 	background-repeat:repeat;
+	text-align: center;
 }
 /*****************
  * Absolute
