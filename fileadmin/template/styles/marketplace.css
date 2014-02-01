@@ -518,7 +518,7 @@ select[size] {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 14px 34px 11px 34px;
+    padding: 14% 34% 11% 34%;
 }
 
 #logo ul li.cat1:hover > ul li a {
