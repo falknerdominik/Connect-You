@@ -478,10 +478,7 @@ select[size] {
 /*****************
  * TEST
 ******************/
-#logo ul , #sidemenuleft ul{
-    padding: 0px;
-    margin: 0px;
-}
+
 #logo ul:after, #sidemenuleft ul:after{
     clear: both;
     content: " ";
