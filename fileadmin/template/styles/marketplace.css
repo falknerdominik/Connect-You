@@ -499,7 +499,6 @@ select[size] {
     text-decoration: none;
     display: block;
     color: #333;
-    padding: 14px 34px 14px 34px;
 }
 #logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
     visibility: visible;
