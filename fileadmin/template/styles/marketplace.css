@@ -479,12 +479,6 @@ select[size] {
  * TEST
 ******************/
 
-
-#logo ul li a, #sidemenuleft ul li a {
-    text-decoration: none;
-    display: block;
-    color: #333;
-}
 #logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
     visibility: visible;
 }
