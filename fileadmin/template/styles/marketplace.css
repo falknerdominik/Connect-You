@@ -80,14 +80,12 @@ ul {
 	height:100%;
 	width:auto;	
 	float: left;
-
 }
 	
 
 #logo img {
 	width:auto;
 	height: 90%;
-	
 	float:left;
 }
 
@@ -102,7 +100,7 @@ ul {
 	color:#FFF;
 }
 
-#sidemenu {
+#sidemenuleft {
 	position:relative;
 	height:100%;
 	width:auto;
@@ -112,7 +110,7 @@ ul {
 	padding-top:0.9em;
 }
 
-#sidemenu a {
+#sidemenuleft a {
 	text-decoration:none;
 	font-size: 12pt;
 	font-weight: 100;
