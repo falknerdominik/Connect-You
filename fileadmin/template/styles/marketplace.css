@@ -523,10 +523,6 @@ select[size] {
     color: white;
 }
 
-#logo ul, #sidemenuleft ul {
-    padding: 0px;
-    margin: 0px;
-}
 #logo ul li, #sidemenuleft ul li{
 	list-style: none;
     float:left;
