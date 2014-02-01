@@ -367,7 +367,7 @@ select[size] {
 	color: white;
 	text-align: center;
 	margin-top:1.3em;
-
+	width: 100%;
 }
 
 #footer a {
