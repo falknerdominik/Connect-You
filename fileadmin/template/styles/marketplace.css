@@ -506,7 +506,7 @@ select[size] {
 #logo ul li ul{
     display: inline;
     visibility: hidden;
-    position: absolute;
+    position: relative;
     padding:0px;
 }
 
