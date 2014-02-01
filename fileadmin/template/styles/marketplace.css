@@ -479,7 +479,7 @@ select[size] {
 /*****************
  * TEST
 ******************/
-#logo ul {
+#logo ul , #sidemenuleft ul{
     padding: 0px;
     margin: 0px;
 }
