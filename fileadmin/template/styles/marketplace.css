@@ -492,7 +492,7 @@ select[size] {
 }
 
 #sidemenuleft ul li ul{
-	width: 80%;
+	width: 65%;
     visibility: hidden;
     position: absolute;
     padding:0px;
