@@ -538,9 +538,9 @@ select[size] {
     padding: 14px 34px 14px 34px;
  
     transition: background 0.3s ease-out; /* explorer 10 */
-    -webkit-transition: background 0.3s ease-out; /* chrome & safari */
-    -moz-transition: background 0.3 ease-out; /* firefox */
-    -o-transition: background 0.3 ease-out; /* opera */
+    -webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 
 #sidemenuleft ul li a {
@@ -550,9 +550,9 @@ select[size] {
     padding: 14px 34px 11px 34px;
  
     transition: background 0.3s ease-out; /* explorer 10 */
-    -webkit-transition: background 0.3s ease-out; /* chrome & safari */
-    -moz-transition: background 0.3 ease-out; /* firefox */
-    -o-transition: background 0.3 ease-out; /* opera */
+    -webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 #logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a {
     background-image: url("../images/Background/Pinnwand.png");
