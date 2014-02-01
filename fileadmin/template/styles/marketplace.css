@@ -418,7 +418,7 @@ select[size] {
     padding: 0;
 	font-weight: 400;
 	font-size: 2em;
-	margin-top: 1%;
+	margin-top: 1% !important;
 	color: #3498db;
 }
 
