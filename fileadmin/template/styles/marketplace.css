@@ -514,6 +514,7 @@ select[size] {
 }
 
 #logo ul li a, #sidemenuleft ul li a{
+	font-family: 'Lato';
     text-decoration: none;
     display: block;
     color: white;
