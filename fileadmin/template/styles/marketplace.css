@@ -367,6 +367,7 @@ select[size] {
 	color: white;
 	text-align: center;
 	margin: 0 auto;
+	padding-top:0.9em;
 }
 
 #footer p {
