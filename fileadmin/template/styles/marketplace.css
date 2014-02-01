@@ -393,7 +393,6 @@ select[size] {
  * Impressum - PENEDER
 ******************/
 #impressum {
-	font-family: 'Lato';
     background: white;
 	border: 4px solid #E0E0E0;
 	width: 60%;
@@ -425,6 +424,7 @@ select[size] {
 }
 
 #impressum ul {
+	font-family: 'Lato';
 	margin-left: 5%;
 }
 /*****************
