@@ -422,6 +422,10 @@ select[size] {
 	font-size: 2em;
 	margin-top: 2%;
 }
+
+#impressum ul {
+	margin-left: 5%;
+}
 /*****************
  * Absolute
 ******************/
