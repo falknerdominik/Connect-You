@@ -506,6 +506,7 @@ select[size] {
 
 #logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
     color: white;
+	font-family: 'Lato' !important;
 }
 
 #logo ul li, #sidemenuleft ul li{
