@@ -373,7 +373,7 @@ select[size] {
 
 #impressum{
 	margin-left: 0.2% !important;
-	text-decoration: none;
+	text-decoration: none !important;
 }
 
 #footer a {
