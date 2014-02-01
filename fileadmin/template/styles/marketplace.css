@@ -78,12 +78,14 @@ ul {
 	position: relative;
 	margin-left: 0.3%;
 	height:100%;
-	width:auto;
+	width:auto;	
+	float: left;
 }
 
 #logo img {
 	width:60%;
 	height: 50%;
+	float:left;
 }
 
 #logo p {
@@ -492,6 +494,7 @@ select[size] {
 
 #logo ul li {
     list-style: none;
+    float:left;
 }
 #logo ul li a {
     text-decoration: none;
@@ -521,6 +524,7 @@ select[size] {
 }
 #logo ul li {
 	list-style: none;
+    float:left;
 }
 #logo ul li a {
     text-decoration: none;
