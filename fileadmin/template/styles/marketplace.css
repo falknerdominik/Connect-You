@@ -532,14 +532,14 @@ select[size] {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 14px 34px 11px 34px;
+    padding: 14px 11px 34px;
 }
 
 #sidemenuleft ul li a {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 14px 34px 11px 34px;
+    padding: 14px 11px 34px;
 }
 #logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a {
     background-image: url("../images/Background/Pinnwand.png");
