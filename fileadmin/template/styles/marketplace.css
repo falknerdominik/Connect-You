@@ -537,10 +537,10 @@ select[size] {
     -moz-transition: background 0.3 ease-out; /* firefox */
     -o-transition: background 0.3 ease-out; /* opera */
 }
-#logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a, #sidemenuleft ul li.cat1:hover a, #sidemenuleft ul li.cat1:hover > ul li a  {
+#logo ul li.cat1:hover a, #logo ul li.cat1:hover > ul li a, #sidemenuleft ul li.cat2:hover a, #sidemenuleft ul li.cat1:hover > ul li a  {
     background-image: url("../images/Background/Pinnwand.png");
 }
-#logo ul li.cat2:hover a, #logo ul li.cat2:hover > ul li a, #sidemenuleft ul li.cat1:hover a, #sidemenuleft ul li.cat1:hover > ul li a   {
+#logo ul li.cat2:hover a, #logo ul li.cat2:hover > ul li a, #sidemenuleft ul li.cat3:hover a, #sidemenuleft ul li.cat3:hover > ul li a   {
     background-color: red;
 }
 
