@@ -415,7 +415,7 @@ select[size] {
 	font-weight: 300;
 }
 
-#impressum h1,h5 {
+#impressum h2 {
     margin: 0 !important;
     padding: 0 !important;
 	font-family: 'Lato' !important;
