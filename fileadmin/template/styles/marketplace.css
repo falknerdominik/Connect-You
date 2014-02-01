@@ -393,12 +393,12 @@ select[size] {
  * Impressum - PENEDER
 ******************/
 #impressum {
-    background: white !important;
-	border: 4px solid #E0E0E0 !important;
-	width: 65% !important;
-	height: 100% !important;
+    background: white;
+	border: 4px solid #E0E0E0;
+	width: 65%;
+	height: 100%;
 	padding: 2%;
-	margin: 0 auto !important;
+	margin: 0 auto;
 }
 /*****************
  * Absolute
