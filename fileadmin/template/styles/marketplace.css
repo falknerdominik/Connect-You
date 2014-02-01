@@ -494,11 +494,11 @@ select[size] {
 }
 
 #sidemenuleft ul li ul{
-	width: 75%;
-	text-align: right;
+	width: 69%;
+	text-align: left;
     visibility: hidden;
     position: absolute;
-    padding-right: 9%;
+    padding-right:0px;
 }
 
 #logo ul li ul li, #sidemenuleft ul li ul li{
