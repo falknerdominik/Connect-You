@@ -25,7 +25,7 @@ window.onload = function () {
 		alert($("#widgetmenu").css("left"));
 		
 		
-       	if ($("#widgetmenu").css("left") == "-12.8em" ) {
+       	if ($("#widgetmenu").css("left") === "-12.8em" ) {
 			
 			$("#widgetmenu").animate({
             	left: "0em"
