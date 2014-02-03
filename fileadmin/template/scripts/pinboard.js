@@ -28,7 +28,7 @@ window.onload = function () {
     });
     $("#content").click(function () {
         $("#widgetmenu").animate({
-            left: "-13em"
+            left: "-12.8em"
         }, 300);
     });
 
