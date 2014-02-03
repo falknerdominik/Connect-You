@@ -163,6 +163,8 @@ body, html {
     font-size: 22pt;
 	text-align: center;
 	
+	cursor:pointer;
+	
 		
 	
 	
@@ -207,7 +209,7 @@ body, html {
 	margin-top:1em;
     
 	border: 1px solid #b1b3b4;
-    height: 4em;
+    height: 9em;
     cursor: pointer;
 }
 
