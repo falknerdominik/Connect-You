@@ -191,13 +191,13 @@ body, html {
 
 #aufklappen_leiste p {
 	position:relative;
-	color:#b1b3b4;
+	color:#FFF;
 	text-align:center;
 	font-size:18pt;
 	font-weight:200;
 }
 #widgetmenu ul {
-	color:#FFF;
+	color:#b1b3b4;
     margin: 0;
     padding: 0;
     list-style: none;
