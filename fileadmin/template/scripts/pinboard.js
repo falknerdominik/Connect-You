@@ -21,7 +21,7 @@ window.onload = function () {
 
 
 
-    $("#move").click(function () {
+    $("#aufklappen_action").click(function () {
         $("#widgetmenu").animate({
             left: "0em"
         }, 300);
