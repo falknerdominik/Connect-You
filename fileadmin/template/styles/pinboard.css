@@ -150,9 +150,9 @@ body, html {
 	
 }
 #aufklappen_action {
-	position:absolute;
+	position:relative;
 	
-	height: 1.4em;
+	height: 100%;
     width: 1.5em;
     padding-right: 0.3em;
 	margin-left: 6.3em;
