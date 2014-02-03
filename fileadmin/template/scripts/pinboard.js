@@ -23,12 +23,12 @@ window.onload = function () {
 
     $("#move").click(function () {
         $("#widgetmenu").animate({
-            left: "0em"
+            left: "0.4%"
         }, 300);
     });
     $("#content").click(function () {
         $("#widgetmenu").animate({
-            left: "-15.8em"
+            left: "-12.7em"
         }, 300);
     });
 
