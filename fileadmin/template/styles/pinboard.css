@@ -131,9 +131,11 @@ body, html {
     position: absolute;
     height: 100%;
     width: 13em;
-	background-image:url("../images/Background/Pinnwand.png");
     left: -12.8em;
 	z-index: 2;
+	background-color:#666;
+	margin-top: 2.5em;
+
 	
 	
 }
@@ -144,7 +146,7 @@ body, html {
     width: 1.5em;
     padding-right: 0.2em;
 	margin-left: 7.5em;
-	margin-top: 2.5em
+	margin-top: 2.5em;
 
 	background-color:#666;
 	color:#FFF;
