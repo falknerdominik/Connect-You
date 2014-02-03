@@ -127,6 +127,12 @@ body, html {
 /*****************
  * Widgetmenu
 *****************/
+#leiste_vert {
+	position:relative;
+	height:100%;
+	width: 4px;
+}
+
 #widgetmenu {
     position: absolute;
     height: 100%;
