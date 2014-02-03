@@ -178,8 +178,9 @@ body, html {
 	
 	height: 2.9em;
     width: 100%;
+	text-align:center;
 	
-	background-color:#666;
+	background-color:#b1b3b4;
 	
 	
 }
@@ -189,7 +190,6 @@ body, html {
 	color:#FFF;
 	text-align:center;
 	font-size:20pt;
-	margin-top:0;
 	font-weight:200;
 }
 #widgetmenu ul {
