@@ -210,6 +210,14 @@ body, html {
     height: 9em;
     cursor: pointer;
 }
+
+#widgetmenu ul li p {
+	font-size: 18pt;
+	margin-top: 0.8em;
+	margin-right: auto;
+	margin-left:auto;
+	
+}
 #widgetmenu ul li img {
 	display:block;
 	width:50%;
