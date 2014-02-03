@@ -25,16 +25,16 @@ window.onload = function () {
 		alert($("#widgetmenu").css("left"));
 		
 		
-       	if ($("#widgetmenu").css("left") === "0em") {
+       	if ($("#widgetmenu").css("left") == "-12.8em" ) {
 			
 			$("#widgetmenu").animate({
-            	left: "-12.8em"
+            	left: "0em"
        		}, 300);
 		}
 		
 		else {
 			$("#widgetmenu").animate({
-            	left: "0em"
+            	left: "-12.8em"
         	}, 300);
 			
 			
@@ -44,12 +44,13 @@ window.onload = function () {
 	
 	
 	
-	
+	/*
     $("#content").click(function () {
         $("#widgetmenu").animate({
             left: "-12.8em"
         }, 300);
     });
+	*/
 
     $(function () {
         $("#todo").click(function () {
