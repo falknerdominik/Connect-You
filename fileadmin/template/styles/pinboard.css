@@ -130,9 +130,9 @@ body, html {
 #leiste_vert {
 	position:absolute;
 	height:100%;
-	width: 4px;
-	background-color:#9b59b6;
-	margin-left:0.4%;
+	width: 0.4%;
+	background-image: url(../images/Background/debut_light.png);
+	border-right: 4px, #9b59b6, solid;
 	z-index:3;
 }
 
