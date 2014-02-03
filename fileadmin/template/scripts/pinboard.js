@@ -26,13 +26,13 @@ window.onload = function () {
        	if ($("#widgetmenu").css('left') === "0em") {
 			
 			$("#widgetmenu").animate({
-            	left: "0"
+            	left: "-12.8em"
        		}, 300);
 		}
 		
 		else {
 			$("#widgetmenu").animate({
-            	left: "-12.7em"
+            	left: "0em"
         	}, 300);
 			
 			
