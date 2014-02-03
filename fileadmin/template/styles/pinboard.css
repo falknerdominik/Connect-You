@@ -212,6 +212,12 @@ body, html {
     height: 9em;
     cursor: pointer;
 }
+#widgetmenu ul li img {
+	width:50%;
+	height:50&;
+	
+}
+
 
 
 
