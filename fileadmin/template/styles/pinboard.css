@@ -212,6 +212,7 @@ body, html {
 }
 
 #widgetmenu ul li p {
+	position:relative;
 	font-size: 18pt;
 	margin-right: auto;
 	margin-left:auto;
