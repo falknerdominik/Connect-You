@@ -23,7 +23,7 @@ window.onload = function () {
 
     $("#move").click(function () {
         $("#widgetmenu").animate({
-            left: "0.4%"
+            left: "0em"
         }, 300);
     });
     $("#content").click(function () {
