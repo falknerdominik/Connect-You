@@ -23,14 +23,12 @@ window.onload = function () {
 
     $("#move").click(function () {
         $("#widgetmenu").animate({
-            /*left: "0em"*/
-			width: "100%"
+            left: "0em"
         }, 300);
     });
     $("#content").click(function () {
         $("#widgetmenu").animate({
-			width: "0%"
-            /*left: "-12.7em"*/
+            left: "-12.7em"
         }, 300);
     });
 
