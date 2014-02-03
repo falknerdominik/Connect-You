@@ -128,7 +128,7 @@ body, html {
  * Widgetmenu
 *****************/
 #leiste_vert {
-	position:relative;
+	position:absolute;
 	height:100%;
 	width: 4px;
 	background-color:#999;
