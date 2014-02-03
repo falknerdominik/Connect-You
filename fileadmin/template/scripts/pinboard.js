@@ -22,6 +22,7 @@ window.onload = function () {
 
     $("#aufklappen_action").click(function () {
 		
+		alert($("#widgetmenu").css("left"));
 		var top = document.getElementById("#widgetmenu").style.left
 		alert(top);
 		
