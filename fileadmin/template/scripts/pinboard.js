@@ -28,21 +28,16 @@ window.onload = function () {
 			$("#widgetmenu").animate({
             	left: "0"
        		}, 300);
-			
+		}
+		
 		else {
-			
 			$("#widgetmenu").animate({
-            left: "-12.8em"
-        }, 300);
+            	left: "-12.8em"
+        	}, 300);
+			
 			
 		}
 			
-			
-			
-    			
-		}
-		
-		
     });
 	
 	
