@@ -144,19 +144,12 @@ body, html {
     width: 1.5em;
     padding-right: 0.2em;
 	margin-left: 7.5em;
-	background-image:url("../images/Background/Pinnwand.png");
-	background-color: #9b59b6;
-	
+
+	background-color:#666;
 	color:#FFF;
     font-size: 22pt;
 	text-align: center;
 	
-	border-top: 2px solid #9b59b6;
-	border-right: 2px solid #9b59b6;
-	border-bottom: 2px solid #9b59b6;
-	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	
 	
 	
@@ -175,9 +168,8 @@ body, html {
 	height: 2.9em;
     width: 100%;
 	
-	border-top: 2px solid #9b59b6;
-	border-bottom: 2px solid #9b59b6;
-	background-image:url("../images/Background/Pinnwand.png");
+	background-color:#666;
+	
 	
 }
 
