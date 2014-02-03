@@ -199,12 +199,12 @@ body, html {
     list-style: none;
 }
 #widgetmenu ul li {
-    width: 80%;
+    width: 100%;
     text-align: center;
     margin: 0 auto;
 	margin-top:1em;
     
-	border: 1px solid #9b59b6;
+	border: 1px solid #b1b3b4;
     height: 4em;
     cursor: pointer;
 }
