@@ -20,12 +20,34 @@ window.onload = function () {
 
 
 
-
     $("#aufklappen_action").click(function () {
-        $("#widgetmenu").animate({
-            left: "0em"
+		
+		
+       	if ($('#widgetmenu').css('left') === '-12.8em') {
+			
+			$("#widgetmenu").animate({
+            	left: "0"
+       		}, 300);
+			
+		else {
+			
+			$("#widgetmenu").animate({
+            left: "-12.8em"
         }, 300);
+			
+		}
+			
+			
+			
+    			
+		}
+		
+		
     });
+	
+	
+	
+	
     $("#content").click(function () {
         $("#widgetmenu").animate({
             left: "-12.8em"
