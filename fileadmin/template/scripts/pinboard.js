@@ -23,7 +23,7 @@ window.onload = function () {
     $("#aufklappen_action").click(function () {
 		
 		
-       	if ($("#widgetmenu").css('left') === "-12.7em") {
+       	if ($("#widgetmenu").css('left') === "0em") {
 			
 			$("#widgetmenu").animate({
             	left: "0"
