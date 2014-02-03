@@ -132,7 +132,9 @@ body, html {
 	height:100%;
 	width: 0.4%;
 	background-image: url(../images/Background/debut_light.png);
-	border-right: 4px, #9b59b6, solid;
+	border-right:#9b59b6;
+	border-right-style:solid;
+	border-right-width: 4px;
 	z-index:3;
 }
 
