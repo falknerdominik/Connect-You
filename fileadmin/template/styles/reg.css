@@ -7,37 +7,35 @@ html, body {
 margin: 0;
 padding: 0;
 }
+
 	
 
 body {
-	height:100%;
 	background-image:url(../images/Background/debut_light.png);
 	background-repeat:repeat;
 }
 
-#bild {
-	position:relative;
-	width: 50%;
-	height:30em;
-	margin: 0 auto;
-	margin-top:10px
 
-}
 #bild_a {
 	position: absolute;
-	width: 100%;
+	left: 50%;
+	width: 40%;
+	margin-left:-20%;
 	clip:rect(0 100px auto 0);
 }
 
 #bild_b {
-	position: absolute;
-	width: 100%;
+	position: relative;
+	left: 50%;
+	width: 40%;
+	margin-left: -20%;
 }
 
 form[name=reg] {
 	position:relative;
 	width:50%;
 	height:inherit;
+	margin-left: -1em;
 	
 }
 
@@ -51,18 +49,21 @@ form[name=reg] {
 
 #main {
 	float:right;
+	clear:both;
 }
 
 
 #trennung {
-	clear:both;
 	position:absolute;
-	margin-left: auto;
-	margin-right: auto;
-	height: 100%;
-	width: 4px;
+	left: 50%;
+	height: 200%;
+	width: 2px;
 	background-color:#999;
 
+}
+
+form h1 {
+	float:right;
 }
 
 /*
