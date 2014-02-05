@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('http://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+html, body {
+margin: 0;
+padding: 0;
+}
+	
+
+body {
+	height:100%;
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
+}
+
+#bild {
+	position:relative;
+	width: 50%;
+	height:30em;
+	margin: 0 auto;
+	margin-top:10px
+
+}
+#bild_a {
+	position: absolute;
+	width: 100%;
+	clip:rect(0 100px auto 0);
+}
+
+#bild_b {
+	position: absolute;
+	width: 100%;
+}
+
+form[name=reg] {
+	position:relative;
+	width:50%;
+	height:inherit;
+	
+}
+
+
+
+.wrapper{
+	clear:both;
+	float:right;
+	margin-top:	2em;
+}
+
+#main {
+	float:right;
+}
+
+
+#trennung {
+	clear:both;
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	width: 4px;
+	background-color:#999;
+
+}
+
+/*
+#effect {
+	position:relative;
+	overflow: hidden;
+	height:100%;
+	width:20%;
+}
+*/
+
