@@ -185,8 +185,11 @@ hr {
     text-align: center;
 }
 
+#list_img {
+	height: 100px;
+}
+
 #projects .csc-default div img {
-	height: 110px;
 	margin-bottom: 10%;
 	margin-top: 6%;
 
