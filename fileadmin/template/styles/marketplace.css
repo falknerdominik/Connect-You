@@ -186,14 +186,16 @@ hr {
 }
 
 #projects .csc-default div img {
+	height: 110px;
+	margin-bottom: 10%;
+	margin-top: 6%;
+
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	background-color: #fff;
 	-webkit-box-shadow: 0 0 40px rgba(52,152,219,.4);
 	-moz-box-shadow: 0 0 40px rgba(52,152,219,.4);
 	box-shadow: 0 0 40px rgba(52,152,219,.4), x 25px 0px rgba(41, 150, 171, 1);
-	margin-bottom: 3%;
-	margin-top: 6%;
 }
 
 #projects .csc-default h3 {
