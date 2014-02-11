@@ -186,7 +186,8 @@ hr {
 }
 
 #projects .csc-default div img {
-	
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
 	background-color: #fff;
 	-webkit-box-shadow: 0 0 40px rgba(52,152,219,.4);
 	-moz-box-shadow: 0 0 40px rgba(52,152,219,.4);
