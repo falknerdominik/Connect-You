@@ -477,8 +477,8 @@ select[size] {
 #projects .csc-default div:hover #edit{
     display: block;
     position: absolute;
-    top: 10px;
-    right: 20px;
+    top: 5px;
+    right: 15px;
     width: 10px;
     height: 10px;
 }
