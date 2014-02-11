@@ -187,9 +187,6 @@ hr {
 
 #list_img {
 	height: 100px;
-}
-
-#projects .csc-default div img {
 	margin-bottom: 10%;
 	margin-top: 6%;
 
@@ -199,6 +196,10 @@ hr {
 	-webkit-box-shadow: 0 0 40px rgba(52,152,219,.4);
 	-moz-box-shadow: 0 0 40px rgba(52,152,219,.4);
 	box-shadow: 0 0 40px rgba(52,152,219,.4), x 25px 0px rgba(41, 150, 171, 1);
+}
+
+#projects .csc-default div img {
+	
 }
 
 #projects .csc-default h3 {
