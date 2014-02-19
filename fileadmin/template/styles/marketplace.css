@@ -59,6 +59,7 @@ ul {
 #titlefield {
 	position: absolute;
 	margin: 0 auto;
+	z-index:3;
 	
 	
 	
@@ -67,6 +68,7 @@ ul {
 #wrapper_header {
 	position:absolute;
 	width:100%;
+	z-index:3;
 }
 
 #logo {
