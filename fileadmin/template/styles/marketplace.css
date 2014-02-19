@@ -74,6 +74,7 @@ ul {
 	position:absolute;
 	width:100%;
 	z-index:3;
+	text-align:center;
 }
 
 #wrapper_header2 {
