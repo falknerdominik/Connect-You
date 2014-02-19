@@ -58,8 +58,12 @@ ul {
 
 #titlefield {
 	position: absolute;
-	margin-left: -26%;
+	margin-left:auto;
+	margin-right:auto;
+	/*
+	margin-left: -53%;
 	z-index:3;
+	*/
 	
 	
 	
