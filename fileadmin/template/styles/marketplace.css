@@ -70,6 +70,13 @@ ul {
 	
 }
 
+#blind_fleck {
+	width:772px;
+	margin:	0 auto;
+	background-image: url(../images/Background/BG2.png);
+	background-repeat:repeat;
+}
+
 #wrapper_header {
 	position:absolute;
 	width:100%;
