@@ -47,9 +47,11 @@ ul {
 }
 
 #leiste {
-	position:relative;
+	position: absolute;
+	z-index: 3;
 	width: 100%;
 	height: 4px;
+	margin-top: 4px;
 	background-color: #3498db;
 	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
@@ -58,9 +60,7 @@ ul {
 
 #titlefield {
 	position: relative;
-	width: 750px;
-	margin-left:auto;
-	margin-right:auto;
+	margin-top: 4px;
 	/*
 	margin-left: -53%;
 	z-index:3;
