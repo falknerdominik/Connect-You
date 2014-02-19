@@ -64,6 +64,11 @@ ul {
 	
 }
 
+#wrapper_header {
+	position:absolute;
+	width:100%;
+}
+
 #logo {
 	font-family: 'Lato' !important;
 	position: relative;
