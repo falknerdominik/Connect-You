@@ -59,19 +59,9 @@ ul {
 #titlefield {
 	position: relative;
 	margin: 0 auto;
-    width: 303px;
-	height: 1.2em;
 	
-	background-color: #3498db;
-	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	
-	text-align:center;
-	color:#FFF;
-	font-family: 'Lato';
-    font-size: 35pt;
-	font-weight: 400;
+	
 }
 
 #logo {
