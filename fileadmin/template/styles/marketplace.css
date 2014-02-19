@@ -71,6 +71,12 @@ ul {
 	z-index:3;
 }
 
+#wrapper_header {
+	position:relative;
+	width:initial;
+	z-index:3;
+}
+
 #logo {
 	font-family: 'Lato' !important;
 	position: relative;
