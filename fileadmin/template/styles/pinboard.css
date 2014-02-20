@@ -412,7 +412,7 @@ ul {
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 
-#sidemenuleft ul li.cat3:hover > ul {
+#sidemenuleft ul li.cat3:hover > ul li {
     background-image: url("../images/Background/Pinnwand.png");
 	border-left: solid 2px #8e44ad;
 	border-right: solid 2px #8e44ad;
