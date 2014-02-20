@@ -414,6 +414,9 @@ ul {
 
 #sidemenuleft ul li.cat3:hover > ul {
     background-image: url("../images/Background/Pinnwand.png");
+	border-left: solid 2px #8e44ad;
+	border-right: solid 2px #8e44ad;
+	border-bottom: solid 2px #8e44ad;
 	
 	transition: background-image -0.3s ease-in;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
