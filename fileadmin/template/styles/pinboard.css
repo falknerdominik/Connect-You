@@ -447,3 +447,8 @@ ul {
 #sidemenuleft ul li.cat3:hover > li {
 	border-top: solid 1px #8e44ad;
 }
+
+#sidemenuleft ul li.cat1:hover > img {
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+}
