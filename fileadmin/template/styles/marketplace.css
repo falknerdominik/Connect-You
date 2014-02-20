@@ -172,7 +172,7 @@ hr {
 	border-top: 1px dotted #666666; 
 }
 /***********************************
-*** PROJEKT NEU - PENEDER
+*** PROJEKT NEU - PENEDER, Diksn
 ************************************/
 #projects hr{
 	border: 1px solid;
@@ -276,7 +276,7 @@ p {
 }
 
 /*********************
- * Detail - PENEDER
+ * Detail - PENEDER, Diksn
 **********************/
 #show hr{
 	border: 1px solid;
@@ -371,7 +371,7 @@ select[size] {
 }
 
 /********************
- * Footer - PENEDER
+ * Footer - PENEDER, Diksn
 *********************/
 
 #footer {
@@ -379,10 +379,6 @@ select[size] {
 	position:relative;
     width:100%;
 	height: 3em;
-	overflow:visible;
-	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	background-image: url("../images/Background/Pinnwand.png");
 	background-repeat:repeat;
 }
@@ -391,7 +387,7 @@ select[size] {
 	font-family: 'Lato';
 	color: white;
 	text-align: center;
-	margin-top:1.5em !important;
+	margin-top:1em !important;
 	width: 100%;
 	margin: 0 auto;
 }
