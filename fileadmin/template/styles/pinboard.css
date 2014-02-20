@@ -404,7 +404,7 @@ ul {
 }
 
 #logo ul li.cat1:hover > ul {
-    background-image: url("../images/Background/BG2.png");
+    background-image: url("../images/Background/Pinnwand.png");
 	
 	transition: background-image -0.3s ease-in;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
@@ -413,7 +413,7 @@ ul {
 }
 
 #sidemenuleft ul li.cat3:hover > ul {
-    background-image: url("../images/Background/BG2.png");
+    background-image: url("../images/Background/Pinnwand.png");
 	
 	transition: background-image -0.3s ease-in;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
