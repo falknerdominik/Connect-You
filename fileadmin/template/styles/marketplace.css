@@ -509,8 +509,7 @@ select[size] {
 }
 
 #logo ul li ul{
-	margin-top: 14.9%;
-	margin-left: -2%;
+	margin-top: 2.6em;
     visibility: hidden;
     position: absolute;
     padding:0px;
