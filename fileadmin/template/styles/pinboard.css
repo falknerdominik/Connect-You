@@ -341,3 +341,75 @@ body, html {
     float: right;
     cursor: pointer;
 }
+
+
+/*********
+* Aboslutes zeiglad und so
+**********/
+
+#logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
+    visibility: visible;
+}
+
+#logo ul li ul{
+	margin-top: 2.6em;
+    visibility: hidden;
+    position: absolute;
+    padding:0px;
+}
+
+#sidemenuleft ul li ul{
+	width: 69%;
+	text-align: left;
+    visibility: hidden;
+    position: absolute;
+    padding-right:0px;
+}
+
+#logo ul li ul li, #sidemenuleft ul li ul li{
+    float: none;
+}
+
+#logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
+    color: white;
+}
+
+#logo ul li, #sidemenuleft ul li{
+	list-style: none;
+    float:left;
+}
+
+#sidemenuleft ul li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+	padding: 0.5em 1.8em 0.5em 1em;}
+
+#logo ul li a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 0.9em 1.8em 0.8em 2.3em;
+}
+
+#logo ul li.cat1{
+	width: 50%;
+}
+
+#logo ul li.cat1:hover > ul li a {
+    background-image: url("../images/Background/BG2.png");
+	
+	transition: background-image -0.3s ease-in;
+	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+}
+
+#sidemenuleft ul li.cat3:hover > ul li a   {
+    background-image: url("../images/Background/BG2.png");
+	
+	transition: background-image -0.3s ease-in;
+	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+}
