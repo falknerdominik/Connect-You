@@ -122,6 +122,7 @@ ul {
 	margin-right: 1%;
 	float:right;
 	text-align:center;
+	z-index:4;
 }
 
 #sidemenuleft a {
