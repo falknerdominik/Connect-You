@@ -27,68 +27,78 @@ body, html {
  * Top-Header//Diksn
 *****************/
 
-#head {
+#mumu {
 	margin: 0;
 	padding-top: 0.4%;
 	position:relative;
     width:100%;
-	height: 55px;
+	height: 3em;
 	overflow:visible;
-	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	background-image: url("../images/Background/Pinnwand.png");
+	background-image: url(../images/Background/BG2.png);
 	background-repeat:repeat;
 }
 
 #leiste {
-	position:relative;
+	position: absolute;
+	z-index: 3;
 	width: 100%;
 	height: 4px;
-	background-color: #9b59b6;
-	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+	margin-top: 4px;
+	background-color: #2980b9;
 }
 
 #titlefield {
 	position: relative;
-	margin: 0 auto;
-    width: 303px;
-	height: 65px;
+	margin-top: 4px;
+	/*
+	margin-left: -53%;
+	z-index:3;
+	*/
 	
-	background-color: #9b59b6;
-	-webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-	-moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
-	box-shadow: 3px 4px 7px rgba(0,0,0,.7);
 	
-	text-align:center;
-	color:#FFF;
-	font-family: 'Lato';
-    font-size: 35pt;
-	font-weight: 400;
+	
 }
 
+#blind_fleck {
+	position: relative;
+	width: 772px;
+	height: 4px;
+	margin: 0 auto;
+	background-image: url(../images/Background/BG2.png);
+	background-repeat:repeat;
+}
 
+#wrapper_header {
+	position:absolute;
+	width:100%;
+	z-index:3;
+	text-align:center;
+}
+
+#wrapper_header2 {
+	position:relative;
+	width:initial;
+	margin-left: 50%;
+	z-index:3;
+}
 
 #logo {
+	font-family: 'Lato' !important;
 	position: relative;
 	margin-left: 0.3%;
 	height:100%;
 	width:auto;	
 	float: left;
-
+	z-index:4;
 }
-	
 
 #logo img {
-	width:auto;
-	height: 90%;
-	
+	width:100%;
 	float:left;
-	
 }
+
 #logo p {
+	font-family: 'Lato' !important;
 	position:relative;
 	text-align:center;
 	margin-top: 6.5%;
@@ -97,22 +107,18 @@ body, html {
 	font-size: 16pt;
 	font-weight: 200;
 	color:#FFF;
-	
 }
 
-
-#sidemenu {
+#sidemenuleft {
 	position:relative;
 	height:100%;
 	width:auto;
 	margin-right: 1%;
 	float:right;
 	text-align:center;
-	padding-top:1%;
 }
 
-#sidemenu a {
-	
+#sidemenuleft a {
 	text-decoration:none;
 	font-size: 12pt;
 	font-weight: 100;
