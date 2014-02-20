@@ -412,7 +412,7 @@ ul {
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 
-#sidemenuleft ul li.cat3:hover > ul li {
+#sidemenuleft ul li.cat3:hover > ul {
     background-image: url("../images/Background/Pinnwand.png");
 	border-left: solid 2px #8e44ad;
 	border-right: solid 2px #8e44ad;
@@ -422,4 +422,9 @@ ul {
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+}
+#sidemenuleft ul li.cat3:hover > a{
+	border-left: solid 2px #8e44ad;
+	border-right: solid 2px #8e44ad;
+	
 }
