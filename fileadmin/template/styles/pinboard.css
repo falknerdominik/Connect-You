@@ -366,7 +366,6 @@ ul {
 }
 
 #sidemenuleft ul li ul{
-	width: 69%;
 	text-align: left;
     visibility: hidden;
     position: absolute;
