@@ -534,7 +534,6 @@ select[size] {
 #logo ul li, #sidemenuleft ul li{
 	list-style: none;
     float:left;
-	width:50%;
 }
 
 #sidemenuleft ul li a{
@@ -548,6 +547,10 @@ select[size] {
     display: block;
     color: white;
     padding: 0.9em 1.8em 0.8em 2.3em;
+}
+
+#logo ul li.cat1{
+	width: 50%;
 }
 
 #logo ul li.cat1:hover > ul li a {
