@@ -431,14 +431,13 @@ ul {
     background-color: #8e44ad;
 	border-left: solid 3px #8e44ad;
 	border-right: solid 3px #8e44ad;
-	border-bottom: solid 3px #8e44ad;
 	
 	
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
-#sidemenuleft ul li.cat3:hover > a li{
+#sidemenuleft ul li.cat3:hover > a {
 
     background-color: #8e44ad;
 	border-left: solid 3px #8e44ad;
@@ -446,13 +445,9 @@ ul {
 	transition: ease-in linear -0.3s
 
 }
-/*
-#sidemenuleft ul li.cat3:hover > li {
-	transition: background-image -0.3s ease-in;
-    background-color: #8e44ad;
-	border-top: solid 1px #8e44ad;
-}
-*/
+
+
+
 
 #logo ul li.cat1:hover > img {
 	border-left: solid 3px #8e44ad;
