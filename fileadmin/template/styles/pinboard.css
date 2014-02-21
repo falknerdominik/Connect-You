@@ -402,27 +402,32 @@ ul {
 	width: 50%;
 }
 
-#logo ul li.cat1:hover > ul {
-		border-left: solid 3px #8e44ad;
-	border-right: solid 3px #8e44ad;
-	border-bottom: solid 3px #8e44ad;
-	transition: background-image -0.3s ease-in;
-    background-color: #8e44ad;
+#logo ul li.cat1:hover > ul li a {
+
+    background: rgba(162, 68, 173, .5);
+}
+
+#logo ul li.cat1:hover > a{
+    background: rgba(162, 68, 173, .5);
+	
+
+	
 	
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 
-#logo ul li.cat1:hover > a{
-	border-left: solid 3px #8e44ad;
-	border-right: solid 3px #8e44ad;
-    background-color: #8e44ad;
-}
+#logo ul li.cat1:hover >  ul li {
 
-#logo ul li.cat1:hover > li {
-	border-top: solid 1px #8e44ad;
-	    background-color: #8e44ad;
+    background: rgba(162, 68, 173, .5);
+
+	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+
+
+
 
 }
 
@@ -446,13 +451,13 @@ ul {
 
 #sidemenuleft ul li.cat3:hover > ul li a {
 
-    background-color: #8e44ad;
+    background: rgba(162, 68, 173, .5);
 
 }
 
 #sidemenuleft ul li.cat3:hover > ul li {
 
-    background-color: #8e44ad;
+    background: rgba(162, 68, 173, .5);
 
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
@@ -467,6 +472,5 @@ ul {
 
 
 #logo ul li.cat1:hover > img {
-	border-left: solid 3px #8e44ad;
-	border-right: solid 3px #8e44ad;
+    background: rgba(162, 68, 173, .5);
 }
