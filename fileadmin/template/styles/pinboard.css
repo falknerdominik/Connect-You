@@ -96,6 +96,7 @@ ul {
 	width:auto;	
 	float: left;
 	z-index:4;
+	opacity: 1;
 }
 
 #logo img {
