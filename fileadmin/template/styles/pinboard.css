@@ -146,7 +146,7 @@ ul {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
-#menueleftsettings a:hover:nth-child(even) {
+#menueleftlogout a:hover {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
