@@ -502,8 +502,9 @@ select[size] {
     height: 10px;
 }
 /*****************
- * MENÜ - PENEDER
+ * MENÜ - PENEDER, Diksn
 ******************/
+
 
 #logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
     visibility: visible;
@@ -517,7 +518,6 @@ select[size] {
 }
 
 #sidemenuleft ul li ul{
-	width: 69%;
 	text-align: left;
     visibility: hidden;
     position: absolute;
@@ -547,7 +547,7 @@ select[size] {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 0.9em 1.8em 0.8em 2.3em;
+    padding: 0.9em 0.3em 0.8em 1.4em;
 }
 
 #logo ul li.cat1{
@@ -556,6 +556,10 @@ select[size] {
 
 #logo ul li.cat1:hover > ul {
     background-image: url("../images/Background/BG2.png");
+		border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+	border-bottom: solid 3px #8e44ad;
+
 	
 	transition: background-image -0.3s ease-in;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
@@ -563,11 +567,40 @@ select[size] {
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 
+#logo ul li.cat1:hover > a{
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+	
+}
+
+#logo ul li.cat1:hover > li {
+	border-top: solid 1px #8e44ad;
+}
+
+
 #sidemenuleft ul li.cat3:hover > ul {
     background-image: url("../images/Background/BG2.png");
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+	border-bottom: solid 3px #8e44ad;
+	
 	
 	transition: background-image -0.3s ease-in;
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+}
+#sidemenuleft ul li.cat3:hover > a{
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+	
+}
+
+#sidemenuleft ul li.cat3:hover > li {
+	border-top: solid 1px #8e44ad;
+}
+
+#logo ul li.cat1:hover > img {
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
 }
