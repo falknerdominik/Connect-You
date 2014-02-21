@@ -137,7 +137,8 @@ ul {
 }
 
 #menueleftsettings {
-	border: 10px solid black;
+	border-top: 0.5px solid black;
+	border-bottom: 0.5px solid black;
 }
 
 /*****************
