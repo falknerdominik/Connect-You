@@ -146,6 +146,10 @@ ul {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
+#menueleftsettings a:hover:nth-child(odd) {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
 /*****************
  * Widgetmenu
 *****************/
