@@ -451,10 +451,13 @@ ul {
 #sidemenuleft ul li.cat3:hover > ul li {
 
     background-color: #8e44ad;
-	transition: ease-in linear -0.3s;
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+
 	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
+	transition: ease-in linear -0.3s;
 
 
 }
