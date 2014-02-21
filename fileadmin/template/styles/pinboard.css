@@ -130,6 +130,7 @@ ul {
 	font-size: 12pt;
 	font-weight: 100;
 	color:#FFF;
+	border: 0.5px solid black;
 }
 	
 #acc_logout {
