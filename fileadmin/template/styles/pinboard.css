@@ -443,7 +443,6 @@ ul {
 
 #sidemenuleft ul li.cat3:hover > ul li a {
 
-    background-color: #8e44ad;
 	transition: ease-in-out linear -0.3s;
 
 }
