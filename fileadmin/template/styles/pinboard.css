@@ -40,7 +40,7 @@ ul {
     width:100%;
 	height: 3em;
 	overflow:visible;
-	background-image: url(../images/Background/Pinnwand.png);
+	background-image: url(../images/Background/BG3.png);
 	background-repeat:repeat;
 }
 
@@ -403,7 +403,7 @@ ul {
 }
 
 #logo ul li.cat1:hover > ul {
-    background-image: url("../images/Background/Pinnwand.png");
+    background-image: url("../images/Background/BG3.png");
 		border-left: solid 3px #8e44ad;
 	border-right: solid 3px #8e44ad;
 	border-bottom: solid 3px #8e44ad;
@@ -427,7 +427,7 @@ ul {
 
 
 #sidemenuleft ul li.cat3:hover > ul {
-    background-image: url("../images/Background/Pinnwand.png");
+    background-image: url("../images/Background/BG3.png");
 	border-left: solid 3px #8e44ad;
 	border-right: solid 3px #8e44ad;
 	border-bottom: solid 3px #8e44ad;
