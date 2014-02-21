@@ -427,7 +427,7 @@ ul {
 
 
 #sidemenuleft ul li.cat3:hover > ul {
-    background-image: url("../images/Background/BG3.png");
+    background-color: #8e44ad;
 	border-left: solid 3px #8e44ad;
 	border-right: solid 3px #8e44ad;
 	border-bottom: solid 3px #8e44ad;
