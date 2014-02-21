@@ -424,7 +424,7 @@ ul {
 
 #logo ul li.cat1:hover > ul li a {
 
-    background: rgba(162, 68, 173, 1);
+    background: rgba(162, 68, 173, .5);
 }
 
 #logo ul li.cat1:hover > a{
@@ -439,7 +439,7 @@ ul {
 
 #sidemenuleft ul li.cat3:hover {
 	transition: ease linear -0.3s;
-	background: rgba(162, 68, 173, 1);
+	background: rgba(162, 68, 173, .5);
 
 
 }
