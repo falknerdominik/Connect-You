@@ -447,6 +447,15 @@ ul {
 	transition: ease-in linear -0.3s
 
 }
+#sidemenuleft ul li.cat3:hover > ul li {
+
+    background-color: #8e44ad;
+	border-left: solid 3px #8e44ad;
+	border-right: solid 3px #8e44ad;
+	transition: ease-in linear -0.3s
+
+}
+
 
 
 
