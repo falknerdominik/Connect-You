@@ -123,6 +123,7 @@ ul {
 	float:right;
 	text-align:center;
 	z-index:4;
+	opacity: 0.5;
 }
 
 #sidemenuleft a {
