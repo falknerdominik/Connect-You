@@ -417,36 +417,36 @@ ul {
 }
 
 #logo ul li.cat1:hover > img {
-    background: rgba(162, 68, 173, .5);
+    background: rgba(162, 68, 173, 1);
 	
 }
 
 
 #logo ul li.cat1:hover > ul li a {
 
-    background: rgba(162, 68, 173, .5);
+    background: rgba(162, 68, 173, 1);
 }
 
 #logo ul li.cat1:hover > a{
-    background: rgba(162, 68, 173, .5);
+    background: rgba(162, 68, 173, 1);
 
 }
 
 #logo ul li.cat1:hover >  ul li {
-    background: rgba(162, 68, 173, .5);
+    background: rgba(162, 68, 173, 1);
 	
 }
 
 #sidemenuleft ul li.cat3:hover {
 	transition: ease linear -0.3s;
-	background: rgba(162, 68, 173, .5);
+	background: rgba(162, 68, 173, 1);
 
 
 }
 
 
 #sidemenuleft ul li.cat3:hover > a {
-    background: rgba(162, 68, 173, .5);
+    background: rgba(162, 68, 173, 1);
 }
 
 
@@ -459,7 +459,7 @@ ul {
 
 #sidemenuleft ul li.cat3:hover > ul li {
 
-    background: rgba(162, 68, 173, .5);
+    background: rgba(162, 68, 173, 1);
 
 
 
