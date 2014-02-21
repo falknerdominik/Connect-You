@@ -402,6 +402,17 @@ ul {
 	width: 50%;
 }
 
+#logo ul li.cat1:hover {
+	transition: ease linear -0.3s;
+
+}
+
+#logo ul li.cat1:hover > img {
+    background: rgba(162, 68, 173, .5);
+	
+}
+
+
 #logo ul li.cat1:hover > ul li a {
 
     background: rgba(162, 68, 173, .5);
@@ -409,23 +420,12 @@ ul {
 
 #logo ul li.cat1:hover > a{
     background: rgba(162, 68, 173, .5);
-	
 
-	
-	
-	-webkit-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	-moz-box-shadow: 2px 2px 3px rgba(0,0,0,.6);
-	box-shadow: 2px 2px 3px rgba(0,0,0,.6);
 }
 
 #logo ul li.cat1:hover >  ul li {
-
     background: rgba(162, 68, 173, .5);
-
-
-
-
-
+	
 }
 
 #sidemenuleft ul li.cat3:hover {
@@ -460,6 +460,3 @@ ul {
 
 
 
-#logo ul li.cat1:hover > img {
-    background: rgba(162, 68, 173, .5);
-}
