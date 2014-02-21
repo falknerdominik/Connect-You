@@ -417,7 +417,7 @@ ul {
 }
 
 #logo ul li.cat1:hover > img {
-    background: rgba(162, 68, 173, 1);
+    background: rgba(162, 68, 173, .5);
 	
 }
 
