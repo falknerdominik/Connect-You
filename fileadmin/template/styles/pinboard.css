@@ -142,11 +142,16 @@ ul {
 	border-bottom: 1px solid lightgrey;
 }
 
-#menueleftsettings a:hover  {
+/*#menueleftsettings a:hover  {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
 #menueleftlogout a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+*/
+
+#sidemenueleft ul li.cat3 ul li:hover {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
