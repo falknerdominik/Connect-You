@@ -459,7 +459,7 @@ ul {
 
 #sidemenuleft ul li.cat3:hover > ul li {
 
-    background: rgba(162, 68, 173, 1);
+    background: rgba(162, 68, 173, .5);
 
 
 
