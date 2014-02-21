@@ -141,6 +141,10 @@ ul {
 	border-bottom: 1px solid lightgrey;
 }
 
+.cat3 ul li:hover {
+	opacity: 100%;
+}
+
 /*****************
  * Widgetmenu
 *****************/
