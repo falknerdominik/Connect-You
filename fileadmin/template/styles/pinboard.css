@@ -130,13 +130,15 @@ ul {
 	font-size: 12pt;
 	font-weight: 100;
 	color:#FFF;
-	border: 10px solid black;
 }
 	
 #acc_logout {
 	margin-left:10px;
 }
 
+.cat1 {
+	border: 10px solid black;
+}
 
 /*****************
  * Widgetmenu
