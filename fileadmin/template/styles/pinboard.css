@@ -432,8 +432,8 @@ ul {
 
 
 #sidemenuleft ul li.cat3:hover > a {
-    background-color: #8e44ad;
-	opacity: 0.5;
+    background: rgba(162, 68, 173, .5);
+	
 
 	
 	
