@@ -162,6 +162,11 @@ ul {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
+#logomarketplace a {
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+
 /*****************
  * Widgetmenu
 *****************/
