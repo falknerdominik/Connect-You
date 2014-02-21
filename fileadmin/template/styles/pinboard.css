@@ -150,6 +150,18 @@ ul {
 	background: rgba(162, 68, 173, 1) !important;
 }
 
+#logopinnwand a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logomarketplace a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logoaccountverwaltung a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
 /*****************
  * Widgetmenu
 *****************/
