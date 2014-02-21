@@ -142,7 +142,7 @@ ul {
 	border-bottom: 1px solid lightgrey;
 }
 
-#menueleftsettings {
+#menueleftsettings:hover {
 	background: rgba(162, 68, 173, 1);
 }
 
