@@ -573,13 +573,14 @@ select[size] {
     text-decoration: none;
     display: block;
     color: white;
-	padding: 0.5em 1.8em 0.4em 1em;}
+	padding: 0.5em 1.8em 0.4em 1em;
+	}
 
 #logo ul li a {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 0.9em 0.3em 0.8em 1.4em;
+    padding: 0.8em 0.9em 0.8em 1em;
 }
 
 #logo ul li.cat1{
