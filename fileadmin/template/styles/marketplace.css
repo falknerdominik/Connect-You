@@ -589,35 +589,24 @@ select[size] {
 
 #logo ul li.cat1:hover {
 	transition: ease linear -0.3s;
-
 }
 
 #logo ul li.cat1:hover > ul li a {
-
     background: rgba(41, 128, 185, .5);
 }
 
 #logo ul li.cat1:hover > a{
     background: rgba(41, 128, 185, .5);
-
 }
 
 #logo ul li.cat1:hover >  ul li {
     background: rgba(41, 128, 185, .5);
-	
 }
 
 #sidemenuleft ul li.cat3:hover > ul li a {
-
     background: rgba(41, 128, 185, .5);
-
 }
 
 #sidemenuleft ul li.cat3:hover > ul li {
-
     background: rgba(41, 128, 185, .5);
-
-
-
-
 }
