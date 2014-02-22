@@ -445,7 +445,7 @@ ul {
 
 #logo ul li.cat1:hover > ul li a {
 
-    background: rgba(162, 68, 173, .5);
+
 }
 
 #logo ul li.cat1:hover > a{
@@ -454,7 +454,7 @@ ul {
 }
 
 #logo ul li.cat1:hover >  ul li {
-
+    background: rgba(162, 68, 173, .5);
 	
 }
 
