@@ -592,12 +592,6 @@ select[size] {
 
 }
 
-#logo ul li.cat1:hover > img {
-    background: rgba(41, 128, 185, .5);
-	
-}
-
-
 #logo ul li.cat1:hover > ul li a {
 
     background: rgba(41, 128, 185, .5);
