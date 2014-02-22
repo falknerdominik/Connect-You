@@ -167,6 +167,10 @@ ul {
 	border-bottom: 1px solid lightgrey;
 }
 
+.cat3 {
+	line-height: 0px;
+}
+
 /*****************
  * Widgetmenu
 *****************/
