@@ -66,6 +66,7 @@ body, html {
     height: 2.5em;
     background: white url("../images/Anmelden_Icon.png") right no-repeat;
     background-size: 12% 80%;
+	border-radius:opx;
 }
 #pass {
     margin-bottom: 1.5%;
@@ -81,4 +82,5 @@ body, html {
     border: none;
     padding-top: 1.5%;
     letter-spacing: 0.3em;
+	border-radius: 0px;
 }
