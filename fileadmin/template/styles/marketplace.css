@@ -585,6 +585,8 @@ select[size] {
 #sidemenuleft ul li.cat3:hover {
 	transition: ease linear -0.3s;
 	background: rgba(162, 68, 173, .5);
+	border-right: solid 2px rgba(255,255,255,0.5);
+	border-left: solid 2px rgba(255,255,255,0.5);
 
 
 }
