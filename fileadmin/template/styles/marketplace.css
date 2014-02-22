@@ -135,6 +135,36 @@ ul {
 	margin-left:10px;
 }
 
+#menueleftsettings {
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+
+#menueleftsettings a:hover  {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#menueleftlogout a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logopinnwand a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logomarketplace a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logoaccountverwaltung a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logomarketplace a {
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+
 /*****************
  * Projektübersicht // Diksn
 *****************/
