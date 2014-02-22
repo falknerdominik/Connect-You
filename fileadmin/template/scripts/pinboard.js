@@ -19,29 +19,32 @@ window.onload = function () {
 
 
 
+    $("#moveback").hide();
 
-    $("#aufklappen_action").click(function () {
-		
-		alert($("#widgetmenu").css("left"));
-		var top = document.getElementById("#widgetmenu").style.left
-		alert(top);
-		
-		
-       	if ($("#widgetmenu").css("left") === "-12.8em" ) {
-			
+    $("#move").click(function () {
+
+        $("#move").hide();
+        $("#moveback").show();
 			$("#widgetmenu").animate({
             	left: "0em"
        		}, 300);
-		}
-		
-		else {
-			$("#widgetmenu").animate({
-            	left: "-12.8em"
-        	}, 300);
-			
-			
-		}
-			
+    });
+    $("#moveback").click(function () {
+
+        $("#move").show();
+        $("#moveback").hide();
+        $("#widgetmenu").animate({
+            left: "-12.8em"
+        }, 300);
+    });
+
+    $("#content").click(function () {
+
+        $("#move").show();
+        $("#moveback").hide();
+        $("#widgetmenu").animate({
+            left: "-12.8em"
+        }, 300);
     });
 	
 	
@@ -82,7 +85,7 @@ window.onload = function () {
     });
 
     $(".panel").click(function(){
-        alert("HUI");
+        
     });
 
 }
