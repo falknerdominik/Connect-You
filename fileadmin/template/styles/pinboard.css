@@ -462,6 +462,10 @@ ul {
     background: rgba(162, 68, 173, .5);
 }
 
+#document:hover, #todo:hover, #milestone:hover {
+    background: rgba(162, 68, 173, .5);
+}
+
 
 
 
