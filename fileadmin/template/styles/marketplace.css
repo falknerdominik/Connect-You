@@ -141,23 +141,23 @@ ul {
 }
 
 #menueleftsettings a:hover  {
-    background: rgba(41, 128, 185, q); !important;
+    background: rgba(41, 128, 185, 1); !important;
 }
 
 #menueleftlogout a:hover {
-    background: rgba(41, 128, 185, q); !important;
+    background: rgba(41, 128, 185, 1); !important;
 }
 
 #logopinnwand a:hover {
-    background: rgba(41, 128, 185, q); !important;
+    background: rgba(41, 128, 185, 1); !important;
 }
 
 #logomarketplace a:hover {
-    background: rgba(41, 128, 185, q); !important;
+    background: rgba(41, 128, 185, 1); !important;
 }
 
 #logoaccountverwaltung a:hover {
-    background: rgba(41, 128, 185, q); !important;
+    background: rgba(41, 128, 185, 1); !important;
 }
 
 #logomarketplace a {
