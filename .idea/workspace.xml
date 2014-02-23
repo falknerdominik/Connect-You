@@ -23,37 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="8" selection-start="958" selection-end="958" vertical-scroll-proportion="-0.0" vertical-offset="465" max-vertical-offset="1845">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marketplace.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="1663" selection-end="1793" vertical-scroll-proportion="0.7352941" vertical-offset="550" max-vertical-offset="1230">
+            <state line="70" column="0" selection-start="1663" selection-end="1793" vertical-scroll-proportion="-20.833334" vertical-offset="550" max-vertical-offset="1230">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pinboard.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
+      <file leaf-file-name="marketplace.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="31" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="1440">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pinboard.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="13" selection-start="1904" selection-end="1904" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="7185">
+            <state line="408" column="0" selection-start="6458" selection-end="7041" vertical-scroll-proportion="0.110456556" vertical-offset="6045" max-vertical-offset="9285">
               <folding />
             </state>
           </provider>
@@ -710,27 +692,6 @@
         <state line="63" column="22" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1700" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="13" selection-start="1904" selection-end="1904" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="7185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="31" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="1440">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="30" selection-start="840" selection-end="884" vertical-scroll-proportion="0.4852941" vertical-offset="0" max-vertical-offset="680">
@@ -745,6 +706,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="13" selection-start="1904" selection-end="1904" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="7185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="31" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.24023154" vertical-offset="749" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="8" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1845">
@@ -754,7 +729,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1663" selection-end="1793" vertical-scroll-proportion="0.7352941" vertical-offset="550" max-vertical-offset="1230">
+        <state line="70" column="0" selection-start="1663" selection-end="1793" vertical-scroll-proportion="-20.833334" vertical-offset="550" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="408" column="0" selection-start="6458" selection-end="7041" vertical-scroll-proportion="0.110456556" vertical-offset="6045" max-vertical-offset="9285">
           <folding />
         </state>
       </provider>
