@@ -26,7 +26,7 @@
       <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="36" selection-start="1345" selection-end="1362" vertical-scroll-proportion="0.61764705" vertical-offset="330" max-vertical-offset="1245">
+            <state line="31" column="41" selection-start="885" selection-end="894" vertical-scroll-proportion="0.4632353" vertical-offset="150" max-vertical-offset="1245">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="marketplace.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="585" column="0" selection-start="9284" selection-end="9772" vertical-scroll-proportion="-7.96" vertical-offset="8576" max-vertical-offset="9255">
+            <state line="159" column="4" selection-start="2432" selection-end="2477" vertical-scroll-proportion="-17.44" vertical-offset="1949" max-vertical-offset="9255">
               <folding />
             </state>
           </provider>
@@ -796,21 +796,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="585" column="0" selection-start="9284" selection-end="9772" vertical-scroll-proportion="-7.96" vertical-offset="8576" max-vertical-offset="9255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/images/MP/MP_header_v6.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="4" selection-start="2432" selection-end="2477" vertical-scroll-proportion="-17.44" vertical-offset="1949" max-vertical-offset="9255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="36" selection-start="1345" selection-end="1362" vertical-scroll-proportion="0.61764705" vertical-offset="330" max-vertical-offset="1245">
+        <state line="31" column="41" selection-start="885" selection-end="894" vertical-scroll-proportion="0.4632353" vertical-offset="150" max-vertical-offset="1245">
           <folding />
         </state>
       </provider>
