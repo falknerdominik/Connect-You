@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/styles/marketplace.css" afterPath="$PROJECT_DIR$/fileadmin/template/styles/marketplace.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="marketplace.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="1663" selection-end="1793" vertical-scroll-proportion="-20.833334" vertical-offset="550" max-vertical-offset="1230">
+            <state line="6" column="9" selection-start="181" selection-end="231" vertical-scroll-proportion="0.13235295" vertical-offset="0" max-vertical-offset="1230">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="marketplace.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marketplace.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="585" column="0" selection-start="9284" selection-end="9772" vertical-scroll-proportion="0.29307806" vertical-offset="8576" max-vertical-offset="9255">
+            <state line="585" column="0" selection-start="9284" selection-end="9772" vertical-scroll-proportion="-7.96" vertical-offset="8576" max-vertical-offset="9255">
               <folding />
             </state>
           </provider>
@@ -772,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1663" selection-end="1793" vertical-scroll-proportion="-20.833334" vertical-offset="550" max-vertical-offset="1230">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/images/Background/BG2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -786,7 +779,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="585" column="0" selection-start="9284" selection-end="9772" vertical-scroll-proportion="0.29307806" vertical-offset="8576" max-vertical-offset="9255">
+        <state line="585" column="0" selection-start="9284" selection-end="9772" vertical-scroll-proportion="-7.96" vertical-offset="8576" max-vertical-offset="9255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="181" selection-end="231" vertical-scroll-proportion="0.13235295" vertical-offset="0" max-vertical-offset="1230">
           <folding />
         </state>
       </provider>
