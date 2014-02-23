@@ -50,10 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marketplace.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.22058824" vertical-offset="150" max-vertical-offset="1230">
+            <state line="68" column="10" selection-start="1660" selection-end="1660" vertical-scroll-proportion="-19.583334" vertical-offset="550" max-vertical-offset="1230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9285">
               <folding />
             </state>
           </provider>
@@ -683,13 +692,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="38" selection-start="1461" selection-end="1473" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1037">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/Project/Properties.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704" />
@@ -772,7 +774,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.22058824" vertical-offset="150" max-vertical-offset="1230">
+        <state line="68" column="10" selection-start="1660" selection-end="1660" vertical-scroll-proportion="-19.583334" vertical-offset="550" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9285">
           <folding />
         </state>
       </provider>
