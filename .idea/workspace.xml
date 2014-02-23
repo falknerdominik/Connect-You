@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fileadmin/template/styles/marketplace.css" afterPath="$PROJECT_DIR$/fileadmin/template/styles/marketplace.css" />
+    </list>
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +37,7 @@
       <file leaf-file-name="marketplace.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="0" selection-start="1510" selection-end="1535" vertical-scroll-proportion="0.48600882" vertical-offset="1170" max-vertical-offset="9285">
+            <state line="201" column="0" selection-start="3076" selection-end="3170" vertical-scroll-proportion="0.3976436" vertical-offset="2745" max-vertical-offset="9255">
               <folding />
             </state>
           </provider>
@@ -784,7 +786,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="0" selection-start="1510" selection-end="1535" vertical-scroll-proportion="0.48600882" vertical-offset="1170" max-vertical-offset="9285">
+        <state line="201" column="0" selection-start="3076" selection-end="3170" vertical-scroll-proportion="0.3976436" vertical-offset="2745" max-vertical-offset="9255">
           <folding />
         </state>
       </provider>
