@@ -29,7 +29,7 @@
       <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="40" selection-start="297" selection-end="375" vertical-scroll-proportion="0.22058824" vertical-offset="15" max-vertical-offset="1245">
+            <state line="14" column="0" selection-start="420" selection-end="568" vertical-scroll-proportion="0.2867647" vertical-offset="15" max-vertical-offset="1245">
               <folding />
             </state>
           </provider>
@@ -724,11 +724,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Partials/FormErrors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/ext_localconf.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.25570777" vertical-offset="168" max-vertical-offset="825" />
@@ -811,9 +806,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/images/MP/MP_header_v6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="297" selection-end="375" vertical-scroll-proportion="0.22058824" vertical-offset="15" max-vertical-offset="1245">
+        <state line="14" column="0" selection-start="420" selection-end="568" vertical-scroll-proportion="0.2867647" vertical-offset="15" max-vertical-offset="1245">
           <folding />
         </state>
       </provider>
