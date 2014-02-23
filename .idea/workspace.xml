@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ac9d07d3-af94-4c54-9272-a83c133437b0" name="Default" comment="" />
     <ignored path="Connect-You.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="pinboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="8" selection-start="730" selection-end="730" vertical-scroll-proportion="-8.958333" vertical-offset="250" max-vertical-offset="1080">
+            <state line="31" column="8" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1845">
               <folding />
             </state>
           </provider>
@@ -37,16 +35,25 @@
       <file leaf-file-name="New.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="71" selection-start="844" selection-end="844" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="510">
+            <state line="26" column="71" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="List.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="30" selection-start="840" selection-end="884" vertical-scroll-proportion="0.4852941" vertical-offset="0" max-vertical-offset="680">
+            <state line="22" column="30" selection-start="840" selection-end="884" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.22058824" vertical-offset="150" max-vertical-offset="1230">
               <folding />
             </state>
           </provider>
@@ -55,7 +62,7 @@
       <file leaf-file-name="pinboard.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="31" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="1065">
+            <state line="61" column="31" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
@@ -64,7 +71,7 @@
       <file leaf-file-name="pinboard.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="4890">
+            <state line="135" column="13" selection-start="1904" selection-end="1904" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="7185">
               <folding />
             </state>
           </provider>
@@ -676,13 +683,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="4890">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="38" selection-start="1461" selection-end="1473" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1037">
@@ -737,35 +737,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/pinboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="14" selection-start="2192" selection-end="2192" vertical-scroll-proportion="0.0" vertical-offset="2157" max-vertical-offset="5542">
+        <state line="135" column="13" selection-start="1904" selection-end="1904" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="7185">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="31" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="1065">
+        <state line="61" column="31" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/pinboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="8" selection-start="730" selection-end="730" vertical-scroll-proportion="-8.958333" vertical-offset="250" max-vertical-offset="1080">
+        <state line="31" column="8" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1845">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/New.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="71" selection-start="844" selection-end="844" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="510">
+        <state line="26" column="71" selection-start="844" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="30" selection-start="840" selection-end="884" vertical-scroll-proportion="0.4852941" vertical-offset="0" max-vertical-offset="680">
+        <state line="22" column="30" selection-start="840" selection-end="884" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.22058824" vertical-offset="150" max-vertical-offset="1230">
           <folding />
         </state>
       </provider>
