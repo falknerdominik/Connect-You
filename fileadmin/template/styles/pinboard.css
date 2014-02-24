@@ -220,7 +220,7 @@ ul {
 	
 }
 #aufklappen i {
-	color:#8e44ad;
+	color:#8e44ad;;
     float: right;
     margin-left: 1em;
     cursor: pointer;
@@ -246,7 +246,7 @@ ul {
 	margin:0px;
 }
 #widgetmenu ul {
-	color:#8e44ad;
+	color:8e44ad;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -255,8 +255,8 @@ ul {
     width: 100%;
 	margin-top:1em;
     
-	border: 1px solid 8e44ad;
-	background-color: rgba(255, 255, 255, 0.2);
+	border: 1px solid rgba(80, 80, 80, 0.8);
+	background-color: rgba(80, 80, 80, 0.2);
 
     height: 11em;
     cursor: pointer;
