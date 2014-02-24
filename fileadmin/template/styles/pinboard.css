@@ -233,7 +233,7 @@ ul {
 	text-align:center;
 	padding-top:0.2em;
 	
-	background-color:rgba(80, 80, 80, 0.8);
+	border: solid 1px rgba(80, 80, 80, 0.8);
 	
 	
 }
