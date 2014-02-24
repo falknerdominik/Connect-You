@@ -1,0 +1,621 @@
+/*****************
+	* CSS-Dateiname:  marketplace.css
+
+	* Für welche Bereiche:  Marketplace
+
+	* Notiz:
+
+	* Author(en): Dorfer Valentin, Dikany Lucas, Falkner Dominik, Peneder Martin
+
+	* Version: 28.01.2014
+*****************/
+
+/*****************
+ * Allgemein
+*****************/
+@import url('http://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*****************
+ * Top-Header//Diksn
+*****************/
+
+#mumu {
+	margin: 0;
+	padding-top: 0.4%;
+	position:relative;
+    width:100%;
+	height: 3em;
+	overflow:visible;
+	background-image: url(../images/Background/tweed.png);
+	background-repeat:repeat;
+}
+
+#leiste {
+	position: absolute;
+	z-index: 3;
+	width: 100%;
+	height: 6px;
+	margin-top: 4px;
+	background-color: #226999;
+}
+
+#titlefield {
+	position: relative;
+	margin-top: 4px;
+	/*
+	margin-left: -53%;
+	z-index:3;
+	*/
+	
+	
+	
+}
+
+#blind_fleck {
+	position: relative;
+	width: 772px;
+	height: 6px;
+	margin: 0 auto;
+	background-image: url(../images/Background/tweed.png);
+	background-repeat:repeat;
+}
+
+#wrapper_header {
+	position:absolute;
+	width:100%;
+	z-index:3;
+	text-align:center;
+}
+
+#wrapper_header2 {
+	position:relative;
+	width:initial;
+	margin-left: 50%;
+	z-index:3;
+}
+
+#logo {
+	font-family: 'Lato' !important;
+	position: relative;
+	margin-left: 0.3%;
+	height:100%;
+	width:auto;	
+	float: left;
+	z-index:4;
+}
+
+#logo img {
+	width:100%;
+	float:left;
+}
+
+#logo p {
+	font-family: 'Lato' !important;
+	position:relative;
+	text-align:center;
+	margin-top: 6.5%;
+	margin-left: 5px;
+	float:right;
+	font-size: 16pt;
+	font-weight: 200;
+	color:#FFF;
+}
+
+#sidemenuleft {
+	position:relative;
+	height:100%;
+	width:auto;
+	margin-right: 1%;
+	float:right;
+	text-align:center;
+	z-index:4;
+}
+
+#sidemenuleft a {
+	text-decoration:none;
+	font-size: 12pt;
+	font-weight: 100;
+	color:#FFF;
+}
+
+#acc_logout {
+	margin-left:10px;
+}
+
+#menueleftsettings {
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+#menueleftsettings a:hover  {
+    background: rgba(41, 128, 185, 1) !important;
+}
+
+#menueleftlogout a:hover {
+    background: rgba(41, 128, 185, 1) !important;
+}
+
+#logopinnwand a:hover {
+    background: rgba(41, 128, 185, 1) !important;
+}
+
+#logomarketplace a:hover {
+    background: rgba(41, 128, 185, 1) !important;
+}
+
+#logoaccountverwaltung a:hover {
+    background: rgba(41, 128, 185, 1) !important;
+}
+
+#logomarketplace a {
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+/*****************
+ * Projektübersicht // Diksn
+*****************/
+#projects {
+	overflow:scroll;
+	position:relative;
+    width: 66%;
+    margin: 0 auto;
+	margin-top: 1em;
+	border-left: 1px dotted #666666;
+	border-right: 1px dotted #666666;
+	padding-left: 0.5%;
+}
+
+#projectnavigation a img{
+	width: 20px;
+}
+
+#projectnavigation  a{
+	color: grey;
+	font-size: 15px;
+	text-decoration:none;
+	text-align:center;
+}
+
+#projectnavigation {
+	position: absolute;
+	margin-left: 20%;
+	margin-top: 4%;
+	z-index: 4;
+}
+
+
+hr {
+	border: none;
+	margin: 0 auto;
+	width:60%;
+	margin-top: 3%;
+	border-top: 1px dotted #666666; 
+}
+/***********************************
+*** PROJEKT NEU - PENEDER, Diksn
+************************************/
+#projects hr{
+	border: 1px solid;
+    border-color: #3498db !important;
+	width: 100%;
+}
+
+#projects .csc-default div {
+    background: white;
+	border: 2px solid #E0E0E0;
+	width: 30%;
+	height: 30em;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	margin-bottom: 2%;
+	padding: 1%;
+	overflow-wrap: break-word;
+	
+}
+
+#projects .csc-default div:hover {
+	border: 2px solid #3498db;
+}
+
+#projects {
+    text-align: center;
+}
+
+#list_img {
+	height: 100px;
+	margin-bottom: 10%;
+	margin-top: 6%;
+
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	background-color: #fff;
+	-webkit-box-shadow: 0 0 40px rgba(52,152,219,.4);
+	-moz-box-shadow: 0 0 40px rgba(52,152,219,.4);
+	box-shadow: 0 0 40px rgba(52,152,219,.4), x 25px 0px rgba(41, 150, 171, 1);
+}
+
+#delete {
+	opacity:0.3;
+}
+
+#delete:hover {
+	opacity:0.8;
+}
+
+#edit {
+	opacity:0.3;
+}
+
+#edit:hover {
+	opacity:0.8;
+	
+}
+
+
+
+#projects .csc-default h3 {
+	margin-top: 6%;
+	margin-bottom: 2%;
+	font-family: 'Lato';
+	font-weight: 300;
+}
+
+#projects .csc-default div h1,h5 {
+    margin: 0;
+    padding: 0;
+	font-family: 'Lato';
+	font-weight: 400;
+	font-size: 2.2em;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	color: #000;
+	white-space:normal;
+}
+
+#projects .csc-default h6 {
+	font-family: 'Lato';
+	font-size: 1.2em;
+	font-weight: 300;
+	margin-bottom: 3%;
+	color: #000;
+}
+
+#projects .csc-default div p a{
+    color: #3498db;
+    text-decoration: none;
+	position: absolute;
+	bottom: 4px;
+    width: 100%;
+	text-align: right;
+	right: 4px;
+	line-height: 1.428571429;
+}
+
+p {
+	font-size: 1em;
+	text-align: justify;
+	color: #000;
+}
+
+.csc-default:first-child{
+    margin: 0 !important;
+}
+
+.half{
+    width: 40%;
+   margin: 0 auto;
+}
+
+/*********************
+ * Detail - PENEDER, Diksn
+**********************/
+#show hr{
+	border: 1px solid;
+    border-color: #3498db !important;
+	width: 40%;
+}
+
+#show {
+    background: white !important;
+	border: 4px solid #E0E0E0 !important;
+	width: 65% !important;
+	height: 100% !important;
+	padding: 2%;
+	margin: 0 auto !important;
+}
+
+#beschreibung, #team{
+	font-size: 0.9em;
+	text-align: justify;
+	font-family: 'Lato';
+	line-height: 1.8em;
+}
+
+#show h3 {
+	margin-top: 6%;
+	margin-bottom: 2%;
+	font-family: 'Lato';
+	font-weight: 300;
+}
+
+#show h1,h5 {
+    margin: 0 !important;
+    padding: 0 !important;
+	font-family: 'Lato' !important;
+	font-weight: 300 !important;
+	font-size: 3em !important;
+}
+
+#show h6 {
+	font-family: 'Lato';
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-bottom: 3%;
+}
+
+/************************
+ * New Project - PENEDER
+*************************/
+#wrapper {
+    background: white !important;
+	border: 4px solid #E0E0E0 !important;
+	width: 45% !important;
+	height: 100% !important;
+	padding: 2%;
+	margin: 0 auto !important;
+}
+
+input[type="text"]{
+    margin-bottom: 0.5em !important;
+    width: 85% !important;
+    height: 2.5em !important;
+}
+
+label {
+	display: inline-block;
+	margin-bottom: 1.5%;
+	margin-top: 4%;
+	font-size: 1.1em;
+}
+
+textarea {
+	width: 85% !important;
+	height: 10em !important;
+	font-size: 1em;
+	line-height: 24px;
+	padding: 5px 11px;
+	text-indent: 0;
+}
+
+select[multiple],
+select[size] {
+	margin-top: 4%;
+	height: 8em;
+	width: 40%;
+}
+
+#wrapper .btn{
+    margin-top: 4% !important;
+	margin-bottom: 4% !important;
+	width: 40%;
+	margin: 0 auto;
+}
+
+/********************
+ * Footer - PENEDER, Diksn
+*********************/
+
+#footer {
+	bottom: 0;
+	position:relative;
+    width:100%;
+	height: 3em;
+	background-image: url("../images/Background/Pinnwand.png");
+	background-repeat:repeat;
+}
+
+#footer p, #footer a {
+	font-family: 'Lato';
+	color: white;
+	text-align: center;
+	margin-top:1em !important;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#impressumlink{
+	text-decoration: none !important;
+}
+
+#flow3link {
+	margin-right: 0.2% !important;
+}
+
+#footer a {
+	text-decoration: underline;
+	margin-left: 0.2% !important;
+}
+
+#footer p {
+	float: left;
+}
+
+/**********************
+ * Impressum - PENEDER
+***********************/
+#impressum {
+	font-family: 'Lato';
+    background: white;
+	border: 4px solid #E0E0E0;
+	width: 50%;
+	padding: 2%;
+	margin: 0 auto;
+}
+
+#impressum p{
+	font-size: 0.9em;
+	text-align: justify;
+	line-height: 1.8em;
+}
+
+#impressum h4 {
+	margin-top: 3%;
+	font-weight: 300;
+	margin-bottom: -1%;
+}
+
+#toph2 {
+    margin: 0;
+    padding: 0;
+	font-weight: 400;
+	font-size: 2em;
+	margin-top: 1% !important;
+	color: #3498db;
+}
+
+#impressum h2 {
+    margin: 0;
+    padding: 0;
+	font-weight: 400;
+	font-size: 2em;
+	margin-top: 3%;
+	color: #3498db;
+}
+
+#impressum ul {
+	margin-left: 5%;
+	font-size: 0.9em;
+	text-align: justify;
+	line-height: 1.8em;
+}
+
+/*****************
+ * Absolute
+******************/
+#addProject{
+	width: 3% !important;
+	height: 3% !important;
+	border: 0px solid !important;
+    font-size: 40px;
+    color: black;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    background: transparent !important;
+}
+
+
+#projects .csc-default div #delete{
+    display: none;
+}
+
+#projects .csc-default div:hover #delete{
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#projects .csc-default div #edit{
+    display: none;
+}
+
+#projects .csc-default div:hover #edit{
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+
+/*****************
+ * MENÜ - PENEDER, Diksn
+******************/
+
+
+#logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
+    visibility: visible;
+}
+
+#logo ul li ul{
+	margin-top: 2.6em;
+    visibility: hidden;
+    position: absolute;
+    padding:0px;
+}
+
+#sidemenuleft ul li ul{
+	text-align: left;
+    visibility: hidden;
+    position: absolute;
+    padding-right:0px;
+}
+
+#logo ul li ul li, #sidemenuleft ul li ul li{
+    float: none;
+}
+
+#logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
+    color: white;
+}
+
+#logo ul li, #sidemenuleft ul li{
+	list-style: none;
+    float:left;
+}
+
+#sidemenuleft ul li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+	padding: 0.5em 1.8em 0.4em 1em;
+	}
+
+#logo ul li a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 0.8em 0.9em 0.8em 1em;
+}
+
+#logo ul li.cat1{
+	width: 50%;
+}
+
+#logo ul li.cat1:hover {
+	transition: ease linear -0.3s;
+}
+
+#logo ul li.cat1:hover > ul li a {
+    background: rgba(41, 128, 185, .5);
+}
+
+#logo ul li.cat1:hover > a{
+    background: rgba(41, 128, 185, .5);
+}
+
+#logo ul li.cat1:hover >  ul li {
+    background: rgba(41, 128, 185, .5);
+}
+
+#sidemenuleft ul li.cat3:hover > ul li a {
+    background: rgba(41, 128, 185, .5);
+}
+
+#sidemenuleft ul li.cat3:hover > ul li {
+    background: rgba(41, 128, 185, .5);
+}
