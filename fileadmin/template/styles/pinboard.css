@@ -174,10 +174,6 @@ ul {
 /*****************
  * Widgetmenu
 *****************/
-#container_widgetmenu {
-	position: relative;
-	
-}
 
 #leiste_vert {
 	position:absolute;
@@ -196,6 +192,7 @@ ul {
     left: -12.8em;
 	z-index: 2;
 	margin-top: 2.5em;
+	float:left;
 
 	
 	
