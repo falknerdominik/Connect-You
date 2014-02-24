@@ -181,7 +181,7 @@ ul {
 	height:100%;
 	width: 0.4%;
 	background-image: url(../images/Background/debut_light.png);
-	border-right: rgb(52, 73, 94, 0.8);
+	border-right: rgba(52, 73, 94, 0.8);
 	border-right-style:solid;
 	border-right-width: 4px;
 	z-index:3;
