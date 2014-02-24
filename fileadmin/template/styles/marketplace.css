@@ -534,7 +534,6 @@ select[size] {
 }
 
 #projects .csc-default div:hover #edit{
-	opacity:0.8;
     display: block;
     position: absolute;
     top: 10px;
