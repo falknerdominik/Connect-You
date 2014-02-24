@@ -34,7 +34,7 @@ window.onload = function () {
         $("#move").show();
         $("#moveback").hide();
         $("#widgetmenu").animate({
-            left: "-12.8em"
+            left: "-12.9em"
         }, 300);
     });
 
