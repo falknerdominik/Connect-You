@@ -1,0 +1,487 @@
+/*****************
+	* CSS-Dateiname:  login.css
+
+	* Für welche Bereiche:  Pinnwand (Menu, Left-Menu-Icons)!
+
+	* Notiz:
+
+	* Author(en): Dorfer Valentin
+
+	* Version: 07.10.2013
+*****************/
+
+/*****************
+ * Allgemein
+*****************/
+html {
+    
+    margin: 0;
+    padding: 0;
+    
+	font-family: 'Lato';
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
+	
+}
+body{
+	height:100%;
+    margin: 0;
+    padding: 0;
+    
+	font-family: 'Lato';
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*****************
+ * Top-Header//Diksn
+*****************/
+
+#mumu {
+	margin: 0;
+	padding-top: 0.4%;
+	position:relative;
+    width:100%;
+	height: 3em;
+	overflow:visible;
+	background-image: url(../images/Background/tweed.png);
+	background-repeat:repeat;
+}
+
+#leiste {
+	position: absolute;
+	z-index: 3;
+	width: 100%;
+	height: 6px;
+	margin-top: 4px;
+	background-color: #7d3c99;
+}
+
+#titlefield {
+	position: relative;
+	margin-top: 4px;
+	/*
+	margin-left: -53%;
+	z-index:3;
+	*/
+	
+	
+	
+}
+
+#blind_fleck {
+	position: relative;
+	width: 772px;
+	height: 6px;
+	margin: 0 auto;
+	background-image: url(../images/Background/tweed.png);
+	background-repeat:repeat;
+}
+
+#wrapper_header {
+	position:absolute;
+	width:100%;
+	z-index:3;
+	text-align:center;
+}
+
+#wrapper_header2 {
+	position:relative;
+	width:initial;
+	margin-left: 50%;
+	z-index:3;
+}
+
+#logo {
+	font-family: 'Lato' !important;
+	position: relative;
+	margin-left: 0.3%;
+	height:100%;
+	width:auto;	
+	float: left;
+	z-index:4;
+	opacity: 1;
+}
+
+#logo img {
+	width:100%;
+	float:left;
+}
+
+#logo p {
+	font-family: 'Lato' !important;
+	position:relative;
+	text-align:center;
+	margin-top: 6.5%;
+	margin-left: 5px;
+	float:right;
+	font-size: 16pt;
+	font-weight: 200;
+	color:#FFF;
+}
+
+#sidemenuleft {
+	position:relative;
+	height:100%;
+	width:auto;
+	margin-right: 1%;
+	float:right;
+	text-align:center;
+	z-index:4;
+}
+
+#sidemenuleft a {
+	text-decoration:none;
+	font-size: 12pt;
+	font-weight: 100;
+	color:#FFF;
+}
+	
+#acc_logout {
+	margin-left:10px;
+}
+
+#menueleftsettings {
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+
+#menueleftsettings a:hover  {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#menueleftlogout a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logopinnwand a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logomarketplace a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logoaccountverwaltung a:hover {
+	background: rgba(162, 68, 173, 1) !important;
+}
+
+#logomarketplace a {
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+
+#logopinnwand a {
+	border-top: 1px solid lightgrey;
+}
+
+/*****************
+ * Widgetmenu
+*****************/
+#leiste_vert {
+	position:absolute;
+	height:100%;
+	width: 0.4%;
+	background-image: url(../images/Background/debut_light.png);
+	border-right:#b1b3b4;
+	border-right-style:solid;
+	border-right-width: 4px;
+	z-index:3;
+}
+
+#widgetmenu {
+    position: absolute;
+    height: 100%;
+    width: 13em;
+    left: -12.8em;
+	z-index: 2;
+	margin-top: 2.5em;
+
+	
+	
+}
+#aufklappen_action {
+	position:relative;
+	
+	height: 100%;
+    width: 1.5em;
+    padding-right: 0.3em;
+	margin-left: 6.3em;
+	margin-top: -1.5em;
+
+	background-color:#b1b3b4;
+	color:#FFF;
+    font-size: 22pt;
+	text-align: center;
+	
+	cursor:pointer;
+	
+		
+	
+	
+	
+}
+#aufklappen i {
+	color:#FFF;
+    float: right;
+    margin-left: 1em;
+    cursor: pointer;
+}
+
+#aufklappen_leiste{
+	position:relative;
+	
+	height: 2.9em;
+    width: 100%;
+	text-align:center;
+	
+	background-color:#b1b3b4;
+	
+	
+}
+
+#aufklappen_leiste p {
+	position:relative;
+	color:#FFF;
+	text-align:center;
+	font-size:18pt;
+	font-weight:200;
+}
+#widgetmenu ul {
+	color:#b1b3b4;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#widgetmenu ul li {
+    width: 100%;
+	margin-top:1em;
+    
+	border: 1px solid #b1b3b4;
+    height: 11em;
+    cursor: pointer;
+}
+
+#widgetmenu ul li p {
+	position:relative;
+	font-size: 18pt;
+	text-align:center;
+	margin-right: auto;
+	margin-left:auto;
+	margin-top: 0.1em;
+	
+}
+#widgetmenu ul li img {
+	display:block;
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.8em;
+	
+}
+
+
+
+
+/*****************
+ * Menü-Oben Vale 
+*****************
+#top {
+    height: 8%;
+    width: 100%;
+    background-image: url("../images/Background/Pinnwand.png");
+    background-repeat:repeat;
+    box-shadow: 0px 3px 7px black;
+}
+#top h1 {
+    position: absolute;
+    margin: 0 auto;
+    left: 41%;
+    margin-top: 0.2em;
+    right: 41%;
+    width: 18%;
+    text-align: center;
+    color: white;
+    font-size: 28pt;
+    padding-top: 0.2em;
+    height: 1.5em;
+    background-color: #9b59b6;
+
+    -webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    -moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    font-family: "Calibri";
+}
+#top #strich {
+    background-color: #9b59b6;
+    width: 100%;
+    height: 3px;
+    margin-top: 0.4em;
+    position: absolute;
+    -webkit-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    -moz-box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+    box-shadow: 3px 4px 7px rgba(0,0,0,.7);
+}
+#top a {
+    float: left;
+    color: #EBEEF1;
+}
+#top a:visited {
+    color: #EBEEF1;
+}
+.trennlinie {
+    float: left;
+    text-align: center;
+    width: 1em;
+}
+#topleft{
+    position: absolute;
+    margin-top: 1.3em;
+    margin-left: 4em;
+    font-size: 12pt;
+    letter-spacing: 1px;
+    color: #EBEEF1;
+}
+#topright {
+    margin-top: 1.8em;
+    font-size: 10pt;t
+    letter-spacing: 1px;
+    position: absolute;
+    float: right;
+    color: #EBEEF1;
+    right: 1em;
+    width: 18em;
+}
+#hilfe {
+    width: 5em;
+    text-align: left;
+}
+#logout {
+    width: 5em;
+    float: right;
+    margin-top: -1.2em;
+}
+#logo {
+    float: left;
+}
+
+*/
+
+/*****************
+ * Content
+*****************/
+#content {
+    float: left;
+    width: 100%;
+    margin-top: 3.9%;
+    height: 25em;
+    }
+
+
+/*****************
+ * WIDGETS
+*****************/
+
+.remove {
+    float: right;
+    cursor: pointer;
+}
+
+
+/*********
+* Aboslutes zeiglad und so
+**********/
+
+#logo ul li:hover > ul, #sidemenuleft ul li:hover > ul{
+    visibility: visible;
+}
+
+#logo ul li ul{
+	margin-top: 2.5em;
+    visibility: hidden;
+    position: absolute;
+    padding:0px;
+}
+
+#sidemenuleft ul li ul{
+	text-align: left;
+    visibility: hidden;
+    position: absolute;
+    padding-right:0px;
+}
+
+#logo ul li ul li, #sidemenuleft ul li ul li{
+    float: none;
+}
+
+#logo ul li ul li a:hover, #sidemenuleft ul li ul li a:hover{
+    color: white;
+}
+
+#logo ul li, #sidemenuleft ul li{
+	list-style: none;
+    float:left;
+}
+
+#sidemenuleft ul li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+	/*padding: 0.5em 1.8em 0.44em 1em;*/
+	padding: 2% 15% 8% 20%;
+}
+
+#logo ul li a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 0.8em 0.9em 0.8em 1em;
+}
+
+#logo ul li.cat1{
+	width: 50%;
+}
+
+#logo ul li.cat1:hover {
+	transition: ease linear -0.3s;
+
+}
+
+#logo ul li.cat1:hover > ul li a {
+
+    background: rgba(162, 68, 173, .5);
+}
+
+#logo ul li.cat1:hover > a{
+    background: rgba(162, 68, 173, .5);
+
+}
+
+#logo ul li.cat1:hover >  ul li {
+    background: rgba(162, 68, 173, .5);
+	
+}
+
+#sidemenuleft ul li.cat3:hover > ul li a {
+    background: rgba(162, 68, 173, .5);
+}
+
+#sidemenuleft ul li.cat3:hover > ul li {
+    background: rgba(162, 68, 173, .5);
+}
+
+#document:hover, #todo:hover, #milestone:hover {
+    background: rgba(162, 68, 173, .2);
+}
+
+
+
+
+
+
