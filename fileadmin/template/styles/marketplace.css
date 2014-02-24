@@ -557,7 +557,7 @@ select[size] {
 #projects .csc-default div:hover #archive{
     display: block;
     position: absolute;
-    top: 3em;
+    top: 3.3em;
     right: 0.5em;
 }
 
