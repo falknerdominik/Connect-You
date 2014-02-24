@@ -13,7 +13,7 @@
 /*****************
  * Allgemein
 *****************/
-body, html {
+html {
     
     margin: 0;
     padding: 0;
@@ -23,8 +23,15 @@ body, html {
 	background-repeat:repeat;
 	
 }
-html {
+body{
 	height:100%;
+    margin: 0;
+    padding: 0;
+    
+	font-family: 'Lato';
+	background-image:url(../images/Background/debut_light.png);
+	background-repeat:repeat;
+
 }
 
 ul {
