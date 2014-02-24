@@ -248,12 +248,12 @@ hr {
 	box-shadow: 0 0 40px rgba(52,152,219,.4), x 25px 0px rgba(41, 150, 171, 1);
 }
 
-#options {
+#edit {
 	opacity:0.3;
 	width:15px;
 }
 
-#options:hover {
+#edit:hover {
 	opacity:0.8;
 }
 
