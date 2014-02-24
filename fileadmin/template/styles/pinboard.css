@@ -206,13 +206,13 @@ ul {
 	margin-top: -1.1em;
 
 	border: solid 1px #8e44ad;
-	background-color: rgba(255, 255, 255, 0.6);
+	background-color: rgba(255, 255, 255, 0.5);
     font-size: 22pt;
 	text-align: center;
 	
 	cursor:pointer;
 	
-	color: white;
+	color: #8e44ad;
 	
 		
 	
@@ -228,7 +228,7 @@ ul {
 
 #aufklappen_leiste{
 	position:relative;
-	background-color: rgba(255, 255, 255, 0.6);
+	background-color: rgba(255, 255, 255, 0.5);
 	height:2.3em;
     width: 100%;
 	text-align:center;
@@ -255,8 +255,8 @@ ul {
     width: 100%;
 	margin-top:1em;
     
-	border: 1px solid rgba(80, 80, 80, 0.8);
-	background-color: rgba(80, 80, 80, 0.2);
+	border: 1px solid #8e44ad;
+	background-color: rgba(255, 255, 255, 0.5);
 
     height: 11em;
     cursor: pointer;
