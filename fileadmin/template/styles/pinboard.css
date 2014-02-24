@@ -199,10 +199,6 @@ ul {
 	
 }
 
-#clearer:after {
-	overflow:hidden;
-}
-
 
 #aufklappen_action {
 	position:relative;
