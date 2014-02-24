@@ -169,7 +169,7 @@ ul {
  * Projektübersicht // Diksn
 *****************/
 #projects {
-	overflow:scroll;
+	overflow:hidden;
 	position:relative;
     width: 66%;
     margin: 0 auto;
