@@ -244,9 +244,6 @@ hr {
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	background-color: #fff;
-	-webkit-box-shadow: 0 0 10px rgba(52,152,219,.4);
-	-moz-box-shadow: 0 0 10px rgba(52,152,219,.4);
-	box-shadow: 0 0 10px rgba(52,152,219,.4), x 25px 0px rgba(41, 150, 171, 1);
 }
 
 #delete {
