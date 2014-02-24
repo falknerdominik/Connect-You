@@ -51,7 +51,7 @@ ul {
 	width: 100%;
 	height: 6px;
 	margin-top: 4px;
-	background-color: #505050;
+	background-color: #7d3c99;
 }
 
 #titlefield {
@@ -181,7 +181,7 @@ ul {
 	height:100%;
 	width: 0.4%;
 	background-image: url(../images/Background/debut_light.png);
-	border-right:#b1b3b4;
+	border-right:#505050;
 	border-right-style:solid;
 	border-right-width: 4px;
 	z-index:3;
