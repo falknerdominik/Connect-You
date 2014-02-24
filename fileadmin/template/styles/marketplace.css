@@ -256,6 +256,15 @@ hr {
 	opacity:0.8;
 }
 
+#edit {
+	opacity:0.3;
+}
+
+#edit:hover {
+	opacity:0.8;
+	
+}
+
 
 
 #projects .csc-default h3 {
@@ -525,9 +534,10 @@ select[size] {
 }
 
 #projects .csc-default div:hover #edit{
+	opacity:0.8;
     display: block;
     position: absolute;
-    top: 5px;
+    top: 10px;
     left: 10px;
 }
 
