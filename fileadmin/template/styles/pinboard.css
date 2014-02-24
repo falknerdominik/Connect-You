@@ -258,6 +258,8 @@ ul {
 	margin-top:1em;
     
 	border: 1px solid rgba(80, 80, 80, 0.8);
+	background-color: rgba(80, 80, 80, 0.2);
+
     height: 11em;
     cursor: pointer;
 }
