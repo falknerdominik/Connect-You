@@ -197,6 +197,13 @@ ul {
 	
 	
 }
+
+#widgetmenu:after {
+    clear: both;
+
+	
+	
+}
 #aufklappen_action {
 	position:relative;
 	
