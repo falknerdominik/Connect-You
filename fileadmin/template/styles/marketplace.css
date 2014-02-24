@@ -266,6 +266,15 @@ hr {
 	
 }
 
+#archive {
+	opacity:0.3;
+}
+
+#archive:hover {
+	opacity:0.8;
+}
+	
+
 
 
 #projects .csc-default h3 {
