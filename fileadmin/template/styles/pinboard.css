@@ -424,7 +424,8 @@ ul {
     text-decoration: none;
     display: block;
     color: white;
-	padding: 0.5em 1.8em 0.44em 1em;
+	/*padding: 0.5em 1.8em 0.44em 1em;*/
+	padding: 3% 1.8% 0.45% 1%;
 }
 
 #logo ul li a {
