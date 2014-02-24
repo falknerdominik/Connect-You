@@ -199,8 +199,7 @@ ul {
 }
 
 #clearer:after {
-	content: " ";
-	clear:both;
+	overflow:hidden;
 }
 
 
