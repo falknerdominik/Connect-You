@@ -181,7 +181,7 @@ ul {
 	height:100%;
 	width: 0.4%;
 	background-image: url(../images/Background/debut_light.png);
-	border-right: rgba(80, 80, 80, 0.8);
+	border-right: #8e44ad;
 	border-right-style:solid;
 	border-right-width: 2px;
 	z-index:3;
@@ -194,8 +194,7 @@ ul {
 	z-index: 2;
 	margin-top: 3.5em;
 	float:left;
-
-	
+	border: solid 1px #8e44ad;	
 	
 }
 
@@ -207,8 +206,8 @@ ul {
 	margin-left: 6.3em;
 	margin-top: -1.1em;
 
-	border: solid 1px rgba(80, 80, 80, 0.8);
-	background-color: rgba(80, 80, 80, 0.2);
+	border: solid 1px #8e44ad;
+	background-color: rgba(255, 255, 255, 0.6);
     font-size: 22pt;
 	text-align: center;
 	
@@ -230,13 +229,12 @@ ul {
 
 #aufklappen_leiste{
 	position:relative;
-	background-color: rgba(80, 80, 80, 0.2);
+	background-color: rgba(255, 255, 255, 0.6);
 	height:2.3em;
     width: 100%;
 	text-align:center;
 	
-	border: solid 1px rgba(80, 80, 80, 0.8);
-	
+	border: solid 1px #8e44ad;	
 	
 }
 
