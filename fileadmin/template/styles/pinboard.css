@@ -220,7 +220,7 @@ ul {
 	
 }
 #aufklappen i {
-	color:#8e44ad;;
+	color:#8e44ad;
     float: right;
     margin-left: 1em;
     cursor: pointer;
@@ -256,7 +256,7 @@ ul {
 	margin-top:1em;
     
 	border: 1px solid 8e44ad;
-	background-color: rgba(255, 255, 255, 0.6);
+	background-color: rgba(255, 255, 255, 0.2);
 
     height: 11em;
     cursor: pointer;
@@ -470,7 +470,7 @@ ul {
 }
 
 #document:hover, #todo:hover, #milestone:hover {
-    background: rgba(255, 255, 255, .9);
+    background: rgba(255, 255, 255, .8);
 }
 
 
