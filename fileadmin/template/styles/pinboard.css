@@ -228,25 +228,25 @@ ul {
 
 #aufklappen_leiste{
 	position:relative;
-	background-color: rgba(255, 255, 255, 0.5);
+    background: rgba(162, 68, 173, .5);
 	height:2.3em;
     width: 100%;
 	text-align:center;
 	
-	border: solid 1px #8e44ad;	
+	border: solid 2px #FFF;	
 	
 }
 
 #aufklappen_leiste p {
 	position:relative;
-	color:#8e44ad;
+	color:#FFF;
 	text-align:center;
 	font-size:18pt;
 	font-weight:200;
 	margin:0px;
 }
 #widgetmenu ul {
-	color:#8e44ad;
+	color:#FFF;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -255,8 +255,8 @@ ul {
     width: 100%;
 	margin-top:1em;
     
-	border: 1px solid #8e44ad;
-	background-color: rgba(255, 255, 255, 0.5);
+	border: 2px solid #FF;
+    background: rgba(162, 68, 173, .5);
 
     height: 11em;
     cursor: pointer;
