@@ -191,7 +191,7 @@ ul {
 }
 
 #widgetmenu {
-    position: absolute;
+    position: relative;
     width: 13em;
     left: -12.8em;
 	z-index: 2;
