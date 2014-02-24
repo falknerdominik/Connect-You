@@ -198,6 +198,11 @@ ul {
 	
 }
 
+#clearer:after {
+	content: " ";
+	clear:both;
+}
+
 
 #aufklappen_action {
 	position:relative;
