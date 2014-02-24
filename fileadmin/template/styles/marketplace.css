@@ -535,7 +535,7 @@ select[size] {
 #projects .csc-default div:hover #delete{
     display: block;
     position: absolute;
-    top: 1em;
+    top: .5em;
     right: 1em;
 	width:15px;
 }
@@ -547,7 +547,7 @@ select[size] {
 #projects .csc-default div:hover #edit{
     display: block;
     position: absolute;
-    top: 1em;
+    top: 0.5em;
     left: 0.8em;
 	width:15px;
 }
