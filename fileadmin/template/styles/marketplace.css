@@ -253,6 +253,10 @@ hr {
 	width:15px;
 }
 
+#options:hover {
+	opacity:0.8;
+}
+
 #projects .csc-default div img {
 	
 }
