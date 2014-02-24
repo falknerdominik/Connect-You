@@ -206,13 +206,13 @@ ul {
 	margin-top: -1.1em;
 
 	border: solid 1px #8e44ad;
-	background-color: rgba(255, 255, 255, 0.5);
+	background: rgba(162, 68, 173, 0.8);
     font-size: 22pt;
 	text-align: center;
 	
 	cursor:pointer;
 	
-	color: #8e44ad;
+	color: #FFF;
 	
 		
 	
@@ -246,7 +246,7 @@ ul {
 	margin:0px;
 }
 #widgetmenu ul {
-	color:#FFF;
+	color:#999;
     margin: 0;
     padding: 0;
     list-style: none;
