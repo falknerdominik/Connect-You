@@ -230,10 +230,9 @@ ul {
 #aufklappen_leiste{
 	position:relative;
 	
-	height: 2.9em;
     width: 100%;
 	text-align:center;
-	
+	padding-top:0.2em;
 	
 	background-color:rgba(80, 80, 80, 0.8);
 	
