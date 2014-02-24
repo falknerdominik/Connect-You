@@ -235,6 +235,7 @@ ul {
     width: 100%;
 	text-align:center;
 	
+	
 	background-color:#505050;
 	
 	
@@ -252,7 +253,6 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
-	float:left;
 }
 #widgetmenu ul li {
     width: 100%;
