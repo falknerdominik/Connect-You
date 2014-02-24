@@ -537,7 +537,6 @@ select[size] {
     position: absolute;
     top: .5em;
     right: 0.5em;
-	width:15px;
 }
 
 #projects .csc-default div #edit{
@@ -547,9 +546,8 @@ select[size] {
 #projects .csc-default div:hover #edit{
     display: block;
     position: absolute;
-    top: 0.5em;
-    left: 0.5em;
-	width:15px;
+    top: 1em;
+    right: 0.5em;
 }
 
 #projects .csc-default div #archive{
@@ -559,9 +557,8 @@ select[size] {
 #projects .csc-default div:hover #archive{
     display: block;
     position: absolute;
-    bottom: 0.5em;
-    left: 0.5em;
-	width:15px;
+    top: 1.5em;
+    right: 0.5em;
 }
 
 
