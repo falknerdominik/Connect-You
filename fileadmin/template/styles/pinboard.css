@@ -471,7 +471,7 @@ ul {
 }
 
 #document:hover, #todo:hover, #milestone:hover {
-    background: rgba(162, 68, 173, .2);
+    background: rgba(255, 255, 255, .8);
 }
 
 
