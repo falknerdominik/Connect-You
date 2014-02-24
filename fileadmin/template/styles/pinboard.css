@@ -182,6 +182,7 @@ ul {
 	width: 0.4%;
 	background-image: url(../images/Background/debut_light.png);
 	border-right: rgba(142, 68, 173, 0.8);
+	border-right-style:solid;
 	border-right-width: 4px;
 	z-index:3;
 }
