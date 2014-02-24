@@ -268,6 +268,7 @@ ul {
 #widgetmenu ul li p {
 	position:relative;
 	font-size: 18pt;
+	font-weight:200;
 	text-align:center;
 	margin-right: auto;
 	margin-left:auto;
