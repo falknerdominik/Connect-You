@@ -371,9 +371,9 @@ ul {
  * Content
 *****************/
 #content {
-    width: 100%;
+    width: auto;
     margin-top: 3.9%;
-    height: 25em;
+    height: 100%;
     }
 
 
