@@ -209,7 +209,7 @@ ul {
 	margin-left: 6.3em;
 	margin-top: -1.5em;
 
-	background-color:#b1b3b4;
+	background-color:#505050;
 	color:#FFF;
     font-size: 22pt;
 	text-align: center;
@@ -235,7 +235,7 @@ ul {
     width: 100%;
 	text-align:center;
 	
-	background-color:#b1b3b4;
+	background-color:#505050;
 	
 	
 }
@@ -248,7 +248,7 @@ ul {
 	font-weight:200;
 }
 #widgetmenu ul {
-	color:#b1b3b4;
+	color:#505050;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -257,7 +257,7 @@ ul {
     width: 100%;
 	margin-top:1em;
     
-	border: 1px solid #b1b3b4;
+	border: 1px solid #505050;
     height: 11em;
     cursor: pointer;
 }
