@@ -603,6 +603,7 @@ select[size] {
     display: block;
     color: white;
     padding: 0.8em 0.9em 0.8em 1em;
+	float:left;
 }
 
 #logo ul li.cat1{
