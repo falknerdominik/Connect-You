@@ -132,6 +132,10 @@ ul {
 	border-bottom: 1px solid white;
 }
 
+#logopinnwand ul {
+	margin-right: 4%;
+}
+
 #menueleftsettings a:hover  {
     background: rgba(41, 128, 185, 1) !important;
 }
