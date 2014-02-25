@@ -163,8 +163,8 @@ ul {
 	width: 100%;
 }
 
-#ullogopinnwand a{
-	border-top: border-top: 1px solid white;
+#ullogopinnwand li a{
+	border-top: border-top: 1px solid white !important;
 }
 
 /*****************
