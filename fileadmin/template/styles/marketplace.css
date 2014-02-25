@@ -157,6 +157,10 @@ ul {
 	border-bottom: 1px solid white;
 }
 
+#ullogopinnwand {
+	margin-top: -2.5em !important;
+}
+
 /*****************
  * Projektübersicht // Diksn
 *****************/
