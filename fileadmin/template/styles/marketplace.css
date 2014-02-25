@@ -163,6 +163,10 @@ ul {
 	width: 100%;
 }
 
+#ullogopinnwand a.link {
+	border-top: border-top: 1px solid white;
+}
+
 /*****************
  * Projektübersicht // Diksn
 *****************/
