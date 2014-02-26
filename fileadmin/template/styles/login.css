@@ -49,6 +49,11 @@ body, html {
 	width: 100%;
 	background-image: url("../images/Background/tweed.png");
 }
+
+#login {
+	width: 50%;
+	margin: 0 auto;
+}
 #content #register {
    position: absolute;
     right: 10px;
