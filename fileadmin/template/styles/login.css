@@ -39,6 +39,10 @@ body, html {
     border-width: 2px 0px 2px 0px;
 	*/
 }
+
+#login_wrapper {
+	margin:0 auto;
+}
 #content #register {
    position: absolute;
     right: 10px;
