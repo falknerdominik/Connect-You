@@ -29,9 +29,6 @@ body, html {
 #content {
     position: relative;
     width: 100%;
-    height: 10em;
-    background: url("../images/Background/tweed.png");
-	padding-top:1em;
 	margin-top:3em;
 	/*
     box-shadow:inset 0 15px 15px -5px #000000;
@@ -40,18 +37,16 @@ body, html {
 	*/
 }
 
-#login_wrapper {
-	width: 50%;
-	margin:0 auto;
-}
+
 
 #login_bg {
 	width:100%;
+	height:115px;
 	margin: 0 auto;
 }
 
 #login_bg_wrapper{
-	width:200%;
+	width:100%;
 	background-image: url("../images/Background/tweed.png");
 }
 #content #register {
