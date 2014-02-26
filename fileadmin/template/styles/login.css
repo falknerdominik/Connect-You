@@ -49,6 +49,7 @@ body, html {
 }
 #logo {
     width: 42%;
+	margin-top:3%;
     margin: 0 auto;
 	height:auto;
 }
