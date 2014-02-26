@@ -40,12 +40,14 @@ body, html {
 
 
 #login_bg {
-	margin: 0 auto;
+	width: 686;
+	margin-left: 27%;
+	margin-top: -52;
 }
 
 #login_bg_wrapper{
-	height:115px;
-	width:100%;
+	height: 101px;
+	width: 100%;
 	background-image: url("../images/Background/tweed.png");
 }
 #content #register {
