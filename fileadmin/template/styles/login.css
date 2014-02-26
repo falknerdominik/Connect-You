@@ -41,7 +41,13 @@ body, html {
 }
 
 #login_wrapper {
+	width: 50%;
 	margin:0 auto;
+}
+
+#login_bg {
+	width:100%;
+	margin: 0 aut0;
 }
 #content #register {
    position: absolute;
