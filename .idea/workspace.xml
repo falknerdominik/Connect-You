@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marketplace.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="-0.06746627" vertical-offset="510" max-vertical-offset="1365">
+            <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="1.875" vertical-offset="510" max-vertical-offset="1365">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="marketplace.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="marketplace.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="159" column="0" selection-start="2508" selection-end="2683" vertical-scroll-proportion="0.0" vertical-offset="8405" max-vertical-offset="9675">
+            <state line="129" column="0" selection-start="1928" selection-end="2013" vertical-scroll-proportion="0.5151515" vertical-offset="1595" max-vertical-offset="9675">
               <folding />
             </state>
           </provider>
@@ -762,16 +762,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="0" selection-start="2508" selection-end="2683" vertical-scroll-proportion="0.0" vertical-offset="8405" max-vertical-offset="9675">
+        <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="1.875" vertical-offset="510" max-vertical-offset="1365">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="-0.06746627" vertical-offset="510" max-vertical-offset="1365">
+        <state line="129" column="0" selection-start="1928" selection-end="2013" vertical-scroll-proportion="0.5151515" vertical-offset="1595" max-vertical-offset="9675">
           <folding />
         </state>
       </provider>
