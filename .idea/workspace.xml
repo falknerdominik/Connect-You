@@ -23,12 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marketplace.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="29" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.62968516" vertical-offset="300" max-vertical-offset="1365">
+            <state line="48" column="29" selection-start="1445" selection-end="1445" vertical-scroll-proportion="-17.5" vertical-offset="300" max-vertical-offset="1365">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin_header.png" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/images/Admin_header.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -664,11 +671,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/images/MP/project_plus.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/images/MP/MP_header_v7.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -747,9 +749,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="29" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.62968516" vertical-offset="300" max-vertical-offset="1365">
+        <state line="48" column="29" selection-start="1445" selection-end="1445" vertical-scroll-proportion="-17.5" vertical-offset="300" max-vertical-offset="1365">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/images/Admin_header.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
