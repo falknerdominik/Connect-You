@@ -28,16 +28,16 @@
       <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="0.13493253" vertical-offset="375" max-vertical-offset="1365">
+            <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="-0.06746627" vertical-offset="510" max-vertical-offset="1365">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html">
+      <file leaf-file-name="marketplace.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="746" selection-end="1486" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="630">
+            <state line="159" column="0" selection-start="2508" selection-end="2683" vertical-scroll-proportion="0.0" vertical-offset="8405" max-vertical-offset="9675">
               <folding />
             </state>
           </provider>
@@ -585,6 +585,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Connect-You" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fileadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -666,13 +688,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="0" selection-start="2508" selection-end="2683" vertical-scroll-proportion="0.33333334" vertical-offset="2165" max-vertical-offset="9675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/images/MP/MP_Projectplaceholder.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -742,14 +757,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="746" selection-end="1486" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="630">
+        <state line="18" column="0" selection-start="746" selection-end="1486" vertical-scroll-proportion="0.3970588" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="0" selection-start="2508" selection-end="2683" vertical-scroll-proportion="0.0" vertical-offset="8405" max-vertical-offset="9675">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="0.13493253" vertical-offset="375" max-vertical-offset="1365">
+        <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="-0.06746627" vertical-offset="510" max-vertical-offset="1365">
           <folding />
         </state>
       </provider>
