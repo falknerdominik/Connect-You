@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="marketplace.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="marketplace.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="1.875" vertical-offset="510" max-vertical-offset="1365">
+            <state line="48" column="29" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.62968516" vertical-offset="300" max-vertical-offset="1365">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="marketplace.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="marketplace.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="0" selection-start="2608" selection-end="2683" vertical-scroll-proportion="-9.909091" vertical-offset="9015" max-vertical-offset="9675">
+            <state line="165" column="0" selection-start="2608" selection-end="2683" vertical-scroll-proportion="127.15909" vertical-offset="8070" max-vertical-offset="9675">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/fileadmin/template/html/pinboard.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/scripts/pinboard.js" />
         <option value="$PROJECT_DIR$/typo3conf/ext/connectyou/Resources/Private/Templates/Project/List.html" />
-        <option value="$PROJECT_DIR$/fileadmin/template/html/marketplace.html" />
         <option value="$PROJECT_DIR$/fileadmin/template/styles/marketplace.css" />
+        <option value="$PROJECT_DIR$/fileadmin/template/html/marketplace.html" />
       </list>
     </option>
   </component>
@@ -760,16 +760,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="75" selection-start="895" selection-end="919" vertical-scroll-proportion="1.875" vertical-offset="510" max-vertical-offset="1365">
+        <state line="165" column="0" selection-start="2608" selection-end="2683" vertical-scroll-proportion="127.15909" vertical-offset="8070" max-vertical-offset="9675">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileadmin/template/styles/marketplace.css">
+    <entry file="file://$PROJECT_DIR$/fileadmin/template/html/marketplace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="0" selection-start="2608" selection-end="2683" vertical-scroll-proportion="-9.909091" vertical-offset="9015" max-vertical-offset="9675">
+        <state line="48" column="29" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.62968516" vertical-offset="300" max-vertical-offset="1365">
           <folding />
         </state>
       </provider>
